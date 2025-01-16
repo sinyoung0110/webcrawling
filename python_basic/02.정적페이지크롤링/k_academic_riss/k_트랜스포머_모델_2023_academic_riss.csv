@@ -1,0 +1,1129 @@
+keyword,count
+Transformer,44
+딥러닝,29
+트랜스포머,21
+Deep Learning,20
+Deep learning,17
+transformer,16
+BERT,15
+deep learning,10
+자연어 처리,9
+Swin Transformer,8
+ChatGPT,8
+Artificial intelligence,8
+Vision Transformer,7
+Natural Language Processing,7
+.,6
+natural language processing,6
+인공지능,5
+Machine Learning,5
+GPT,5
+멀티모달,4
+Natural language processing,4
+Transformers,4
+vision transformer,4
+Computer Vision,4
+LSTM,4
+artificial intelligence,4
+비전 트랜스포머,4
+KoBART,4
+AI,4
+ResNet,3
+Self-attention,3
+large language model,3
+딥 러닝,3
+Transformer model,3
+Generative model,3
+GPT-2,3
+KoBERT,3
+Transformer(트랜스포머),3
+anomaly detection,3
+attention mechanism,2
+Data Augmentation,2
+dataset analysis,2
+TeGCN,2
+AI ethical principles,2
+Classification,2
+Convolution Neural Network,2
+순환 신경망,2
+데이터 증강,2
+RGB-D,2
+CADx,2
+UNSW-NB15,2
+contrastive learning,2
+컴퓨터 비전,2
+sentiment analysis,2
+transfer learning,2
+fine-tuning,2
+XLM-RoBERTa,2
+stock price prediction,2
+전이학습,2
+셀프 어텐션,2
+machine learning,2
+Deep neural networks,2
+CNN,2
+군집분석,2
+Transformer learning,2
+Neural Network,2
+cluster analysis,2
+드론,2
+performance comparison,2
+객체분할,2
+Tubelet embedding,2
+Video Vision Transformer,2
+monocular depth estimation,2
+Transfer learning,2
+사과,2
+transformer decoder,2
+predictive maintenance,2
+G-transformer,2
+Text mining,2
+P-tuning,2
+Sequence,2
+Radar dataset,2
+Deep learning model,2
+CAN,2
+Large language model,2
+Deep Learning (딥러닝),2
+Image Processing,2
+multimodal,2
+Knowledge Distillation,2
+언어 모델,2
+Machine learning,2
+미세 조정,2
+language model,2
+T5,2
+장단기 메모리,2
+순환신경망,2
+자연어처리,2
+Precipitation nowcasting,2
+Knowledge distillation,2
+Multimodal,2
+생성형 인공지능,2
+Artificial Intelligence,2
+대화형 인공지능,2
+Attention Mechanism,2
+point cloud,2
+기계 번역,2
+어텐션 메커니즘,2
+Sentiment Analysis,2
+Large Language Model,2
+technical data,1
+deep learning framework,1
+허구,1
+Automatic Classifier,1
+비대 예측,1
+구글 신경망 번역,1
+VGG-16,1
+Vision Transformer(ViT),1
+ethics,1
+sequence-to-sequence model,1
+recurrent neural network,1
+인공 신경망 (Artificial Neural Network),1
+RNN Seq2Seq 모델,1
+co-creation,1
+사회적 학습,1
+social learning,1
+labor,1
+traduction automatique,1
+(GNMT),1
+participation,1
+modèle RNN Seq2Seq,1
+Convolutional Neural Network(CNN),1
+윤리,1
+참여,1
+AI 윤리 원칙,1
+노동,1
+공동-생산,1
+자연어 처리(Natural Language Process),1
+지도 학습 (Supervised Learning),1
+Google Neural Machine Translation,1
+BERT(Bidirectional Encoder Representation from Transformers),1
+CAD,1
+미메시스,1
+XR(Extended Reality),1
+conversational artificial intelligence,1
+adaptive learning,1
+connectivism,1
+적응 학습,1
+연결주의,1
+360 video,1
+Sound classification,1
+Audio Saliency detection,1
+Event Visualization,1
+Construction log,1
+Unstructured data,1
+Schedule delay risk,1
+Quantification,1
+공사일지,1
+비정형데이터,1
+텍스트마이닝,1
+공기지연 리스크,1
+정량화,1
+챗지피티(ChatGPT),1
+쓰기 교육의 본질 재정립,1
+쓰기 윤리,1
+거짓 정보 확산,1
+인공지능 윤리원칙,1
+generative AI,1
+interactive AI,1
+generative artificial intelligence,1
+희곡(Play),1
+텍스트 세계,1
+연극(Theatre),1
+인지과학,1
+문학연구,1
+fiction,1
+mimesis,1
+monde du texte,1
+science cognitive,1
+étude littéraire,1
+아니소트로피,1
+클러스터링,1
+특이 차원,1
+anisotropy,1
+clustering,1
+outlier dimensions,1
+KR-SBERT,1
+카테고리,1
+리뷰,1
+프레임워크,1
+텍스트 마이닝,1
+Scene Text Image Super-Resolution,1
+Korean Text,1
+인공지능(Artificial Intelligent),1
+GPT-3,1
+희곡창작,1
+가상 인간(Virtual Human),1
+자연어처리(Natural Language Processing),1
+open source,1
+Creative AI,1
+오픈소스,1
+Cross-modal Fusion,1
+Five-level T-type Inverter,1
+skin lesion segmentation,1
+fake news classification,1
+NLP,1
+RGB-T Tracking,1
+Dynamic Tracking Aggregation,1
+Detection transformer,1
+말뭉치,1
+Object detection,1
+DC-DC converters,1
+solid state transformers,1
+DC terminal dynamic model,1
+resonant converter,1
+GLPN,1
+Intercell Transformer,1
+Coupled Inductor,1
+Maxwell,1
+Automatic data processing,1
+Breast cancer,1
+Clinical reports,1
+Attention mechanism,1
+Feature fusion,1
+Radiology report,1
+Image-text generation,1
+metaverse,1
+pre-trained language model,1
+ubiquitous computing,1
+health literacy,1
+research trend,1
+topic modeling,1
+global research,1
+On-load tap-changer,1
+Recurrent neural networks,1
+Renewable energy,1
+Representation,1
+Dual active half-bridge converter (DAHB),1
+minimum rms current,1
+modulation scheme,1
+model-based control,1
+dc-dc converter,1
+LLC resonant converter,1
+high frequency transformer (HFT),1
+shell type transformer,1
+magnetic equivalent model,1
+Visual Transformer Tracking,1
+Pyramid Pooling Attention,1
+Feature Extraction and Correlation,1
+Enhanced Correlation Block,1
+Foundation model,1
+Few shot,1
+Small modular reactor,1
+Zero shot,1
+Equivalent thermal conductivity,1
+rectangular wires,1
+thermal modeling,1
+windings,1
+solid state transformer,1
+EtherCAT,1
+high-voltage isolation,1
+controller,1
+BERT Embedding Model,1
+Gender Bias,1
+Hate Speech Detection,1
+Logistics Ensemble,1
+Voltage stability,1
+metaphor,1
+transformer language models,1
+chatGPT,1
+Abstract Summary,1
+machine reading comprehension,1
+table question answering,1
+domain adaptation,1
+domain generalization,1
+대화형 인공지능 모델,1
+생성적 콘텐츠,1
+그림동화,1
+창작 인공지능,1
+Conversational AI,1
+Generative Contents,1
+Illustrated Fairy Tales,1
+writing ethics,1
+추상 요약,1
+사전학습 언어 모델,1
+Pre-trained Language Model,1
+도메인 적응,1
+GSG,1
+BERT compression,1
+task-specific pruning,1
+structured pruning,1
+head pruning,1
+BERT 압축,1
+과제별 프루닝,1
+구조화된 프루닝,1
+헤드 프루닝,1
+Computational Linguistics,1
+dependency parsing,1
+corpus,1
+컴퓨터언어학,1
+의존 구문 분석,1
+도메인 일반화,1
+합성 데이터 생성,1
+surprisal value,1
+어댑터,1
+sensicality,1
+Structural Displacement Measurement,1
+automatic speech recognition,1
+Whisper,1
+인공신경망,1
+어텐션(attention) 메커니즘,1
+맥락벡터(context vectors),1
+은닉상태(hidden state),1
+Pre-learning language model,1
+Abstractive summary,1
+Linguistic features,1
+Extractive summary,1
+Text compression and summary,1
+목적 지향 대화 시스템,1
+학습 효율성.,1
+표 질의응답,1
+Task-Oriented Dialogue System,1
+Adapter,1
+Fine-Tuning,1
+Training Efficiency,1
+얼굴 특징점 검출,1
+영상 편집,1
+Facial Keypoints Detection,1
+Video Editing,1
+multilingual BERT,1
+natural language process,1
+transformer  encoder,1
+다국어 BERT,1
+트랜스포머 인코더,1
+기계독해,1
+redefining the nature of writing education,1
+Evaluation,1
+spreading fake information,1
+Paprika,1
+의료 인공지능,1
+근거중심의학,1
+Features,1
+Events,1
+and processes (FEPs),1
+Keyword extraction,1
+PAPiRUS,1
+Word2vec,1
+Public opinion analysis,1
+Sentiment classification,1
+Cross-cultural communication,1
+Out-of-vocabulary,1
+Automatic translation,1
+Neural network,1
+Cucumber,1
+Writing,1
+Time-series forecasting,1
+forecasting production,1
+Look-back window,1
+자율주행,1
+궤적 예측,1
+판단,1
+컨텍스트 변조,1
+Autonomous driving,1
+Trajectory forecasting,1
+Planning,1
+Context modulation,1
+Text classification,1
+Sentiment analysis,1
+Supervised machine learning,1
+Evidence-based medicine,1
+Search engine,1
+Vertical ground reaction force,1
+Cable model,1
+Patient education as topic,1
+Health communication,1
+Telemedicine,1
+Chronic disease management,1
+정보성 동영상(informational video),1
+동영상 요약(video summarization),1
+질문 생성(question generation),1
+GPT 모델 (Generative Pre-trained Transformer),1
+Named Entity Recognition,1
+Domain Adaptation,1
+Global Loss,1
+Active-Front-End rectifier,1
+Diode-Front-End rectifier,1
+Total Harmonic Distortion,1
+time series prediction,1
+Reproducibility of results,1
+corroded and loosened bolt detection,1
+improved YOLOv5s,1
+linear segment detector,1
+steel bolted joints,1
+주거환경,1
+주거환경 만족 영향요인,1
+아파트 리뷰,1
+빅데이터,1
+감정분석,1
+Residential Environment,1
+Determining Factors of Residential Environment Satisfaction,1
+Apartment Reviews,1
+Big Data,1
+Literacy,1
+GRU,1
+Intermediate Feature,1
+Facial Expression Recognition,1
+connectionism,1
+Coupling factor,1
+ANSYS-Maxwell,1
+Efficiency,1
+Multi-port converters,1
+LLC Filter,1
+Pulse width modulated Swtch model,1
+Pulse frequency modulation,1
+Bayesian optimization,1
+LLC converter,1
+magnetics design,1
+multiphysics simulations,1
+English past tense,1
+past-tense debate,1
+words and rules,1
+Transformer-based modeling,1
+댓글,1
+Handwritten,1
+Optical character recognition,1
+Visual document understanding,1
+MVDC isolators,1
+SiC MOSFETs,1
+Dual Active Bridge,1
+Dynamic Voltage Balancing,1
+SiC JBS diodes,1
+Snubber losses,1
+HF Transformer,1
+Generative AI Chatbot,1
+Hallucination,1
+Habitual Behavior of GAI,1
+Addictive Behavior of  GAI,1
+Wireless power transfer (WPT),1
+Shaking Table Test(진동대 실험),1
+High Frequency Motion(고주기진동),1
+Seismic Amplification(지진 증폭),1
+인터넷 여론,1
+조세정책,1
+감성분류,1
+comments on internet article,1
+internet public opinion,1
+tax policy,1
+Curation system · Deep learning · Gene–phenotype relationship · Neurodegenerative disorders,1
+STATCOM,1
+Power decoupling,1
+Flux cancellation method,1
+VAR compensation,1
+ALO,1
+CP line,1
+ELD,1
+IEEE 57 bus,1
+LS-ALO,1
+LVHM,1
+ORPD,1
+Positive sequence line,1
+3-Phase PI line,1
+Generative Adversarial Networks,1
+Non-Pneumatic Tire,1
+Design,1
+OpenCV,1
+Mental Health,1
+Therapeutic Chatbot,1
+Deep Learning Approaches,1
+Battery Charger(배터리 차져),1
+Electronic Cabinet(전기 캐비넷),1
+Transformer network,1
+Severity rating,1
+Equivalent magnetic circuit(자기등가회로),1
+Solid-state transformer,1
+교차 스타일,1
+멀티 어댑터,1
+Shared bikes,1
+Demand forecasts,1
+Linear regression,1
+Converter transformer,1
+Oil gap–paper insulation,1
+Accelerated electrical–thermal aging experiment,1
+Pulsating DC voltage,1
+Triple-variable Weibull failure model,1
+Generative pretrained transformer,1
+Academic writing,1
+Publication,1
+Editing,1
+virtual synchronous machine,1
+제목 생성,1
+frequency-based power control,1
+back-to-back converter,1
+Dual-active-bridge converter,1
+online efficiency optimization,1
+power router,1
+variable-frequency phase-shift modulation,1
+Empathy-Helping,1
+Specific Emotions,1
+Transformer-Transfer Learning,1
+Tweets,1
+Multilevel Inverter,1
+Solid-State Transformer,1
+Active Front-End Converter,1
+Dual-Active Bridge Converter,1
+교차 언어,1
+Multiple Adapter,1
+Gait signals,1
+인공신경망 번역,1
+Leakage flux(누설 자속),1
+Leakage inductance(누설 인덕턴스),1
+Magnetizing inductance(자화 인덕턴스),1
+Power converter(전력 변환 기기),1
+Transformer(변압기),1
+Counseling Chatbot,1
+Anxiety,1
+Deep-learning,1
+상담 챗봇,1
+불안,1
+키포인트 탐지,1
+사람 자세 추정,1
+Keypoint Detection,1
+Human Pose Estimation,1
+문서 단위 기계 번역,1
+Cross-style,1
+machine translation,1
+Neural Machine Translation(NMT),1
+document-level machine translation,1
+data augmentation,1
+air compressor,1
+condition monitoring,1
+Battery,1
+SOC Prediction,1
+practical impedances,1
+Abdominal radiography,1
+Pneumoperitoneum,1
+Pretraining,1
+Title Generation,1
+Cross-lingual,1
+Feedforward Compensation Control,1
+Modulators,1
+High Voltage,1
+Multi-modal Learning(멀티모달 러닝),1
+sigma converter,1
+small signal model,1
+Benefits,1
+Perils,1
+Movement Disorders Clinic,1
+Prediction,1
+BI-LSTM,1
+Informer,1
+예측,1
+양방향 장단기 메모리,1
+변환기,1
+정보 제공자,1
+Depth completion(깊이 완성),1
+Vision Transformer(비전 트랜스포머),1
+Residual Connection(잔차 연결),1
+Transformer Design,1
+Computer Vision (컴퓨터 비전),1
+Filtering on Augment Image,1
+Image Augmentation,1
+Solar cell,1
+Gastric Diagnosis,1
+Nuclear export,1
+Nuclear import,1
+Associated search system,1
+Language model,1
+NEPS,1
+Hyperscale Artificial Intelligence,1
+Fintech,1
+Social Network Analysis,1
+Parkinson's disease,1
+modeling,1
+LCLCL-DCX,1
+Fire detection,1
+YOLOv8,1
+RF Power,1
+second language acquisition language model,1
+interference effect,1
+negative transfer,1
+positive transfer,1
+cross-lingual language model,1
+Scene Graph Generation,1
+Transformer-based Architecture,1
+Distribution Alignment,1
+Model-independent,1
+Visual Genome Dataset.,1
+Movie,1
+eWOM,1
+Sentiment,1
+BERT Model,1
+Panel Error Correction Model,1
+online video instance segmentation,1
+dynamic anchor box,1
+deformable attention,1
+instance association,1
+neural processing unit,1
+Multi-active bridge,1
+phase-shift modulation,1
+transient dc-bias elimination,1
+Mathematical logic,1
+problem-solving,1
+scaffolding,1
+generative pretrained transformer,1
+GPT-4,1
+three-phase hybrid transformer,1
+벼 도복,1
+Small-signal modeling,1
+3D scan data,1
+Video Recognition,1
+Negligence Rate,1
+Game Skill Estimation,1
+eSports,1
+Game Matchmaking,1
+게임 실력 추정,1
+e-스포츠,1
+게임 매치메이킹,1
+유방암 분류,1
+모바일,1
+Drug Discovery,1
+Aptamer-Protein Interaction,1
+Genetic Algorithm,1
+신약 개발,1
+압타머-단백질 상호작용,1
+머신 러닝,1
+유전알고리즘,1
+Style mixing,1
+Stylization,1
+신경 기계 번역,1
+정렬,1
+미니배치,1
+학습 속도,1
+데이터 로더,1
+neural machine translation,1
+sorting,1
+mini-batch,1
+training time,1
+data loader,1
+tooth surface data segmentation,1
+3D segmentation models,1
+시계열,1
+치아 표면 데이터 분할,1
+그라미안 각도 필드,1
+대규모 언어모델,1
+리걸 마인드,1
+법률 인공지능 서비스,1
+리걸테크,1
+Legal Mind,1
+Legal AI Service,1
+Legal Tech,1
+햅틱 질감 인식,1
+Conformer 모델,1
+합성곱 신경망,1
+Haptic texture recognition,1
+Conformer model,1
+Convolutional neural network,1
+그래프 표현 학습,1
+사과 품질 분류,1
+랜덤워크 위치 인코딩,1
+Graph representation learning,1
+Apple Quality Classification,1
+Randomwalk positional encoding,1
+신용평가,1
+트렌스포머,1
+어텐션,1
+융합,1
+credit rating,1
+attention,1
+fusion,1
+3D 분할 모델,1
+3D 스캔 데이터,1
+우주론,1
+우주 거대구조,1
+Cosmology,1
+Large scale structure,1
+e-government Framework,1
+Spring MVC pattern,1
+Source code generation,1
+우울증 탐지,1
+모달리티 퓨전,1
+피처 추출,1
+Depression Detection,1
+Fusion,1
+Feature expraction,1
+표면결함,1
+선별,1
+검출,1
+영상분할,1
+Deephashing,1
+Image Retrieval,1
+Variational Inference,1
+Self-supervised Learning,1
+딥해싱,1
+이미지 검색,1
+변분 추론,1
+자기 지도 학습,1
+Generative Text Summarization,1
+Quality Estimation,1
+Meta-Evaluation,1
+텍스트 생성요약,1
+품질예측,1
+메타평가,1
+악성코드 탐지,1
+제어 흐름 그래프,1
+CodeBERT,1
+용종 분할,1
+의료 영상 분할,1
+data sharing,1
+이미지 캡셔닝,1
+임베딩 정렬,1
+variational 오토인코더,1
+대조 학습,1
+image captioning,1
+alignment,1
+variational autoencoder,1
+Health Index,1
+Degradation Patterns,1
+Time Series Data,1
+ProphetNet Model,1
+speech recognition,1
+cross-domain recommendation,1
+K-means clustering,1
+Malignant Tumor,1
+transformer network,1
+태권도,1
+경기유형,1
+Taekwondo,1
+Match Types,1
+Backbone,1
+Loss Function,1
+Drone,1
+토마토,1
+생체중,1
+bi-directional long-short term memory,1
+Cancer Diagnosis,1
+Lung cancer,1
+컨볼루션 신경망,1
+Gramian angular field,1
+深度学习,1
+Multi-threading,1
+Imitation Learning,1
+Autonomous Driving,1
+Attention Mechanisms,1
+Model Predictive Controller,1
+State of health(건강상태),1
+Electric Vehicle(전기자동차),1
+Moving average(이동평균),1
+Wavelet Transform(웨이블릿변환),1
+정보추출,1
+Automation,1
+Human motion generation,1
+태양 에너지(Solar energy),1
+발전량 예측(Power generation prediction),1
+딥러닝(Deep learning),1
+태양광 발전(Solar power generation),1
+트랜스포머(Transformer),1
+Open Data Portal(오픈 데이터 포털),1
+Automotive Industry Data(자동차 산업 데이터),1
+Data Classification(데이터 분류),1
+Natural Language Processing(자연어 처리),1
+Transformer-Based Models(트랜스포머 기반 모델),1
+Fabric Defect Detection,1
+Image Segmentation,1
+ZJU-Leaper,1
+Segformer,1
+Trajectory prediction(궤적 예측),1
+Maneuver classification(거동 변경),1
+Intersection and Roundabout(교차로),1
+Child behavior analysis,1
+감성 분석,1
+Object tracking,1
+RNN,1
+CSWinTT,1
+Diffusion model,1
+Autoencoder,1
+drug discovery,1
+molecule generation,1
+약물 발견,1
+분자 생성,1
+심층 학습,1
+Super Resolution,1
+비디오 캡셔닝,1
+유니버셜 트랜스포머,1
+ViT,1
+video captioning,1
+universal transformer,1
+Normalizing flow,1
+Conditional probability,1
+Super-Resolution,1
+Decoder,1
+Semantic Information,1
+SwinIR,1
+Network for Vehicle,1
+Intrusion Detection,1
+차량용 네트워크,1
+침입탐지,1
+신경망 검색,1
+특허 도메인,1
+버트,1
+neural search,1
+patent domain,1
+Multi-head attention,1
+Real-time,1
+CCTV,1
+SlowFast,1
+Graph transformer,1
+Sensor Fusion(센서융합),1
+Deep Learning(딥러닝),1
+Bird’s Eye View(조감도),1
+Autonomous Vehicle(자율주행 자동차),1
+사전 학습된 버트,1
+미세조정,1
+한글 문장 감정분류,1
+pre-trained BERT,1
+Korean text sentiment classification,1
+다중 시점 3차원 인체자세추정,1
+단안 시점 다중 프레임 모델,1
+multi-view 3D human pose estimation,1
+monocular multi-frame model,1
+model compression,1
+correlation learning,1
+Image classification,1
+지식 증류,1
+모델 압축,1
+상관관계 학습,1
+이미지 분류,1
+일반상식,1
+대화생성모델,1
+대조적 표상 사전훈련,1
+대조 손실,1
+BERT-base,1
+Contrastive Representation Pre-training,1
+Contrastive Loss,1
+Clinical BERT,1
+time series,1
+3D Object Detection(3차원 객체검출),1
+Computer vision,1
+Multi-modal learning,1
+YOLO,1
+NGS,1
+Variant calling,1
+차세대 시퀀싱,1
+변이 탐색,1
+트랜스포머 모델,1
+Colloquial style,1
+Translation,1
+Visualization,1
+구어체,1
+번역,1
+시각화,1
+Benthic marine invertebrates,1
+Real-time object detection,1
+DETR,1
+Path planning,1
+저서성 해양무척추동물,1
+실시간 객체 탐지,1
+-,1
+Feature Extraction,1
+Muisc Transformer,1
+Short Time Fourier Transform,1
+Convolutional Neural Network,1
+Generation Model,1
+OCR,1
+Captcha,1
+Korean Dataset,1
+Optimization,1
+DAC(Dialogue Act Classification),1
+공격 경로 샘플링,1
+그래프 임베딩,1
+그래프 트랜스포머,1
+스타일 전이,1
+영상 처리,1
+Style Transfer,1
+Self Attention,1
+Feed-forward network,1
+영상 콘텐츠(Video content),1
+감정분류(emotion classification),1
+VGG(Visual Geometry Group),1
+ViT(Vision Transformer),1
+automated essay scoring,1
+multi-task loss function,1
+sampling,1
+image analysis,1
+k-means algorithm,1
+direct type,1
+build-up type,1
+이미지분석,1
+k-means 알고리즘,1
+Direct 유형,1
+Build-up 유형,1
+다중 스펙트럼 영상,1
+수확량 예측,1
+Multi-spectral images,1
+Yield prediction,1
+Fine-tuning,1
+Transfer Learning,1
+Video Classification,1
+Non-Local,1
+Attention,1
+Semantic Segmentation,1
+피드포워드 네트워크,1
+그래프 신경망,1
+malware detection,1
+3차원 장면 그래프 생성,1
+chest X-ray.,1
+Texture map image super-resolution,1
+clothed human texture map,1
+3D clothed human texture map super-resolution,1
+Signal Peptide,1
+Secretory Protein,1
+Generative Model,1
+Transcription Factors,1
+De novo design,1
+커밋 메시지(Commit Message),1
+BERT(Bidirectional Encoder Representations from Transformers),1
+GPT(Generative Pre-trained Transformer),1
+Distribution System State Estimation,1
+Convolutional Neural Networks,1
+Multi-Layer Perceptron,1
+Monocular Depth Estimation,1
+Lightweight Deep Learning Model,1
+도로건설공사 프로젝트 관리,1
+지연 유형 예측,1
+지연 일수 예측,1
+Generative Pretrained Transformer 3,1
+Extreme Gradient Boost,1
+Categorical Boost,1
+Risk Probability-Impact Matrix,1
+scene understanding,1
+3D scene graph generation,1
+graph neural network,1
+장면 이해,1
+포인트 클라우드,1
+High-Definition maps,1
+Automatic Annotation,1
+Agricultural reservoir,1
+Waterbody detection,1
+object detection,1
+image slicing,1
+deep-learning,1
+drone,1
+음악 작곡 AI,1
+LSTM과 Transformer,1
+AI in Music Composition,1
+LSTM and Transformer,1
+Cost model analysis,1
+Electric vehicles charger,1
+Low voltage dc-to-dc converter,1
+On-board charger,1
+딥러닝 모델,1
+폐렴 감지,1
+흉부 엑스레이,1
+Deep learning models,1
+Pneumonia detection,1
+Chest X-ray,1
+DC–DC converter,1
+Matrix transformer,1
+Loss model,1
+Winding structure optimization,1
+3d-printing,1
+magnetic shunt,1
+shaped foil windings,1
+AI Composition,1
+Music Generation,1
+AI 作曲,1
+音乐生成,1
+이미지 슬라이싱,1
+객체 탐지,1
+Camera Calibration,1
+부분 데이터풀링,1
+Sentinel-1,1
+농업용 저수지,1
+수체 탐지,1
+Auto regressive model,1
+MAF (Masked Autoregressive Flow),1
+Multivariate exchange rate forecasts,1
+Normalizing flows,1
+거대언어 모델,1
+LLaMA,1
+다단계 시계열 예측,1
+다계층 예측,1
+대형마트 판매량 예측,1
+시간적 융합 트랜스포머(TFT),1
+모델 평균화,1
+semantic segmentation,1
+Multi-Step Time Series Forecasting,1
+Multi-level Forecasting,1
+Sales Forecasting for Hypermarkets,1
+Temporal Fusion Transformers (TFT),1
+Partial Data Pooling,1
+Model Averaging,1
+long-term time-series forecasting,1
+Person re-identification,1
+relative positional embedding,1
+무인 항공기,1
+시멘틱 세그멘테이션,1
+rice lodging,1
+unmanned aerial vehicle,1
+pneumonia detection,1
+Disturbance Observer,1
+Biped Robot,1
+Image Classification,1
+학습 데이터 검증,1
+YOLOv8 모델,1
+Swin 모델,1
+Paralichthys Olivaceus Diseases,1
+Disease Symptoms Classification,1
+Learning Data Verification,1
+YOLOv8 Model,1
+Swin Model,1
+Occluded Person Re-ID,1
+keypoint Heatmap,1
+Cross-attention,1
+Feature Diversity,1
+3d instance scene segmentation,1
+denoising,1
+auxiliary learning,1
+씬파일러,1
+채무 불이행 예측,1
+그래프 합성곱 신경망,1
+범주형 변수 임베딩,1
+Thin Filer,1
+Default Prediction,1
+Graph Convolutional Network,1
+Categorical Feature Embedding,1
+MUM-T,1
+Situation Awareness,1
+Military AI,1
+Robot Intelligence,1
+형태소 분석,1
+Morpheme Analysis,1
+질병 증상 분류,1
+넙치 질병,1
+Weather Factors,1
+모델예측제어,1
+control flow graph,1
+attack path sampling,1
+graph embedding,1
+graph transformer,1
+포스트 트레이닝,1
+요약,1
+사전 학습,1
+post training,1
+summarization,1
+pre-training,1
+기계학습,1
+심층학습,1
+시계열 예측,1
+다층 퍼셉트론,1
+Transformer Algorithm,1
+Time-Series Forecasting,1
+Model Predictive Control(MPC),1
+Recurrent Neural Network(RNN),1
+Long Short-Term Memory(LSTM),1
+Multilayer Perceptron(MLP),1
+Time series forecasting,1
+Stochastic differential equations,1
+Financial time series,1
+Stock market index,1
+Probabilistic forecasting,1
+DLinear Algorithm,1
+Energy Transition,1
+Power Demand Forecasting,1
+On-device AI,1
+Quantization,1
+Posture Stabilization Control,1
+Hardware Accelerators,1
+울트라 라이트웨이트,1
+Air pollution,1
+Time-series,1
+Long-term forecasting,1
+Multivariate forecasts,1
+Multiple Periodicity Consideration (MPC),1
+pest imgae classification,1
+region-of-interests,1
+cross attention,1
+Ureteral calculi,1
+Urolithiasis,1
+Robot(로봇),1
+Walking(보행),1
+Control(제어),1
+MPC(모델 예측 제어),1
+Korean natural language processing,1
+metamorphic testing,1
+test case generation,1
+document summary performance metrics,1
+한국어 자연어 처리,1
+메타모픽 테스팅,1
+테스트 케이스 생성,1
+문서요약 성능지표,1
+Transformer-based Prediction Model,1
+Seohae Grand Bridge,1
+Structural Health Monitoring (SHM) system,1
+equipment health monitoring,1
+temporal fusion transformer,1
+vibration signal decomposition,1
+얼굴식별,1
+ultra-lightweight.,1
+facial recognition,1
+IDS,1
+Performance Evaluation,1
+CNN-Transformer Hybrid Model,1
+CNN+LSTM Hybrid Model,1
+CNN model,1
+LSTM Model,1
+ELM Model,1
+Odor.,1
+Point Cloud,1
+3D Scene Graph Generation,1
+Prior Knowledge,1
+Graph Neural Network,1
+침입탐지시스템,1
+패킷 페이로드,1
+Packet Payload,1
+Multiscale  Window,1
+Crowdfunding,1
+Language Model,1
+Predictive Model,1
+Text Analysis,1
+크라우드 펀딩,1
+언어모델,1
+예측모델,1
+텍스트 분석,1
+영상 복원,1
+맥락정보,1
+다중차원 윈도우,1
+Image Inpainting,1
+Contextual Information,1
+Learning,1

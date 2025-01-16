@@ -1,0 +1,161 @@
+keyword,count
+CNN,4
+적대적 생성 신경망,4
+GAN,4
+합성곱 신경망,3
+DNN,2
+MIT-BIH,2
+머신러닝,2
+Machine Learning,2
+Deep learning,2
+Pix2Pix,2
+Discriminator,2
+CycleGAN,2
+딥러닝,2
+CCTV,2
+미디어 인공지능,1
+동영상 내용분석,1
+recurrent neural networks (RNNs),1
+Curb segmentation(연석 검출),1
+generative adversarial network (GANs),1
+Restoring photo,1
+Receptive field,1
+media AI(media artificial intelligence),1
+video analytics,1
+컴퓨터 비전,1
+순환 신경망,1
+adversarial training,1
+data sparsity,1
+contrastive representation learning,1
+neural collaborative filtering,1
+group recommendation,1
+적대적 학습,1
+데이터 희소성,1
+대조적 표현 학습,1
+신경망 기반 협업 필터링,1
+그룹 추천,1
+생성적적대적신경망,1
+Computer vision(컴퓨터 비전),1
+몰입도,1
+자동생성,1
+아바타,1
+Classification,1
+Transfer learning,1
+적대적 신경망,1
+GAN augmentation,1
+사생활보호,1
+Sensor Fusion(센서 퓨전),1
+Lidar(라이다),1
+부정맥,1
+road surface detection(도로 노면 인식),1
+data augmentation(데이터 증대),1
+CycleGAN(순환 적대적 생성 신경망),1
+semantic image segmentation(의미론적 이미지 분할),1
+image-to-image translation(이미지 변환),1
+Arrhythmia,1
+BLSTM,1
+양방향 장단기 기억 신경망,1
+computer vision,1
+Fish Disease Prediction,1
+Behavior Pattern Recognition,1
+Smart Aquaculture,1
+Image Processing,1
+어류 질병 예측,1
+행동 패턴 인식,1
+스마트 양식장,1
+Homomorphic Filter,1
+Generator,1
+Shadow removal,1
+Spatially adaptive de-normalization,1
+GAN(적대적 생성신경망),1
+super resolution,1
+generative adversarial network,1
+self attention,1
+gradient,1
+wavelet transform,1
+.,1
+조건부 적대적 생성 신경망,1
+정규화 층,1
+그림자 감지,1
+공간 적응적 비 정규화,1
+그림자 제거,1
+Conditional generative adversarial networks,1
+Normalization layers,1
+Shadow detection,1
+convolutional neural networks(CNN),1
+neural networks parameter regeneration,1
+deep learning,1
+dataset,1
+안면 변환,1
+순환 적대적 생성 신경망,1
+특이점,1
+데이터셋,1
+적대적 생성 네트워크,1
+비디오 생성,1
+스타일 변환,1
+스타일 합성 네트워크,1
+동영상 합성 네트워크,1
+Generative Adversarial Network,1
+Video Generation,1
+Style Transfer,1
+Style Synthesis Network,1
+Video Synthesis Network,1
+Super-resolution,1
+안면 교체,1
+landmarks,1
+Medical image,1
+cycle generative adversarial network (cycleGAN),1
+Bayesian neural networks,1
+continual learning,1
+task-incremental learning,1
+신경망 파라미터 재생성,1
+베이지안 신경망,1
+지속 학습,1
+태스크 지속 학습,1
+이미지 데이터 증강,1
+객체 탐지,1
+convolution neural network (CNN),1
+generative adversarial network (GAN),1
+image data augmentation,1
+object detection,1
+Face swapping,1
+face translation,1
+Histopathology,1
+대기질,1
+Adversary attack,1
+THD(Total Harmonic Distortion,1
+DCGAN(Deep Convolution Generative Adversarial Network,1
+심층합성곱적대적생성신경망),1
+K-means clustering(K평균군집화),1
+건축 문화재 도면,1
+노이즈 제거,1
+이미지 합성,1
+Architectural heritage drawing,1
+Denoising,1
+Image Fusion,1
+비식별,1
+얼굴식별,1
+적대적공격,1
+generative adversarial networks,1
+De-identification,1
+face identification,1
+전고조파 왜율),1
+내부영구자석 동기모터),1
+비지도 학습,1
+IPM(Interior Permanent Magnet Synchronous Motor,1
+이상탐지,1
+Air Quality,1
+Deep Learning,1
+Unsupervised Learning,1
+Anomaly Detection,1
+Surface-to-Surface Missile(지대지 미사일),1
+Time-Series Generative Adversarial Network(적대적 시계열 생성 신경망),1
+Supervised Learning(지도학습),1
+Adversarial attack,1
+Transfer-based attack,1
+Transferability,1
+Image warping,1
+Elastic transformation,1
+GMM(Gaussian Mixture Model,1
+가우시안혼합모델),1
+영상처리,1
