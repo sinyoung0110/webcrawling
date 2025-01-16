@@ -1,0 +1,6046 @@
+keyword,count
+Deep Learning,334
+Deep learning,271
+딥러닝,214
+deep learning,167
+CNN,92
+인공지능,63
+Machine Learning,54
+LSTM,51
+Machine learning,48
+Artificial Intelligence,45
+Artificial intelligence,41
+Object Detection,35
+Convolutional Neural Network,27
+machine learning,27
+Convolutional neural network,25
+Classification,25
+딥 러닝,24
+AI,24
+합성곱 신경망,20
+머신러닝,19
+빅데이터,18
+Big Data,17
+YOLO,17
+convolutional neural network,17
+Object detection,16
+artificial intelligence,16
+Big data,15
+Deep-learning,15
+Convolutional Neural Networks,14
+기계학습,14
+Deep Learning(딥러닝),14
+IoT,14
+Deep neural network,14
+DNN,13
+Reinforcement Learning,12
+GAN,12
+.,12
+Deep reinforcement learning,11
+BERT,11
+object detection,11
+Segmentation,11
+심층신경망,11
+Image Processing,11
+Deep Neural Network,10
+Artificial Neural Network,10
+COVID-19,10
+RNN,10
+Computer Vision,10
+심층학습,10
+Convolution Neural Network,10
+Text Mining,10
+deep neural network,10
+U-Net,10
+Transfer Learning,9
+인공신경망,9
+Deep learning(딥러닝),9
+Transfer learning,9
+convolutional neural networks,9
+ResNet,8
+Faster R-CNN,8
+Image Classification,8
+Deep-Learning,8
+심층 신경망,8
+Tensorflow,8
+Image classification,8
+강화학습,8
+Drone,7
+Autoencoder,7
+알고리즘,7
+객체 검출,7
+Neural Network,7
+transfer learning,7
+오토인코더,7
+합성곱신경망,7
+Prediction,7
+Computed tomography,7
+기계 학습,7
+Semantic Segmentation,7
+recurrent neural network,7
+YOLOv2,7
+deep reinforcement learning,7
+Reinforcement learning,7
+Feature Selection,7
+Convolution neural network,7
+Image processing,7
+reinforcement learning,7
+deep-learning,6
+GRU,6
+Convolutional neural networks,6
+Keras,6
+자연어처리,6
+Face Recognition,6
+사물인터넷,6
+natural language processing,6
+Semantic segmentation,6
+MLP,6
+Deep Reinforcement Learning,6
+classification,6
+prediction,5
+Medical Imaging,5
+image processing,5
+Generative Adversarial Network,5
+Internet of Things,5
+신경망,5
+UAV,5
+Computer vision,5
+CCTV,5
+Ensemble,5
+deep neural networks,5
+Neural network,5
+영상처리,5
+Recommendation,5
+Unsupervised Learning,5
+DQN,5
+Convolutional Neural Network(합성곱 신경망),5
+Anomaly Detection,5
+AutoEncoder,5
+딥러닝(Deep Learning),5
+Regularization,4
+Digital pathology,4
+추천시스템,4
+Long short-term memory,4
+Recurrent neural network,4
+neural network,4
+NLP,4
+순환신경망,4
+무인항공기,4
+객체 탐지,4
+Behavior Recognition,4
+텍스트마이닝,4
+전이 학습,4
+SSD-Mobilenet,4
+Collaborative filtering,4
+Natural Language Processing,4
+Visualization,4
+Super-Resolution,4
+I3D,4
+CNN-LSTM,4
+Support Vector Machine,4
+ARIMA,4
+Random Forest,4
+smart farm,4
+4th Industrial Revolution,4
+Underwater acoustics,4
+Signal processing,4
+Data augmentation,4
+감성분석,4
+VGG16,4
+Crack Detection,4
+심층 학습,4
+인공 지능,4
+Deep Q-Network,4
+License Plate Recognition,4
+Batch Normalization,4
+AlexNet,4
+인공 신경망,4
+추천 시스템,4
+Neural networks,4
+4차 산업혁명,4
+트랜스포머,4
+예측 시스템,4
+support vector machine,3
+텍스트 마이닝,3
+Image segmentation,3
+Animal Face Classification,3
+Change Detection,3
+Depth Camera,3
+Artificial Neural Networks,3
+자연어 처리,3
+Water quality,3
+Gesture Recognition,3
+clustering,3
+Algorithm,3
+Text mining,3
+XAI,3
+PoseNet,3
+설명 가능한 인공지능,3
+Visual Navigation,3
+convolution,3
+grasping,3
+Action Recognition,3
+image classification,3
+Defect detection,3
+China,3
+Support vector machine,3
+Exponential Linear Unit,3
+텐서플로우,3
+예측,3
+Artificial neural network,3
+콘볼루션 신경망,3
+Reinforcement Learning(강화학습),3
+Depth,3
+Deep belief network,3
+Attention,3
+랜덤 포레스트,3
+Augmented Reality,3
+Instance Segmentation,3
+Smart Factory,3
+Gas leak detection,3
+Side-Channel Analysis,3
+MATLAB,3
+Point Cloud,3
+Gait Recognition,3
+algorithm,3
+Object Tracking,3
+Feature extraction,3
+SLAM,3
+domain adaptation,3
+Statistical analysis,3
+BIM,3
+Natural language processing,3
+회귀분석,3
+Word2vec,3
+Multi-task learning,3
+패턴,3
+Recommender System,3
+앙상블,3
+artificial neural networks,3
+Image Recognition,3
+deep learning model,3
+OpenCV,3
+클러스터링,3
+BiLSTM,3
+3D CNN,3
+Fully convolutional Network,3
+patterns,3
+word embedding,3
+딥러닝(deep learning),3
+Fire Detection,3
+시계열 예측,3
+Preprocessing,3
+Autonomous Vehicle,3
+recommender system,3
+ROS,3
+Denoising,3
+Pneumonia,3
+Face Detection,3
+균열 탐지,3
+rain removal,3
+SNS,3
+임베딩,3
+미술교육,3
+심층강화학습,3
+YOLOv3,3
+Hybrid recommendation algorithm,3
+data augmentation,3
+Cyber Security,3
+K-Means,3
+Environmental sound classification,3
+머신 러닝,3
+depth estimation,3
+ANN,3
+드론,3
+SVM,3
+Computer neural networks,3
+데이터 분석,3
+Artificial Intelligent,3
+딥러닝 알고리즘,3
+Nursing,3
+TensorFlow,3
+Attention Mechanism,3
+의미론적 분할,3
+컨볼루션 신경망,3
+semi-supervised learning,3
+영상 처리,3
+Emotion,3
+big data,3
+Convolutional Neural Network(CNN),3
+embedding,3
+공정이용,3
+Radiography,3
+5G,3
+Dropout,3
+OCR,3
+Binarization,3
+autoencoder,3
+이상 탐지,3
+long short-term memory,3
+Image analysis,3
+Collaborative Filtering,3
+convolution neural network,3
+Sentiment Analysis,3
+Landsat 8,2
+Optical Character Recognition (OCR),2
+Offshore,2
+Alzheimer’s Disease,2
+MFCC,2
+reinforcement learning.,2
+Feature selection,2
+Data denoising,2
+Long short-term algorithm,2
+Q-learning,2
+Low-pass filter,2
+Fish catch,2
+Technical indicator,2
+Image denoising,2
+HTML5,2
+Stock market index,2
+point cloud,2
+Robotics,2
+Sea state,2
+license plate detection,2
+Genetic algorithm,2
+program model,2
+Biomarker,2
+Vegetation Index,2
+Bayesian optimization,2
+deep learning algorithm,2
+UChoo,2
+heat map,2
+deep learning-based classifier,2
+unmanned aviation vehicle,2
+pine wilt disease,2
+Sound Event Detection,2
+super resolution,2
+Non-negative matrix,2
+denoising,2
+Depth Estimation,2
+협업,2
+Real-time,2
+Optimization,2
+식생지수,2
+random search,2
+핵심역량,2
+Hippocampus,2
+random forest,2
+콘크리트 균열,2
+균열 검출,2
+LSTM model,2
+Concrete Crack,2
+Correlation Analysis,2
+semi-supervised,2
+Calibration,2
+자연언어처리,2
+VGGNet,2
+text mining,2
+Authentication,2
+Noise,2
+topic modeling,2
+Pruning,2
+Wireless networks,2
+검출,2
+Realsense,2
+Residual U-Net,2
+당뇨병,2
+Price Prediction,2
+artificial neural network,2
+Steganography,2
+도메인 적응,2
+Optimizer,2
+강화 학습,2
+User Emotion,2
+dementia,2
+Deep Learning(심층학습),2
+diabetes,2
+FCN,2
+기계번역,2
+DenseNet,2
+스케줄링,2
+Distributed Training,2
+Regression Analysis,2
+Human Activity Recognition,2
+Fault Detection,2
+SSD,2
+quantization,2
+보상함수,2
+비-모델 강화학습,2
+보상함수 구조,2
+데이터 기반 제어,2
+reward function,2
+model-free reinforcement learning,2
+reward structure,2
+data-driven control,2
+anomaly detection,2
+DCGAN,2
+Visual surveillance,2
+BGS,2
+딥러닝 모델,2
+승패 예측,2
+Win-Loss Prediction,2
+학습,2
+Image Pre-processing,2
+YOLOv2-tiny,2
+도메인 적응(Domain Adaptation),2
+neural networks,2
+Motion Silhouette Image (MSI),2
+Sonar system,2
+Image quality,2
+Measurement,2
+Deep neural network (DNN),2
+BLSTM,2
+coreference resolution,2
+한국어 교육,2
+분류,2
+상호참조해결,2
+Autonomous Vehicle(자율주행 자동차),2
+Pose Estimation,2
+Dual Deep Convolutional Neural Network,2
+저작권,2
+Deep Neural Networks,2
+overfitting,2
+regularization,2
+drop-out,2
+harmony,2
+Supervised Learning,2
+time-frequency analysis,2
+Supervised learning,2
+Shipbuilding,2
+Production management,2
+Master data,2
+Bibliometrics,2
+Regression,2
+deep neural network ensemble,2
+Gait Energy Image (GEI),2
+Augmentation,2
+Normalization,2
+Scientometrics,2
+Computer Vision System,2
+Pattern Recognition,2
+머신러닝(Machine Learning),2
+애니메이션,2
+teacher education,2
+GPS,2
+Neural Machine Translation,2
+super-resolution,2
+Filtering,2
+Asthma,2
+Diagnostic,2
+STGAN,2
+GRU(Gate Recurrent Unit),2
+코로나19,2
+StackGAN++,2
+MNIST,2
+이진 분류,2
+Neural Networks,2
+악성코드 탐지,2
+Style Transfer,2
+Quantization,2
+Text Analytics,2
+Evaluation,2
+텐서플로,2
+이미지 분류,2
+센서,2
+Deep Learning Algorithm,2
+Vision,2
+Machine Translation,2
+patent eligibility,2
+Python,2
+인공지능 창작물,2
+Text and Data Mining,2
+워드투벡,2
+Rodong Sinmun,2
+RCNN,2
+Word2Vec,2
+텍스트 및 데이터 마이닝,2
+공간정보,2
+low resolution image,2
+Disease,2
+파이썬,2
+지식 그래프,2
+sentiment analysis,2
+instance segmentation,2
+image captioning,2
+K-means Clustering,2
+autonomous driving,2
+Image,2
+Defect,2
+매실,2
+cloud computing,2
+Endoscopy,2
+Stock Prediction,2
+Saliency Attention,2
+Algorithms,2
+Machine vision,2
+Forecasting,2
+ANNOY,2
+Xception,2
+Data analysis,2
+Cold Start Time,2
+유전 알고리즘,2
+이미지 유사도,2
+Artificial Intelligence(AI),2
+감정,2
+ALBERT,2
+Safety,2
+age estimation,2
+K-means 클러스터링,2
+Variational Autoencoder (VAE),2
+Unsupervised learning,2
+Pre-Trained Language Model,2
+Data Augmentation,2
+K-means,2
+face recognition,2
+gender estimation,2
+얼굴 인식,2
+Anomaly detection,2
+segmentation,2
+이상탐지,2
+Denoising filter,2
+Support Vector Regression,2
+Non-line-of-sight,2
+Object Detection(객체 검출),2
+Fitness,2
+AES,2
+Injection Molding,2
+LiDAR(라이다),2
+얼굴 속성 편집,2
+수질,2
+확률 기반,2
+SaGAN,2
+Facial attribute editing,2
+probability-based,2
+Topic Modeling,2
+photosynthesis,2
+mango tree,2
+Electronic bidding,2
+위성영상,2
+Multi-Layer Perceptron,2
+HABs,2
+Transformer,2
+Residual Network,2
+어텐션,2
+Mask R-CNN,2
+Mel-Spectrogram,2
+Non-Powered Hood Respirator,2
+심층 학습(Deep Learning),2
+Crawling,2
+Identification,2
+Interpretable deep learning,2
+Vibration,2
+유넷,2
+Object Segmentation,2
+Activation function,2
+Fault Diagnosis,2
+Stochastic Gradient Descent (SGD),2
+Semiconductor,2
+N,2
+Word embedding,2
+Smart Sensor,2
+자율주행,2
+Aquatic ecosystem prediction,2
+Hydrological modeling,2
+SWAT,2
+Water quality prediction,2
+residual networks,2
+ILSVRC,2
+filtering,2
+Opinion Mining,2
+Alveolar Bone Loss,2
+Biological identification,2
+생성적 적대 신경망,2
+data association,2
+객체탐지,2
+Surveillance,2
+decision tree,2
+딥러닝(Deep learning),2
+이진화,2
+Document Classification,2
+Deep Neural Network(DNN),2
+Missing children,2
+ASPP,2
+AI(Artificial Intelligence),2
+인공지능인문학,2
+디지털인문학,2
+robustness,2
+Microalgae,2
+Panoramic Radiography,2
+Power system,2
+Real-time Object Detection,2
+주성분분석,2
+Residual Block,2
+Channel Attention,2
+Spatial Attention,2
+Principal Component Analysis,2
+Super Resolution,2
+Data Analysis,2
+CNN(합성곱 신경망),2
+Measurement noise,2
+Deep Learning(심층 학습),2
+Line fault detection,2
+Swing equation,2
+Video Surveillance System,2
+Disturbance observer,2
+단어 임베딩,2
+agricultural robot,2
+Traffic classification,2
+메타데이터,2
+Bibliometrix,2
+CNN Model,2
+Monitoring,2
+Electrocardiogram,2
+Monitoring system,2
+Face detection,2
+risk assessment,2
+Steganalysis,2
+모니터링,2
+Interactive service,2
+Augmented information,2
+Deep Learning Model,2
+폐렴,2
+Speech Processing,2
+Eye action,2
+Eye tracking,2
+OpenPose,2
+이미지 처리,2
+Dense Layer,2
+Deep Learning (딥러닝),2
+Dynamic Positioning System (DPS),2
+Chest X-ray,2
+Deep Q-learning,2
+ResNet-50,2
+Change detection,2
+Semi-Supervised Learning,2
+DNA,2
+Review,2
+Emotion Recognition,2
+Loss function,2
+Framework,2
+Edge Computing,2
+Immersive Content,2
+Piracy Judgment,2
+Rib fractures,2
+OMAF,2
+Replay buffer,2
+Ship motion prediction,2
+Motion predictive control,2
+mmWave.,2
+MOT,2
+의료 영상 분할,2
+feature map,2
+time series data,2
+Crime,2
+Drone Image,2
+은닉 노드,2
+Clustering,2
+Smart Meter,2
+Hadoop Echo System,2
+시계열 데이터,2
+Context-aware,2
+Multi-classification,2
+Place Image,2
+Bigdata,2
+Embedded systems,2
+Optical character recognition,2
+MobileNet,2
+End-to-end approach,2
+Autonomous Driving(자율 주행),2
+Plant disease,2
+가중치 행렬,2
+LSTM Network,2
+Named entity recognition,2
+중국,2
+pose estimation,2
+Multi-Object Tracking,2
+Regression analysis,2
+Convolutional neural network (CNN),2
+End-user Machine Learning,2
+Interactivity,2
+영상 간 변환,2
+Explainability,2
+Long Short-term Memory,2
+Dentistry,2
+Multidetector computed tomography,2
+Liver,2
+GcGAN,2
+Deep learning algorithm,2
+weight matrix,2
+hidden layers,2
+smoke detection,2
+Auto-encoder,2
+Feature Point Extracting and Matching,2
+Low-cost implementation,2
+Photo Management,2
+Q-Learning,2
+channel estimation,2
+Photo Classification,2
+Ultra-dense network,2
+연구 동향,2
+unsupervised learning,2
+Image Recognition Technology,2
+ANFIS,2
+Machine-learning,2
+Sentiment analysis,2
+Radiology,2
+전자입찰,2
+computer vision,2
+MIMO,2
+Emotion recognition,2
+비지도 학습,2
+IMU,2
+Recommendation System,2
+Data-Driven learning,2
+지식베이스,2
+Coordinated beamforming,2
+Deep learning model,2
+Sarcopenia,2
+Fall Detection,2
+fourth industrial revolution,2
+explainable AI,2
+transformer,2
+LDA,2
+Convolutional Neural Network (CNN),2
+Cloud-based Service,2
+U-net,2
+Spine,2
+generative adversarial network,2
+Computer-Aided Diagnosis,2
+Format Detection,2
+심층 합성곱 생성적 적대 신경망,2
+Complex images,2
+Generative Adversarial Networks,2
+Feature Extraction,2
+Radiomics,2
+분산 컴퓨팅,2
+증강현실,2
+Application,2
+OTT,2
+Moving Object Detection,2
+Data Mining,2
+AIaaS,2
+OpenFaaS,2
+IEEE 802.11,2
+Masking(차폐),1
+Scalable high efficiency video codingIn-loop filteringNeural networksPSNRTimeBit rate,1
+Instance-Level Recognition,1
+Vertical Parking,1
+Landmark Image Dataset,1
+Hardware-friendly,1
+LSTM-CNN,1
+Image Retrieval,1
+Integer arithmetic,1
+Hierarchical Structure(계층 구조),1
+Around View Monitor(AVM),1
+deep learning model fusion,1
+LOAM,1
+emotion classification,1
+Embedded Board,1
+딥 러닝(Deep Learning),1
+Landmark based localization,1
+Matrix Decomposition,1
+THUCNews,1
+쓰레기 무단투기(illegal dumping),1
+wireless security,1
+Interaction(상호작용),1
+LSTM(Long Short term Memory),1
+DNN(Deep Neural Network),1
+객체인식(object detection),1
+Energy Efficiency(에너지 효율),1
+Reinforcement learning(강화학습),1
+Background subtraction,1
+Attention module(주의 모듈),1
+CSI feedback,1
+· Bearing failure prognostics · Deep belief networks · Gaussian process regression · Health indicator construction · Monotonicity,1
+vision,1
+Neural Network Compression,1
+Spectrum Sensing,1
+Parking Slot Occupancy Classification(주차장 점유 슬롯 판단),1
+NILM,1
+Healthcare,1
+Computed Tomography (CT),1
+Training stability,1
+Deep-learning framework,1
+Promoter sites,1
+C language-based hardware verification model,1
+Body Mass Index (BMI),1
+피부질환 식별(identification of skin diseases),1
+Pancreas,1
+이미지 인식(image recognition),1
+ionizing radiation image,1
+Prompter strength,1
+Opens Street Map(오픈 스트리트 맵),1
+power usage pattern,1
+dental radiography,1
+electromagnetic radiation image,1
+data acquisition,1
+computed-aided diagnosis,1
+Mahin Learning,1
+Text,1
+Radar,1
+AGV,1
+Multi-tasking CNN,1
+CrpytoCurrency,1
+Mask Detection,1
+robotic prosthetic hand,1
+semantic segmentation,1
+iPSW(PseDNC-DL),1
+image retrieval,1
+image understanding,1
+동작 추적(skeleton tracking),1
+오픈포즈(Openpose),1
+predicate,1
+· AlexNet · Bidirectional LSTM layer · Deep learning · Faulty gear · Gearbox · Improved grasshopper optimization algorithm (IGOA),1
+visual relationship,1
+Street View,1
+Cognitive Radio,1
+DNN Algorithm,1
+Self-Introduction Essay,1
+Doc2Vec,1
+Welding Monitoring,1
+handwritten character classification,1
+EfficientDet,1
+Yolov5,1
+Searched augmentation,1
+robot control,1
+Piping and Instrument Diagram,1
+Symbol Recognition,1
+Hearing impaired people,1
+Deep Neural network,1
+Denoising Autoencoder,1
+Frame Interpolation,1
+distributed computing,1
+Lipschitz continuity,1
+container volumes forecasting,1
+Adaptive regularizer,1
+MMS,1
+Road Crack,1
+Road Risk,1
+Fault type identification,1
+Segnet,1
+Substation,1
+NARX,1
+SEM,1
+Fractography,1
+Fracture Analysis,1
+Image Labeling,1
+Weld Quality,1
+Laser Weld,1
+bid prediction,1
+Korean document,1
+Pattern recognition,1
+Fault restoration,1
+영상분류,1
+Support Vector Data Description,1
+Bayesian Optimization (BO),1
+Domain Adaptation (DA),1
+Domain Randomization (DR),1
+Deep Reinforcement Learning (DRL),1
+의미론적 영상분류,1
+Semantic Classification,1
+Robot,1
+Artificial intelligence technology,1
+Expert system,1
+sequence-to-sequence learning,1
+local attention mechanism,1
+korean morphological analysis,1
+Numerical Inverse Kinematics,1
+알림 서비스(SMS Service),1
+화재 탐지(Fire Detection),1
+다층퍼셉트론,1
+Boundary System,1
+Contrast Enhancement,1
+Image Enhancement,1
+Prostate Cancer,1
+Image format,1
+Detect,1
+Password Pose,1
+TTS,1
+History,1
+physical layer,1
+Translation,1
+Tongue,1
+Dead Language,1
+Predicted Accuracy,1
+wireless systems.,1
+Text analysis,1
+Autoencoders,1
+적응 신경 퍼지 추론시스템,1
+Cigarette smoking,1
+얼굴 탐지,1
+신규성 탐지,1
+Novelty Detection,1
+미세먼지 지수,1
+SVR (Support Vector Regression),1
+입찰 예측,1
+PM Index,1
+PACT,1
+X-ray,1
+Moblie Application,1
+Healing Recommendation,1
+Emotion Care,1
+Puff,1
+Respiration,1
+Discrete-action Systems,1
+ImageNet,1
+Outliers,1
+직무자율성,1
+Marine(해양),1
+Numerical Model(수치모형),1
+GOCI(천리안 해양관측위성),1
+3D Object Detection,1
+Pseudo Lidar,1
+직무중요성,1
+NTIS,1
+직무특성,1
+Research Report,1
+Text Classification,1
+조직 몰입도,1
+solar power generation,1
+Piecewise overlapped-grouping,1
+insoaltion,1
+Prediction Tool(예측도구),1
+Learning agility,1
+Lumbar vertebrae,1
+Compensation,1
+Wasserstein GAN,1
+Generative models,1
+컨테이너 물동량 예측,1
+Job characteristics,1
+Knowledge Graph,1
+Task significance,1
+Impedance,1
+Region Proposal Network,1
+Task autonomy,1
+Body fat measurement,1
+Information and communication technology,1
+Feature Pyramid Network,1
+Organizational commitment,1
+Composite Feature Maps,1
+Magnetic resonance imaging,1
+학습민첩성,1
+Weighted ensemble,1
+industrial system,1
+Multimodal Data,1
+인식론적 불확실성,1
+Haralick Feature,1
+내재적 불확실성,1
+smart factory,1
+industry 4.0,1
+이상치 검출,1
+Haralick 특성,1
+서포트 벡터 데이터 디스크립션,1
+Bayesian Neural Network,1
+gain tuning,1
+Bayesian pruning,1
+Epistemic uncertainty,1
+Aleatoric uncertainty,1
+Detectron2,1
+다중 데이터,1
+Empty Space(빈 공간),1
+watermark-adaptive,1
+Attention mechanism · Bidirectional LSTM · Deep learning · Feature extraction · Voltage sag causes,1
+robust blind watermarking,1
+invisibility,1
+3D Point Cloud(3차원 점 구름),1
+Wearable electronics,1
+X-ray baggage image,1
+Smart airport,1
+베이지안 신경망,1
+AI airport security,1
+Prohibited item,1
+resolution-adaptive,1
+Synthetic dataset,1
+Underwater simulator,1
+객체분할,1
+얼굴 인식(Face Recognition),1
+Multi-Task learning,1
+Adversarial attack,1
+Idle time optimization,1
+difficulty feature,1
+Tongue segmentation,1
+MWE list,1
+Dictionary,1
+Graph Neural Network,1
+Service Function Chaining,1
+Text-Mining,1
+Collaborative Robot,1
+Noisy image,1
+Physics Engine,1
+Data Base (데이터 베이스),1
+Sensor (센서),1
+Driving Simulator(주행 시뮬레이터),1
+Deep Learning (심층학습),1
+Comment Analysis,1
+Intelligence,1
+MWE processing,1
+MWE acquisition,1
+Speech To Text,1
+Text To Speech,1
+AI Ethics and Safety,1
+Design Convergence,1
+3C-CNN,1
+WeatherDataset-6,1
+AI Industry,1
+Fashion Retrieval,1
+Fashion Recognition,1
+Visual Fashion Analysis,1
+angular resolution,1
+plenoptic image,1
+Lightweight CNN,1
+Face emotion recognition,1
+weight,1
+Korean Characteristics,1
+Measure,1
+Time-Series Forecasting,1
+High precision digital map,1
+Self-driving vehicles,1
+Accident prevention system,1
+Faster-RCNN,1
+Crack,1
+Automobile,1
+Java,1
+Android Studio,1
+Fire,1
+Pallet(파레트),1
+Histogram of Oriented Gradient(화상의 특징 추출),1
+Deep Learning(심층신경망),1
+Machine Learning(머신러닝),1
+Forklift(지게차),1
+Dynamic time warping,1
+Cognitive radio,1
+Signal detection,1
+Indian Publications,1
+Defect detection Unsupervised learning Background reconstruction,1
+Lanes,1
+Traffic Safety,1
+Pedestrians,1
+Occlusion,1
+Light Source Object,1
+Precision agriculture,1
+Spatial information,1
+3D perception,1
+manipulator,1
+harvesting robot,1
+Trajectory Prediction,1
+Anomaly detectionClassificationDeep learningLog messagesUnsupervised learning,1
+ADAS,1
+교통안전,1
+Flying distractor,1
+Synthetic data,1
+Instance segmentation,1
+광원 객체,1
+Optimal Customized Service,1
+ResNet50,1
+grammar inquiry,1
+Game Data,1
+위성 이미지,1
+XGboost,1
+인구통계,1
+Aeon Of Srtife,1
+AOS,1
+도시화,1
+Dehazing,1
+게임데이터,1
+Noise-tolerant,1
+multi-view,1
+multi-frame,1
+Haze detection,1
+compressed video,1
+6-Degree-of-Freedom,1
+Frame enhancement,1
+Safety Management,1
+Low Power,1
+Low Complexity,1
+urbanization,1
+principle component analysis,1
+Grasping,1
+Rayleigh fading,1
+atellite imagery,1
+Detection,1
+Frequency-hopping,1
+Polymer Joining,1
+Laser Welding,1
+Convolutional Neural Networks(CNN),1
+demographics,1
+Secure Coding,1
+Static analysis,1
+Compressed Image,1
+Degradation Model,1
+Super Resolution DenseNet,1
+Versatile Video Coding (VVC),1
+6G,1
+Electromyography,1
+칼만 필터(Kalman Filter),1
+Cough(기침),1
+Perception Performance,1
+Unmanned Road Sweeper,1
+Peak Cladding Temperature,1
+Station Blackout,1
+APR1400,1
+MARS-KS,1
+FLEX Strategy,1
+Systems Engineering,1
+Hologram,1
+UHF sensor,1
+predictive model,1
+Partial discharge,1
+식물 생장,1
+Weather recognition,1
+plant growth,1
+COVID19(코로나19),1
+farm automation,1
+심층학습(Deep learning),1
+sequence data,1
+자율주행(Self-driving),1
+Mobile Physical-layer Learning,1
+텍스트 분석,1
+리뷰 분석,1
+Review Analysis,1
+DTG,1
+Time-series Forecasting,1
+Wind Power Forecasting,1
+Perception-distortion quality,1
+Cycle-GAN,1
+LDCT denoising,1
+Edge enhancement,1
+Low-dose CT,1
+Sound Camera(음향카메라),1
+Feature map,1
+Spatiotemporal Convolutional Neural Network,1
+Dental implant,1
+hand surveillance system,1
+Deep Convolutional Neural Networks,1
+Local feature,1
+Global feature,1
+human sensing,1
+single shot multiBox detector,1
+thermal image,1
+Heterogeneous DCNN Fusion,1
+Wavelets,1
+Image Fusion,1
+hand detector,1
+Total variation,1
+Human activity recognition,1
+Encoder-decoder network,1
+Multi-scale feature map,1
+Recurrent Neural Networks,1
+Contrast enhancement,1
+Title Generation,1
+storage,1
+Text to Image Synthesis,1
+Dense,1
+WordNet,1
+mobile platform,1
+Dynamic MR imaging,1
+Nonstationary,1
+CO2 enrichment,1
+Compressed sensing,1
+Service,1
+Human Scanner,1
+Customized,1
+Beauty,1
+Convolutional deep learning,1
+Zinc plating of circular plug,1
+Error based learning,1
+defect detection,1
+difference image,1
+CCM,1
+中国,1
+保護,1
+個人情報,1
+Deep two-way long-term short memory,1
+IR Image,1
+Auxiliary information,1
+collaborative filtering,1
+ROS(Robot Operation System),1
+edge server,1
+cloud,1
+Mobile robot,1
+dermatology,1
+UMLS,1
+emergency department,1
+data sparsity,1
+stacked denoising autoencoder,1
+k-평균 군집화,1
+문법 탐구,1
+k-means clustering,1
+R-CNN,1
+Computer Graphics Deep learning,1
+深層学習,1
+Surface Roughness,1
+Protection,1
+Personal Information,1
+Time-series classification,1
+CO₂ enrichment,1
+3D convolution,1
+Docker,1
+Spatial attention,1
+Temporal attention,1
+Human action,1
+Multitemporal analysis,1
+Crop classification,1
+Audio,1
+도커,1
+Visual saliency,1
+Computer Numerical Control,1
+time-frequency domain,1
+vehicle distance,1
+bearing fault diagnosis,1
+cross validation,1
+Verification method,1
+UAM,1
+vehicle classification,1
+drone,1
+real-time system,1
+Sensor fusion,1
+occlusion,1
+CNN-CRFs,1
+Bi-LSTM-CRFs,1
+vehicle count,1
+경험 데이터,1
+복구,1
+Alzheimer's Disease,1
+Skip-connection,1
+Underwater image enhancement,1
+HSE,1
+dermoscopic image,1
+가상 시뮬레이터,1
+Ergonomics,1
+Service Design,1
+Kinetic Family Drawing,1
+Skeletal Data,1
+Identity Detection,1
+변형 MFCC,1
+Tire Quality,1
+Class Activation Map,1
+Modified MFCC,1
+Hornet classification,1
+Object labeling,1
+Mish function,1
+Spatial attention module,1
+imbalanced class,1
+Posture Estimation,1
+Workload,1
+위장관 위치 추적,1
+캡슐내시경,1
+Light-Car Detection,1
+context convolution module,1
+Diode Laser,1
+분류기,1
+Unbalanced Dataset,1
+Image Data Augmentation,1
+fewer parameters,1
+Classifier,1
+열화상 이미지,1
+foreground/background features,1
+strawberry disease,1
+color emotions,1
+facial expression,1
+color conversion,1
+Semi-supervised generative adversarial networks,1
+Battery module,1
+Thermal Image,1
+Quality Inspection,1
+HOI detection,1
+가중치 값,1
+human-object interactions,1
+Experience Data,1
+Restoration,1
+Gastrointestinal Location Tracking,1
+Capsule Endoscopy(CE),1
+Dilated Convolution,1
+Graph Convolution,1
+Virtual Simulator,1
+Traffic Flow Prediction,1
+FA,1
+Weight Value,1
+데이터셋 불균형,1
+Heat treatment,1
+이미지 데이터 확장,1
+Quadcopter,1
+three-stream network,1
+CognitiveRadio Network,1
+Deep Learning Neural Networks(심층학습 신경망),1
+Automatic Modulation Classification,1
+high-dimensional data,1
+Street Tree,1
+서술어 교육,1
+문법 교과서,1
+ResNet Algorithm,1
+고차원 자료,1
+벌점회귀,1
+변수선택,1
+문장 구조 교육,1
+Structural health monitoring,1
+문장 성분 교육,1
+penalized regression,1
+Predicate education Misconception,1
+Grammar textbook,1
+Sentence structure education,1
+Sentence component education,1
+FastPhotoStyle,1
+Occlusion Area,1
+오개념,1
+Sparse auto-encoder (SAE),1
+Denoising auto-encoder (DAE),1
+convolutional denoising autoencoder (CDAE),1
+영상복원,1
+잡음영상,1
+image restoration,1
+noise reduction,1
+의료 딥러닝,1
+전도 열전달,1
+방사선 비투과성 표지자,1
+대장 통과 시간,1
+온도 분포,1
+Conduction heat transfer,1
+Temperature distribution,1
+만성 변비,1
+3D Spatial Information,1
+Contractive auto-encoder (CAE),1
+stylization,1
+synthetic data,1
+인공지능 회화,1
+심층 강화 학습,1
+객체탐색,1
+mask R-CNN,1
+deformable convolutional network,1
+LDC,1
+Pedestrian,1
+Monocular Camera,1
+렌즈왜곡보상,1
+다중 스케일,1
+image-to-image translation,1
+multi-scale,1
+합성곱신경망 모델,1
+보행자,1
+단안카메라,1
+Environment Recognition,1
+Damage localization,1
+물리 기반 캐릭터 제어,1
+Luxo,1
+인공창의,1
+Physics-based character control,1
+4차 산업,1
+variable selection,1
+Artificial Intelligence painting,1
+Artificial creative,1
+algorism,1
+Generalization capacity,1
+T2 relaxation,1
+Myelin water imaging,1
+Manifold Learning,1
+Cumulative Attribute Coding,1
+Least Square Regression,1
+Age Estimation,1
+Prediction System,1
+AI Stock Prediction,1
+인공지능 주가분석,1
+Chronic Constipation,1
+CCTV Video Analysis,1
+Sensitivity analysis,1
+플리커,1
+소셜네트워크서비스,1
+Historical Debates,1
+Family History,1
+Deep Listening,1
+Historical Thinking,1
+Oral History Education,1
+역사적 논쟁,1
+가족사,1
+깊이 듣기,1
+역사적 사고,1
+구술사 교육,1
+Marine leisure,1
+Sailing yacht,1
+Battery charge,1
+Data prediction,1
+토픽모델링,1
+social network service,1
+해양레저,1
+Machine learning algorithms,1
+Overheating(과열),1
+Thermal comfort(열쾌적),1
+Zero Energy Building(제로에너지빌딩),1
+Complex Failure Prediction,1
+Hierarchical Structure,1
+어탠션,1
+영구자석 동기전동기 (Permanent Magnet Synchronous Motor),1
+복합 장애 예측,1
+계층적 구조,1
+Flickr,1
+딥러닝 (Deep learning),1
+전처리 (Preprocessing),1
+리샘플링 (Resampling),1
+Education data mining,1
+Statistical analysis technique,1
+Fully connected,1
+세일링 요트,1
+Colon Transit Time,1
+Big Data Analysis,1
+통합보안관제시스템,1
+보안빅데이터,1
+Deaf People,1
+융합보안,1
+보안관제,1
+Image Conversion(이미지 변환),1
+Recurrence Plot(재현 그림),1
+Scalogram(스케일로그램),1
+전기 아크,1
+electric arc,1
+prediction system,1
+Prognostic and Health Management(건전성 예측 및 관리),1
+Medical Deep Learning,1
+Radiopaque Marker,1
+Vehicle counting,1
+Convergence Security,1
+Enterprise Security Management System,1
+배터리 충전,1
+Road Surface Detection(도로 노면 인식),1
+데이터 예측,1
+완전연결구조,1
+Predicting student performance,1
+YouTube,1
+회귀 분석,1
+위험 소리 분류,1
+청각장애인,1
+SE-ResNeXt,1
+상관 분석,1
+유튜브,1
+데이터 마이닝,1
+Cycle GAN(Cycle-생산적 적대 신경망),1
+Semantic Image Segmentation(의미론적 이미지 분할),1
+Generating Datasets(데이터 생성),1
+Hazardous Sound Classification,1
+Damage detection,1
+무릎 골 종양,1
+long- short-term memory (LSTM),1
+정확도,1
+Kernel,1
+CNN(Convolution Neural Network),1
+Accuracy,1
+World View of Spirituality,1
+학습 시간,1
+레이어,1
+커널,1
+Eastern Learning,1
+Obstacle Overcoming,1
+Daoism,1
+TensorRT,1
+에스에스디,1
+텐서알티,1
+tomato ripensess recognition,1
+prediction of academic performance,1
+장일순,1
+Layer,1
+Learning Time,1
+Deep ecology,1
+Video Classification,1
+Optical character recognition (OCR),1
+Scene text recognition (STR),1
+학습분석,1
+자동채점,1
+Ecological World View,1
+자동평가,1
+Ecological Philosophy,1
+서술형 문항,1
+learning analytics,1
+automated scoring,1
+automated evaluation,1
+descriptive assessment,1
+Holistic World View,1
+Feature Fusion,1
+3D Residual Dense Network,1
+학업성취 예측,1
+생태적 세계관,1
+생태철학,1
+scheduling,1
+embedded system,1
+휴리스틱,1
+이종 프로세서,1
+임베디드 시스템,1
+노장,1
+영상인식,1
+상품검색,1
+정보공유시스템,1
+Augmented Realty,1
+Product Search,1
+Share system,1
+엣지 컴퓨팅,1
+Stream Data,1
+edge computing,1
+어텐션 메커니즘,1
+heterogeneous processors,1
+heuristic,1
+Professional Baseball,1
+가상착용,1
+KNN and AdaBoost,1
+Machine Learning Model,1
+프로야구,1
+전일적 세계관,1
+심층생태학,1
+영성적 세계관,1
+동학,1
+KNN과 AdaBoost,1
+머신러닝 모델,1
+Quality improvement,1
+Human representation,1
+Virtual-try-on,1
+비용 함수,1
+성능 개선,1
+인간 표현,1
+Text detection,1
+지능형 소프트웨어,1
+소프트웨어 안전성,1
+역사교육,1
+서양사,1
+Genome,1
+학습요소,1
+Disease prediction,1
+Digital healthcare,1
+Wearable device,1
+라이프 로그,1
+유전자,1
+질병 예측,1
+디지털 헬스케어,1
+웨어러블 디바이스,1
+계열성,1
+History Education,1
+World History,1
+Western History,1
+세계사,1
+Condition monitoringFault diagnosis,1
+Artificial Intelligence Deep Learning,1
+고정감시,1
+Wheel-Leg Mobile Robot,1
+unet,1
+segnet,1
+환경인식,1
+험지극복,1
+휠-레그 모바일 로봇,1
+dice loss,1
+knee bone tumor,1
+medical image segmentation,1
+Autonomous Vehicle(자율주행자동차),1
+Object Detecting(객체검출),1
+Object Tracking(객체추적),1
+욜로,1
+Life-log,1
+건전성감시,1
+Web-Crawling,1
+웹 크롤링,1
+소프트웨어 안전성 정책,1
+Diffusion,1
+철광석 가격,1
+single image,1
+spherical panorama,1
+단일 이미지,1
+Perfusion,1
+잡음 감쇠,1
+구형 파노라마,1
+커널 크기,1
+깊이 추정,1
+Software satety policy,1
+Noise reduction,1
+Software safety,1
+Intelligent software,1
+Kernel size,1
+Jang Ilsoon,1
+그레인저 인과관계,1
+Price of iron ore,1
+빅 데이터,1
+Granger causality,1
+Learning Component,1
+The Sequence,1
+주의 네트워크,1
+Medical Image Segmentation,1
+positive identity,1
+Korean culture understanding ability,1
+Attention Network,1
+project learning,1
+Brain Neoplasm,1
+Korean culture education,1
+한국문화이해능력,1
+프로젝트 수업,1
+Magnetic Resonance Imaging,1
+한국문화교육,1
+Time-series forecasting,1
+eXplainable AI,1
+Indoor temperature prediction model(실내온도 예측모델),1
+미래학습 논리,1
+Optical Coherence Tomography,1
+Synodality,1
+gan,1
+Conditional GAN,1
+Leadership Style,1
+Layer Segmentation,1
+Pope Francis,1
+유배,1
+코르도바,1
+Process analysis automation,1
+시노달리티,1
+리더십 스타일,1
+프란치스코 교황,1
+贈詩,1
+Abnormal Behavior,1
+humanism,1
+Activity Recognition,1
+Cordoda,1
+Exile,1
+unpaired training data,1
+과세가치,1
+Jo Sik,1
+道學.,1
+南冥學,1
+朱子學,1
+Validity measures,1
+「正脈高風辨」,1
+Denoising STEM images Deep learning Unsupervised learning,1
+document image binarization,1
+鄭逑,1
+鄭仁弘,1
+李滉,1
+曺植,1
+신경망 모형,1
+비정형데이터,1
+과세표준,1
+emotion,1
+morality,1
+practice,1
+Privacy Policy,1
+종단간,1
+음성인식,1
+end-to-end,1
+automatic speech recognition,1
+Sustainable forest development,1
+Artificial Neural Networks (ANNs),1
+Drone image,1
+Information Gain,1
+Shannon Entropy,1
+Iot Middle Ware,1
+Ppuri Industry,1
+Vegetation structure,1
+Physics engine,1
+Generation method,1
+Interactive storytelling,1
+준교사 학습,1
+Android Malware,1
+Cattle,1
+Mobile Malicious Apps,1
+Jeung-si(贈詩),1
+Estrus,1
+휴머니즘,1
+정감,1
+도덕,1
+실천,1
+Subject Right,1
+Privacy Protect,1
+Traffic light detection,1
+Decision Tree Model,1
+hand-craft feature,1
+adverse weather condition,1
+Side-Channel Attack,1
+Power Analysis,1
+Disassembler,1
+Yi Hwang,1
+Jeong In Hong,1
+Jeong-gu,1
+Trajectory prediction(경로 예측),1
+Learning based model(학습 기반 모델),1
+fashion clothing images,1
+optimized dynamic decay learning rate,1
+Interaction(상호 작용),1
+Supervised learning(지도 학습),1
+deblurring,1
+light field,1
+Data-driven Modeling (데이터기반 모델링),1
+스트림 데이터,1
+Context-based Spell checker,1
+Bahdanau Attention,1
+Sequence to Sequence,1
+Otorhinolaryngology,1
+Seq2Seq,1
+Hardware architecture,1
+Fashion-MNIST dataset,1
+Lithium-ion Battery(배터리),1
+accelerator,1
+Remaining Useful Life(잔여 유효수명),1
+flood forecasting,1
+Flight Simulation(비행 시뮬레이션),1
+Bandwidth Extension,1
+Image Inpainting,1
+Unmanned Aerial Combat(무인 공중 교전),1
+Deep Reinforcement Learning(심층 강화학습),1
+Big Data(빅 데이터),1
+Machine Learning(기계학습),1
+PM2.5 Forecasting,1
+Outlier,1
+Arrhythmia,1
+Heartbeat detection,1
+Prognostics and Health Management(고장예지 및 건전성 관리),1
+Vehicle License Plate Recognition,1
+자동차 번호판 인식 시스템,1
+Verilog-HDL,1
+batch normalization,1
+「Jeong-maek- go-pung-byeon」,1
+RC beam,1
+수업 방안,1
+김애란,1
+「나는 편의점에 간다」,1
+성인 학습자,1
+한국문학 교육,1
+edge detection,1
+한국문학,1
+외국인 학습자,1
+외국인,1
+Confucian philosopher.,1
+Nammyeong School,1
+Image context,1
+Image captioning,1
+Neo-Confucianism,1
+Visual description,1
+한국문학 교육 목표,1
+crack,1
+Korean Literature Education Goal,1
+Foreigners,1
+Teaching Plan,1
+Aeran Kim,1
+Image deep learning,1
+I Go to Convenience Store,1
+Adult Learners,1
+Porcelain insulator,1
+Maintenance,1
+Korean Education,1
+Korean Literature Education,1
+놀이~배움(play~learning),1
+Korean Literature,1
+기록(document),1
+이해(understanding),1
+fire,1
+Foreign Learners,1
+Advanced Sub-unit Interaction,1
+Thermal,1
+Heat Treatment,1
+data classification,1
+hierarchical clustering,1
+data pattern,1
+data analysis,1
+특허심사,1
+데이터 분류,1
+AI invention,1
+클러스터,1
+계층적 클러스터링,1
+patent examination,1
+데이터 패턴,1
+k겹 교차검증,1
+자동머신러닝,1
+랜덤탐색,1
+베이지안 최적화,1
+Eco-friendly Grade Label for Vehicle,1
+cluster,1
+Machine learningDeep learningClassificationEmoticonText,1
+자동차 배출가스 등급제,1
+Oxygen depleted water,1
+character recognition,1
+Dynamic capability,1
+Type of innovation,1
+External search behaviors,1
+Open Innovation,1
+Absorptive Capacity,1
+동태적 역량,1
+혁신유형,1
+외부지식탐색활동,1
+개방형 혁신,1
+흡수역량,1
+튜링테스트,1
+빈산소 수괴,1
+A.I. (Artificial Intelligence),1
+특허적격성,1
+암상 분류,1
+Virtual Data Generation,1
+Middle School Student,1
+Digital Image Processing,1
+Semiconductor Photo Lithography Inspection,1
+Prosthetic hand,1
+critical thinking,1
+digital media,1
+key knowledge,1
+Surface defect detection,1
+key competence,1
+logic of futures learning,1
+Cable Data,1
+모둠 구성,1
+Skeleton Key points,1
+비판적 사고,1
+디지털 매체,1
+핵심지식,1
+Process mining,1
+Imbalanced data,1
+보이스피싱,1
+Text Recognition,1
+Artificial intelligent,1
+k-fold cross validation,1
+SIAI,1
+autoML,1
+안전진단,1
+facies classification,1
+Safety Inspection,1
+named entity registration(NER),1
+criminal information extraction,1
+investigation technique,1
+tracking of additional crimes,1
+voice phishing,1
+개체명 인식(NER),1
+범죄정보 추출,1
+수사기법,1
+여죄 추적,1
+AI발명,1
+Career Decision,1
+초해상도,1
+저자원 언어,1
+Security,1
+Synthetic patient records,1
+Electronic health records,1
+Drone Diagnosis,1
+Transmission Towers & Facilities Detection,1
+Image Label Prediction,1
+Narratology,1
+Authoring Support,1
+Story Authoring,1
+Computational Narrative Generation,1
+Chen jiou chuan,1
+Tong-tian-ian,1
+YOLO v2,1
+Uncertainty quantification,1
+True and false two minds and the self-authentication,1
+Luganda,1
+Generative Model,1
+Wang Yang-ming,1
+Gated-recurrent unit,1
+teaching standards,1
+teacher competency,1
+competency education,1
+교사기준,1
+교사역량,1
+교원양성 교육과정,1
+역량 기반 교육과정,1
+· Long short-term memory · Kernel principal component analysis · Bearing degradation assessment · Feature fusion · Remaining useful life · KPCA-DLSTM,1
+Cramér–Rao lower bound (CRLB) · Terrain-referenced navigation (TRN) · Recurrent neural network (RNN) · Particle filter (PF) · Measurement noise covariance,1
+YouTube Comments,1
+Object Detecting,1
+Low-resource language,1
+의견 마이닝,1
+유튜브 댓글,1
+Sleep stage classification,1
+Meditation method in sitting quietly,1
+GMDH,1
+license plate recognition,1
+순환 신경망,1
+자동 검침,1
+가스계량기,1
+센서 데이터 분석,1
+행동 빅 데이터,1
+스켈레톤 모델링,1
+행동 패턴 분석,1
+지능형 디지털 사이니지,1
+Machine Learning Approach,1
+Sensor data analysis,1
+Behavior big data,1
+Skeleton modeling,1
+Gradient Boosting,1
+Behavior pattern analysis,1
+Intelligent digital signage,1
+target detection,1
+선택적 문자 인식,1
+고속 병렬처리,1
+Surrogate modeling,1
+Gasometer,1
+Reactor simulations,1
+A.I (artificial intelligence),1
+진구천,1
+통천암,1
+martensite,1
+오장내관,1
+입지정좌법,1
+왕양명,1
+prior austenite grain boundary (PAGB),1
+parallel processing,1
+selective optical character recognition,1
+automatic reading,1
+그래디언트 부스팅,1
+진로 결정,1
+중학생,1
+formation of students groups,1
+Autonomous drivng(자율주행),1
+입찰예측,1
+Industrial Revolution,1
+형태학,1
+이미지 이진화,1
+바텀-햇 변환,1
+Epigenetics,1
+Foodomics,1
+Personalized diet,1
+Artificial intelligence (AI),1
+Fourth industrial revolution,1
+저해상도,1
+하수관거,1
+웨이블릿,1
+crack detection,1
+sewer,1
+wavelet,1
+evolution,1
+human life,1
+global history,1
+진화,1
+인간 생활,1
+도로균열 검출,1
+이미지 노이즈,1
+Bottom-Hat Transform,1
+본질적 질문,1
+원효,1
+narrative,1
+course design,1
+curriculum reconstruction,1
+Essential question,1
+내러티브,1
+코스 설계,1
+교육과정 재구성,1
+Robotic surgical procedures,1
+Image Threshold,1
+Total mesorectal excision,1
+Rectal neoplasms,1
+Weldment,1
+Damage,1
+Railway Bogie,1
+Image noise,1
+Road Crack Detection,1
+Morphology,1
+글로벌 역사,1
+Future,1
+이론화쟁 글쓰기,1
+humans,1
+methamphetamine,1
+FCN(완전 연결망),1
+Digitization(디지털화),1
+Tabular Maintenance Data(정비 자료표),1
+1,1
+QRS,1
+ECG,1
+Performance results,1
+types of helicopters,1
+binary classification,1
+Ionospheric model,1
+영역기반 합성곱 신경망,1
+스마트 팜,1
+불량검출,1
+복숭아,1
+Region Convolutional Neural Network,1
+Smart Farm,1
+Defect Detection,1
+Peach,1
+impurity profiling,1
+chemometric analysis,1
+GC-FID/MS,1
+sequential shape descriptor,1
+Situation,1
+Problem,1
+산업혁명,1
+미래,1
+인간,1
+상황,1
+문제,1
+lip motion,1
+lip commands,1
+Balanced Scorecard,1
+lip reading,1
+스마트폰 앱,1
+Art Education,1
+Smartphone Apps,1
+Animation,1
+Vietnam,1
+Public Hospital,1
+Performance,1
+일연,1
+이류중행 글쓰기,1
+Open Source,1
+Course goals,1
+Entry,1
+Data Science,1
+소프트웨어 교육,1
+스몰데이터,1
+엔트리,1
+데이터과학,1
+comparison,1
+Exchange rate,1
+Image Localization,1
+Computer Vision Technology,1
+이미지 찾기,1
+컴퓨터 비전기술,1
+이미지 인식기술,1
+Image Similarity,1
+User Preference,1
+Interior Finishing Material,1
+사용자 선호도,1
+실내 마감재,1
+Artificial neural networks,1
+Small Data,1
+Software Education,1
+Lidar(라이다),1
+콘크리트 온도 모니터링,1
+Education,1
+R 매핑,1
+교육,1
+K-means clustering,1
+thermal imaging camera,1
+concrete temperature monitoring,1
+이미지 프로세싱,1
+열화상카메라,1
+· Intelligent diagnosis · Rolling bearing · Compressed sensing · Sparse auto-encoder · Wavelet packet energy entropy,1
+Clustering(군집화),1
+품질 관리,1
+저수지 수위,1
+유출량,1
+농업용 저수지,1
+농업용수,1
+Feature Point(특징점),1
+Object(객체),1
+Classification(분류),1
+Breadth,1
+Physics curriculum,1
+전쟁,1
+Middle school,1
+Piping,1
+Equipment,1
+DEXPI,1
+De facto standard,1
+Data exchange,1
+Feature Merge,1
+Photometric Stereo,1
+Teenager,1
+Hoitong,1
+Gyeongju,1
+Buddhism,1
+War,1
+writing of ilyujunghaeng,1
+writing of Ilonhwajaeng,1
+Ilyeon,1
+Wonhyo,1
+회통,1
+경주,1
+불교,1
+Process plant,1
+P&amp,1
+ID,1
+word2vec,1
+수준,1
+범위,1
+과정 목표,1
+물리 교육과정,1
+중학교,1
+Comment,1
+Back Advertising,1
+Influencer,1
+댓글,1
+Demand Response · Long short-term memory · Non-intrusive load monitoring · Operational pattern recognition · Solar power estimation,1
+뒷광고,1
+인플루언서,1
+헬스케어 플랫폼,1
+데이터분석,1
+건강검진,1
+Healthcare platform,1
+Knowledge base,1
+Health medical examination,1
+Technology Trend,1
+GitHub,1
+R mapping,1
+전문가 책임,1
+Elena Esposito,1
+virtual contingency,1
+double contingency,1
+person,1
+attribution,1
+communication and action,1
+artificial emotions,1
+artificial communication,1
+엘레나 에스포지토,1
+가상 우연성,1
+이중의 우연성,1
+인격,1
+귀속,1
+소통과 행위,1
+인공 감정,1
+인공 소통,1
+로보어드바이저,1
+정보비대칭성,1
+증명책임,1
+코로나 19,1
+원격의료,1
+로봇세,1
+리걸 테크,1
+Der virtuelle Verwaltungsakt,1
+Burokratiekosten,1
+E-Government,1
+Digitalisierung,1
+전자적 행정행위,1
+완전자동화된 행정행위,1
+디지털에 의한 행정의 변모,1
+온라이프,1
+알고리즘 알고리즘에 의한 행위조종,1
+기본소득,1
+가상적 행정행위,1
+관료제비용,1
+전자정부,1
+디지털화,1
+Basic Income,1
+Robot Tax,1
+Telemedicine,1
+Corona 19,1
+설명의무,1
+서비스 계약,1
+Verhaltenssteuerung durch Algorithmen,1
+인공지능 전문 추천 서비스,1
+Toegye 退溪,1
+Urogynecology,1
+Sacrocolpopexy,1
+Pelvic organ prolapse,1
+Embeddings,1
+Timbre Analysis,1
+Signal to Noise Ratio.,1
+public square,1
+100th Anniversary,1
+March 1 Movement,1
+1919 Bible Conference,1
+Rose,1
+Inception,1
+Disease Classification,1
+Feature pyramid learning,1
+Multi-scale detection,1
+Anchor free method,1
+특징 피라미드 학습,1
+다중 크기 검출,1
+Yi Hwang 李滉 (1501-1570),1
+poems about birds,1
+flowers,1
+Pansharpening,1
+Information Asymmetry,1
+Burden of Proof,1
+Duty to Explain,1
+Professional Responsibilities,1
+Service Contracts,1
+Robo Advisor,1
+Specialized (Recommendation) Services Using Artificial Intelligence Algorithms,1
+Spatial Correlation Coefficient,1
+KOMPSAT-3A,1
+moon,1
+Dilated Residual Network,1
+journey poems (紀行詩),1
+extempore poems (卽事詩),1
+responding poems(和答詩),1
+moralistic character,1
+poems about plum blossoms (梅花詩),1
+etc. (詠物詩),1
+trees,1
+AI(Kunstliche Intelligenz),1
+Legal Technology,1
+Network Analysis,1
+didactic orientations,1
+Piano,1
+Romanticism,1
+Russian,1
+Mazurk Op. 29,1
+Mazurka,1
+Reinhold Glière,1
+피아노,1
+낭만주의,1
+러시아,1
+마주르카 Op. 29,1
+마주르카,1
+라인홀드 글리에,1
+Lissajous,1
+Electronic Valve,1
+실천방안,1
+교수학습지향,1
+포용적 민주시민교육,1
+민주시민교육,1
+포용국가,1
+코메니우스,1
+대교수학,1
+덕,1
+imitation,1
+aspect,1
+emergence,1
+Widaetaekkyeon,1
+cultural transition,1
+Taekkyeon,1
+discipline,1
+temperance,1
+thinking of generalization,1
+order,1
+질서,1
+virtue,1
+The Great Didactic,1
+Comenius,1
+훈육,1
+절제,1
+일반화의 사유,1
+모방,1
+조화,1
+practical strategies,1
+inclusive civic education,1
+onlife,1
+civic education,1
+Gated linear unit,1
+Dilated convolution,1
+Sound event detection,1
+Audio tagging,1
+약한레이블,1
+시간-주파수 영역분할 맵,1
+게이트 선형 유닛,1
+확장 합성곱 신경망,1
+음향 이벤트 검출,1
+음향 태깅,1
+버스 승객 개수,1
+객체 윤곽선 검출,1
+이동 객체 검출,1
+Bus Passenger Counting,1
+Object Contours Detection,1
+Signal to Noise Ratio,1
+Der elektronische Verwaltungsakt,1
+Der vollstandig automatisierte Verwaltungsakt,1
+Transformation der Verwaltung durch Digitalisierung,1
+T-f segmentation map,1
+Weak label,1
+event,1
+Virtual reality,1
+inclusive state,1
+Invasion depth,1
+Early gastric cancer,1
+조건 적대적 생성 신경망,1
+conditional GAN,1
+Image-to-Image Translation,1
+Multimodal-DNN,1
+Warranty Data,1
+Taiwan,1
+video summary,1
+Needle stick injuries,1
+Internship and residency,1
+Universal precautions,1
+저작도구,1
+비디오 요약,1
+이벤트,1
+tagging tool,1
+meta-data,1
+Research Trends,1
+환경음 분류,1
+Binder jetting,1
+The Twin,1
+왓슨,1
+법적 인격,1
+Diagnostics,1
+Product Liability Act,1
+The fourth Industrial Revolution,1
+Criminal Responsibiliyt of Artificial Intelligence,1
+Criminal Ability of Artificial Intelligence,1
+Medical Practice,1
+Medical Malpractice,1
+Watson,1
+Legal Personhood,1
+SWMM,1
+펌프가동,1
+빗물펌프장,1
+내수침수,1
+Image data mining Geotagged photos Flickr Convolutional neural network Inception v3 model,1
+Inner Cooperation,1
+Shadow,1
+Binary Opposition,1
+의료과실,1
+의료행위,1
+인공지능의 범죄능력,1
+Ski · Robot · Humanoid · Challenge,1
+Mangong,1
+Ven,1
+White Space,1
+Future Promsing Technology,1
+Biohealth,1
+공백기술,1
+미래 유망기술,1
+바이오헬스,1
+Confusion Matrix,1
+인공지능의 형사책임능력,1
+UAV Imagery,1
+Pine Wilt Disease,1
+오차행렬,1
+무인항공기 이미지,1
+소나무재선충병,1
+진단,1
+제조물책임법,1
+제4차 산업혁명,1
+Two Brothers,1
+내적 통합,1
+Dhamma Debate,1
+이항대립. 그림자,1
+curriculum,1
+extracurriculum,1
+extra-curricular,1
+비교과 프로그램,1
+비교과 교육과정,1
+비교과 인식,1
+비교과 수요,1
+비교과,1
+Welding crack diagnosis,1
+Nondestructive testing,1
+Laser active thermography,1
+용접 균열 진단,1
+비파괴검사,1
+레이저 열화상,1
+Prophet model,1
+long-term prediction,1
+forecasting garlic price,1
+SARIMA,1
+Prophet 모형,1
+high education,1
+Gas Turbine(가스터빈),1
+Optimal Operation and Maintenance System(최적 운영 지원 시스템),1
+Unit Composition,1
+두 형제,1
+쌍둥이,1
+신호 대 신호 변환,1
+트랜스포머 네트워크,1
+음성 변환,1
+signal-to-signal conversion,1
+transformer network,1
+voice conversion,1
+Backward Design,1
+Performance Monitoring and Diagnosis System(성능 감시 진단 시스템),1
+Using of Technology,1
+지속가능,1
+기술 활용,1
+백워드설계,1
+2015 개정 실과교육과정,1
+Combined Cycle Power Plant Simulator(복합 화력 발전 시뮬레이터),1
+High Temperature Components Management System (고온 부품 관리 시스템),1
+Anomaly Detection and Prediction System(이상 진단 예측 시스템),1
+Bhikkhuni,1
+a kind of active discussion about Dhamma between the master and the practitioners,1
+마늘 가격 예측,1
+비교 독서,1
+서정,1
+이육사,1
+direction,1
+research trend,1
+academic journal,1
+thesis,1
+screen dance art,1
+방향성,1
+연구동향,1
+학술지논문,1
+학위논문,1
+스크린무용예술,1
+Gaeseong,1
+“Her House”,1
+“Yisaeng peeks inside the fence”,1
+Comparitive reading,1
+the novel,1
+개성,1
+「그 여자네 집」,1
+온유돈후,1
+이상적 공간,1
+理 사상,1
+왕수인,1
+Sense,1
+Liang-chich,1
+Rudolf Steiner,1
+Wang Shou-Ren,1
+중화,1
+감각,1
+양지,1
+루돌프 슈타이너,1
+Drug Abuse(약물 오남용),1
+Lee Yuk-sa,1
+Drug Side Effects (약물 부작용),1
+UI Design(UI 디자인),1
+Medicine Application Design (의약품 어플리케이션 디자인),1
+Mobile Application (모바일 어플리케이션),1
+Li idea,1
+ideal space,1
+Onyudonhu,1
+lyricism,1
+「이생규장전」,1
+소설,1
+Approval,1
+ecumenical spirit,1
+Reference Frame,1
+Immersive 360° Media,1
+self-awareness,1
+identity,1
+agent,1
+authenticity,1
+human intelligence,1
+자의식,1
+정체성,1
+행위자,1
+진정성,1
+인간 지능,1
+HS,1
+시대정신,1
+인가,1
+법거량,1
+비구니,1
+만공,1
+Spirit of the Times,1
+RGB Vector,1
+Object Feature Information,1
+On-Device,1
+혜암 이장식,1
+mission-minidedness,1
+influence of a devout mother,1
+evangelical faith,1
+Hye-am Chang Sik Lee,1
+에큐메니칼 정신,1
+선교 마인드,1
+경건한 어머니의 감화,1
+복음주의 신앙,1
+keyword extraction,1
+Distributed Computing,1
+Korean discourse,1
+생산성,1
+설비 예지 보전,1
+온-디바이스,1
+에지 컴퓨팅,1
+스마트 팩토리,1
+Productivity,1
+Equipment Predictive Maintenance,1
+장기 예측,1
+피아식별 모형,1
+오디오 특징 추출,1
+Fan Yao(姚范),1
+공감,1
+코티칭,1
+e-book,1
+교수학습설계,1
+디자인씽킹,1
+기독교교육,1
+ResUNet,1
+Hounsfield Unit (HU),1
+Liver Segmentation,1
+鐘山書院,1
+南京,1
+交游,1
+姚范,1
+程晉芳,1
+姚鼐,1
+袁枚,1
+隨園雅集圖後記,1
+Zhongshan academy,1
+Nanjing,1
+Christian education,1
+Design Thinking,1
+Instruction Design,1
+성취지향성,1
+psycho-linguistics,1
+user behavior,1
+events,1
+feedback,1
+achievement orientation,1
+school innovation,1
+academic failure,1
+피드백,1
+학교혁신,1
+E-book,1
+학업실패,1
+License Plate Detection,1
+번호판 인식,1
+번호판 검출,1
+적대적 생성망,1
+고해상도,1
+Empathize,1
+Co-teaching,1
+Friendship,1
+Jinfang Cheng(程晉芳),1
+Fine-tuning,1
+Nai Yao(姚鼐),1
+유아교사,1
+적은 데이터 음성 인식,1
+종단간 음성 인식,1
+음성 인식,1
+small-data speech recognition,1
+end-to-end model,1
+speech recognition,1
+Radio frequency identification,1
+Unmanned aerial vehicle,1
+Material localization,1
+School reform,1
+Pedagogical change,1
+Multiple case studies,1
+Multi-leveled roles,1
+Innovation scaling,1
+CHAT,1
+Audio preprocessing,1
+Audio feature extraction,1
+오디오 전처리,1
+철학적 사유하기,1
+철학적 탐구공동체,1
+인문학적 성장,1
+지과위무,1
+Mei Yuan(袁枚),1
+Postscript to the picture of the elegant meeting at Suiyuan(隨園雅集圖後記),1
+living in harmony,1
+the primary of power as a means to achieve peace,1
+virtues,1
+Munmyo Ilmu,1
+cultural brand,1
+화합,1
+화덕,1
+그림책,1
+덕성,1
+문묘일무,1
+문화브랜드,1
+Picture books,1
+Humanistic growth,1
+Philosophical inquiry community,1
+Philosophical thinking,1
+Early childhood teachers,1
+Ultrasound images,1
+Batch normalization,1
+Feature-map,1
+A.I.,1
+Trace Format,1
+Behavior Analysis,1
+Advanced Persistent Threat,1
+voice recognition,1
+system control,1
+sound sensor,1
+microphone,1
+acustic control,1
+appreciation art educaiton,1
+Gamrodo,1
+Buddhist Paintings,1
+culture of the Joseon Dynasty,1
+감상,1
+감로도,1
+불교회화,1
+조선문화,1
+디지털기술력,1
+패션산업,1
+Digital technology,1
+Intrusion Detection,1
+Data science,1
+Social safety net,1
+저작권법,1
+Identification model of friend or foe,1
+Binary classification,1
+Protection Requirement,1
+Subject of Rights,1
+Copyright Law,1
+Artificial Intelligence Creation,1
+보호 요건,1
+권리 주체,1
+heavy uploader profiling,1
+데이터 사이언스,1
+Pirated contents search,1
+Copyright protection technology,1
+Self medication,1
+Health promotion,1
+Health app,1
+Social media,1
+Silver generation,1
+사회안전망,1
+Fashion industry,1
+Interpretative Phenomenological Analysis,1
+Global average pooling,1
+Youth group counseling,1
+Failure mode Classification,1
+Rotating machine,1
+교양교육,1
+대학기본역량진단,1
+역량기반교육,1
+핵심역량진단도구,1
+핵심역량기반교양교육,1
+Liberal Arts Education,1
+University basic Competency Assessment,1
+Competency-based Education,1
+Core Competency Assessment Tool,1
+Core Competency-based Liberal Arts Education,1
+Core Competency,1
+performance,1
+scheduler,1
+operating system,1
+성능,1
+스케줄러,1
+운영체제,1
+회전설비,1
+디노이징,1
+결함모드 분류,1
+student success,1
+해석학적 현상학 연구,1
+청소년 집단상담,1
+Welding monitoring,1
+DNN model,1
+3D scanner,1
+GTAW,1
+network text analysis,1
+student engagement,1
+successful college life,1
+백파선(Baekpasun),1
+네트워크 텍스트 분석,1
+학습참여,1
+학생성공,1
+성공적인 대학 생활,1
+아리타(Arita),1
+김태도(Kim-Taedo),1
+김해(Kimhae),1
+조선도공(The Korean potters),1
+앵커 프리 방법,1
+얼굴 검출,1
+Embedded System,1
+Practical Studies,1
+개방형 정보 추출,1
+Computer Numerical Control Machine(공작기계),1
+Deep learning(심층신경망),1
+Smart Factory(스마트팩토리),1
+AI(인공지능),1
+Surface Roughness(표면거칠기),1
+supervised deep learning,1
+automated weld quality control,1
+back-bead monitoring,1
+Gas metal arc welding,1
+Morpheme Analyze,1
+Intelligence Service,1
+Comunication Search Service,1
+형태소 분석기,1
+지능형 서비스,1
+대화형 검색 서비스,1
+Northern Learning,1
+empirical methods,1
+technical knowledge,1
+Sequence Labeling,1
+open information extraction,1
+sequence labeling,1
+이상검출(Anomaly Detection),1
+Natural Language Understanding,1
+NLU,1
+computer aided instruction,1
+ICT technology,1
+language acquisition,1
+interactive AI chatbot,1
+해석 가능한 딥러닝(interpretable deep learning),1
+시각적 질의응답(visual question answering),1
+소재 압출방식(material extrusion),1
+디지털 치료제,1
+virtual space,1
+healthcare,1
+Unreal Engine,1
+digital therapy,1
+가상공간,1
+XR,1
+헬스케어,1
+언리얼 엔진,1
+papermaking,1
+광학 흐름(Optical Flow),1
+Natural Language Generation,1
+이상 탐지(Anomaly Detection),1
+beef marbling,1
+Obstacle detection,1
+Disparity map,1
+Semi-supervised learning,1
+Stereo vision,1
+밭작물,1
+Upland Crops,1
+Unmanned Aerial Vehicle,1
+Spatial Data,1
+Fire Prediction,1
+화재예측,1
+Arts,1
+Turing test,1
+Computational creativity,1
+Object classification(객체 분류),1
+Training dataset(학습 데이터셋),1
+Lidar sensor(라이다 센서),1
+One-dimensional cutting stock problem,1
+Heuristic method,1
+quality prediction,1
+sub-images,1
+Layer-wise Relevance Propagation,1
+골격선 추출,1
+projective geometry,1
+indoor localization,1
+사영 기하학,1
+실내위치 인식,1
+pose guide,1
+skeletal  line extraction,1
+Physical fitness measurement,1
+자세 가이드,1
+체력측정,1
+The nature of War,1
+structured data,1
+anesthetic treatment recommendation,1
+정형 데이터,1
+마취 처치 추천,1
+지휘결심 지원체계,1
+전쟁의 본질,1
+support system,1
+Command decision,1
+NLG,1
+FMCW Radar,1
+Artificial neural network (ANN),1
+BPE(Byte Pair Encoding),1
+혈당예측,1
+Finite element analysis,1
+Metamodeling,1
+PMSM,1
+유한요소해석,1
+메타모델링,1
+영구자석형 동기전동기,1
+최적화,1
+Distance Estimation,1
+Thermal Camera,1
+MTCNN,1
+Determination),1
+데이터 분류 및 판정(Data Classification &amp,1
+HILS(HILS),1
+장기 단기 기억(LSTM),1
+순환 신경망(RNN),1
+Automatic Post Editing,1
+인공신경망 기계번역,1
+기계번역 사후교정,1
+blood glucose prediction,1
+자동차 번호판,1
+License Plate,1
+knowledge graphs,1
+멀티테스킹 학습,1
+Defect classification,1
+Patch-based method,1
+Compact camera module,1
+Residual network,1
+Knowledge transfer,1
+Block-wise retraining,1
+Multiple hint information,1
+FDM,1
+data collection platform(데이터 수집 플랫폼),1
+Construction Material,1
+Counting Number,1
+건축 자재,1
+수량 측정,1
+deep learning(딥러닝),1
+planning (판단),1
+perception(인지),1
+annotation (주석),1
+Wrod embedding,1
+Payload,1
+Radar Signal Processing,1
+Web Attack,1
+Disease Prediction,1
+Stroke,1
+뇌졸중 심층 분석,1
+질환 예측,1
+뇌졸중,1
+Medical education,1
+Delivery of health care,1
+real time object tracking,1
+multi object tracking,1
+Performance Indicator,1
+학습률(learning rate),1
+딥 러닝(deep learning),1
+패션 의류 영상(fashion clothing image),1
+Shoulder disease,1
+Segmentation. Convolution Neural Network,1
+어깨 질환,1
+분할,1
+Human-Car Interface,1
+Moving Target Indicator,1
+Stroke In-depth Analysis,1
+인공지능 예술(AI Art),1
+신경망(Neural Network),1
+Legislation,1
+Surface braiding angle,1
+Pitch length,1
+Braided composite preform,1
+Feature Generation,1
+CTR,1
+특징 생성,1
+클릭률,1
+Word Embedding,1
+Keyword search,1
+생성적 적대 신경망(GAN: Generative Adversarial Network),1
+Bill Information,1
+법률안,1
+워드 벡터,1
+키워드 검색,1
+의안 정보,1
+워드 임베딩,1
+예술 매체(art medium),1
+포스트미디엄(Post-medium),1
+Combinatorial optimization,1
+hot rolling process,1
+Network Reduction,1
+입력표상,1
+Distance Prediction,1
+Smoke Detection,1
+화재시뮬레이션,1
+거리 예측,1
+연기검출,1
+잔존 수명(Ramaining Useful Life),1
+Edge,1
+Remote robot control,1
+Robot arm,1
+Draw!,1
+Quick,1
+Flask server,1
+Android smartphones,1
+Systematic Review,1
+체계적 문헌고찰,1
+Facial image,1
+Acoustic feature,1
+parsing,1
+chunking,1
+Fire Simulation,1
+Autonomous Driving(자율주행),1
+Autonomous Parking(자율주차),1
+MRC,1
+senile disease,1
+Google search result,1
+Link2vec,1
+Fake news detection,1
+Smoothing,1
+Millimeter Wave,1
+weeds classification,1
+QA,1
+KorQuAD,1
+Artificial Intelligence(인공신경망),1
+질의응답,1
+기계독해,1
+코쿼드,1
+적대적생성신경망(Generative adversarial networks),1
+위상최적화(Topology optimization),1
+멀티스케일(Multi-scale),1
+실감형 인터랙티브 콘텐츠,1
+Immersive Interactive Content,1
+구문분석,1
+구묶음,1
+Data Recognition,1
+LiDAR,1
+camera,1
+defect classification,1
+fruit quality,1
+Maritime,1
+Small Target,1
+One Shot Detect,1
+Kinect depth sensor,1
+Human Activity Recognition (HAR),1
+skeletal coordinate vector,1
+fall down detection,1
+문서분류,1
+multi layer perceptron,1
+multipath fading channel,1
+Deep Learning Model Optimization,1
+Autonomous Driving,1
+Interpolation,1
+Marine data,1
+Inkjet droplets,1
+Inkjet printing,1
+Glass,1
+Laser-assisted micro-milling,1
+Machining quality,1
+가로주택정비사업,1
+Lane recognition,1
+Autonomous driving robot,1
+technology,1
+corpus,1
+Machine translation,1
+기술,1
+코퍼스,1
+자율건축,1
+autonomous construction.,1
+Human Pose Estimation,1
+Block-unit Renewal project,1
+Acceleration,1
+Magnetization transfer,1
+Quantitative imaging,1
+낙상 감지,1
+스켈레톤,1
+사람 자세 추정,1
+Skeleton,1
+internet of thing,1
+3D Reconstruction,1
+Crop shape,1
+내부표정,1
+X-band radar,1
+yolo,1
+non-linear regression,1
+license plate,1
+Bradykinesia(서동증),1
+Parkinsons’s Disease(파킨슨병),1
+dynamic projection mapping,1
+interactive media,1
+gesture recognition,1
+Shape Distribution(형상 분산),1
+Shape Classification(형상 분류),1
+Point Cloud(점군),1
+Piping Part(배관 부품),1
+DSM,1
+Surface Reflectance,1
+Validation,1
+KOMPSAT,1
+Location Based Technology,1
+Positioning System,1
+significant wave heights,1
+artificial neural network (ANN),1
+peak period,1
+Predictive Maintenance(예측정비),1
+Labeling(라벨링),1
+Bounding box(경계 상자),1
+Object Detection(객체 인식),1
+Around View Monitor(어라운드 뷰 모니터),1
+Structured report,1
+Ferrite coupler,1
+Electrical vehicle,1
+Power line communication,1
+Analysis(분석),1
+X-band 레이다,1
+Thermal(진동),1
+의사결정나무(Decision tree),1
+빅데이터(Big data),1
+네트워크 아키텍쳐(Network architecture),1
+회귀 모델(Regression model),1
+다층 퍼셉트론(Multilayer perceptron),1
+첨두주기,1
+유의파고,1
+상호표정,1
+판류형,1
+Medical Data,1
+캘리브레이션,1
+딥 러닝(Deep-Learning),1
+Labeling,1
+News articles,1
+Unstructured data,1
+Corporate bankruptcy,1
+Genetic Algorithm,1
+Alzheimer’s Disease Classification,1
+and deep learning,1
+crawling,1
+Sequence-to-Sequence,1
+Blind,1
+Smart appliance,1
+Emotion Visualization,1
+Interface,1
+Audience,1
+Messaging,1
+시뮬레이션(Simulation),1
+동영상(Video),1
+동작 감지(Motion Detection),1
+강성 예측(Stiffness Prediction),1
+자연어이해,1
+의도분석,1
+Computer-aided pathology,1
+스테레오 카메라,1
+간판,1
+Relative Orientation,1
+Interior Orientation,1
+Flat-Type,1
+Stereo Camera,1
+Signboard,1
+Security inspection X-ray images,1
+DTW,1
+의도파악,1
+Pose Comparison,1
+Sound processing,1
+Accident monitoring,1
+Traffic,1
+semantic similarity,1
+intention analysis,1
+natural language understanding,1
+의미유사도,1
+파프리카 병해충,1
+Multi-Tasking Learning,1
+Diagnosis of Paprika Diseases,1
+생성요약,1
+Long-Short Term Memory(장-단기 기억 메모리),1
+Energy Management Strategy(에너지 관리 전략),1
+Hybrid Electric Vehicle(하이브리드 전기 자동차),1
+Speed Prediction(속도 예측),1
+Image processing(영상 처리),1
+Vehicle pose estimation(자세 추정),1
+Autonomous parking(자동 주차),1
+Context Information,1
+Sentiment Prediction,1
+상황 정보,1
+오피니언 마이닝,1
+감성 예측,1
+low power antenna,1
+ISM band,1
+Wi-Fi scanning,1
+저전력 안테나,1
+비면허 대역,1
+와이파이 스캔,1
+information collection and extraction,1
+Recurrent Neural Network(순환 신경망),1
+Python(파이썬),1
+Autonomous Driving (자율주행),1
+Multichannel,1
+우주론적 몸,1
+멋진 신세계,1
+고위험성 조류인플루엔자,1
+CDR,1
+HPAI,1
+Call Detailed Record,1
+Long Short-Term Memory,1
+Stain Normalization,1
+Prostate Biopsy,1
+3D Object Detection (3D 물체 검출),1
+Histological,1
+Deep Learning(딥 러닝기법),1
+Latin Hypercube Sampling(라틴 하이퍼큐브 샘플링기법),1
+1D-Modeling(1D-모델링),1
+Design Of Experiments(실험계획법),1
+Spark Ignition engine(SI엔진),1
+Computer Vision (영상 처리),1
+Sensor Fusion (센서 융합),1
+정보 수집 및 추출,1
+미등록 단어 인식,1
+사후세계관,1
+문서요약,1
+Black Box Neural System,1
+Regulatory Guidelines,1
+AI Ethics,1
+자율주행 자동차. 스마트 팩토리,1
+블랙박스 신경시스템,1
+윤리적 가이드라인,1
+인공지능 윤리,1
+Fair use,1
+Computer-generated works,1
+AI-authored works,1
+Authorship,1
+Copyright,1
+컴퓨터 생성 저작물,1
+저작자,1
+Object Tracking(객체 추적),1
+Re-Identification(재식별),1
+Fair Use,1
+Copyright Limitations,1
+Search Engine,1
+Autonomous Car,1
+Passenger State Monitoring(탑승자 상태 모니터링),1
+EEG Signal(뇌파),1
+Backpropagation,1
+형태소-문장 변환기,1
+OOV 랜덤 마스킹,1
+generative summarization,1
+recognition of unknown word,1
+text summarization,1
+morpheme-to-sentence converter,1
+random masked OOV,1
+Learning,1
+Agile Activation Function,1
+Motion Sickness(멀미),1
+역전파,1
+민첩한 활성함수,1
+준지도 학습(Semi-Supervised Learning),1
+Domain Adaptation(도메인 적응),1
+Multi-Channel Deep Neural Network(다채널 깊은 신경망),1
+Fault Detection(고장 진단),1
+Overhead Hoist Transport(천장 반송 시스템),1
+Automated Material Handling System(자동화 물류설비),1
+친족관계,1
+Brave New World,1
+generative adversarial networks,1
+운동상상,1
+Prognostics and Health Management,1
+진동,1
+고장 예지 및 건전성관리,1
+이상치 탐색,1
+고장진단,1
+Translating machine,1
+Primary English education,1
+Chatbot,1
+초등영어교육,1
+챗봇,1
+번역기,1
+작물 질병,1
+convolutional neural network (CNN),1
+crop disease,1
+Convolutional neural network(CNN),1
+EEG classification,1
+Motor imagery(MI),1
+Brain-computer interface(BCI),1
+Electroencephalography(EEG),1
+Earthquake event classification,1
+Multi-site based classification,1
+Convolution neural networks,1
+동기,1
+Defects detection,1
+Desire,1
+Motivation-decision model,1
+complex system,1
+Emergence,1
+Information processing system,1
+Free will,1
+법인격,1
+욕구,1
+Graph convolution networks,1
+보상원리,1
+복잡계,1
+창발성,1
+정보처리지스템,1
+자유의지,1
+그래프 합성곱 신경망,1
+다중 관측소 기반 분류,1
+지진 이벤트 분류,1
+뇌신호 분류,1
+뇌-컴퓨터 인터페이스,1
+cosmological body,1
+뇌신호,1
+multihoming,1
+conversion costs,1
+winner-take-all,1
+network effects,1
+data concentration,1
+Digital platforms,1
+기업결합,1
+공동행위,1
+단독행위,1
+AI 데이터 산업,1
+클라우드 컴퓨팅,1
+멀티호밍,1
+전환비용,1
+승자독식,1
+네트워크효과,1
+데이터 집중,1
+디지털 플랫폼,1
+the view of life after death,1
+kinship,1
+AI data industry,1
+unilateral conduct,1
+collaboration,1
+Human-machine interaction,1
+High Resolution Image Problems,1
+Images Security,1
+Fingerprinting Prevent,1
+Detecting Finger Joints,1
+고해상도 기술 문제점,1
+이미지 보안,1
+지문 해킹 방지,1
+손 관절 인식,1
+Humanoid Robot,1
+business combination,1
+Personal mobility,1
+Driving safety,1
+Encoder type deep learning,1
+Road surface damage detection,1
+개인 이동 수단,1
+주행 안전,1
+암호화 심층 신경망,1
+도로 노면 파손 탐지,1
+저작재산권의 제한,1
+크롤링,1
+검색엔진,1
+알고리즘 거버넌스,1
+academic writing assistance,1
+Image Similarities,1
+Traffic monitoring,1
+Thermal image,1
+Vehicle classification,1
+도로교통량,1
+열화상이미지,1
+차종분류,1
+Intelligent IoT systems,1
+LwM2M(Lightweight M2M),1
+Smart factory,1
+data-based administration,1
+evidence-based policy,1
+problem structuring,1
+policy decision making,1
+algorithm governance,1
+데이터기반 행정,1
+증거기반정책,1
+문제구조화,1
+dataset creation,1
+시간적 행동 검출,1
+오프라인 행동 검출,1
+뇌전도(Electroencephalography),1
+digital textbook,1
+Elementary social studies,1
+멀티미디어 학습,1
+다중표현기능,1
+디지털교과서,1
+초등 사회과,1
+인공 지능(Artificial Intelligence),1
+정상상태시각유 발전위(Steady-State Visual Evoked Potential),1
+뇌-컴퓨터 인터페이스(Brain-Computer Interface),1
+온라인 행동 검출,1
+Weather information,1
+Big-Data,1
+An orchard,1
+기상정보,1
+비닐하우스,1
+online action detection,1
+offline action detection,1
+temporal action detection,1
+정책의사결정,1
+Load forecasting,1
+Environmental Management,1
+Peak electric load,1
+Smart city,1
+Sensor,1
+Metro service,1
+People Counting,1
+스마트시티,1
+사물인터넷(IoT),1
+메트로 서비스 CNN-LSTM,1
+피플 카운팅,1
+ICT,1
+농촌공간계획,1
+스마트농촌,1
+디지털 농업,1
+노지 스마트농업,1
+거시경제지표,1
+주가예측,1
+Macro Economy Index,1
+Natural Language,1
+Mask,1
+마스크,1
+Detection of drivable areas,1
+Region-based CNN,1
+BDD dataset,1
+Self-attention network,1
+EV,1
+부하예측,1
+최대전력부하,1
+전기차,1
+Layer-wise Relevance Propagation(LRP),1
+Fuel cell degradation,1
+Energy management,1
+Hybrid electric vehicle,1
+Pretraining-based method,1
+Autonomous driving software,1
+Essay generation,1
+Natural language generation,1
+센서 데이터,1
+다중거주자,1
+스마트 홈,1
+행위 인지,1
+데이터-사용자 연관,1
+multispectral ortho-image,1
+multiple representations function,1
+multimedia learning,1
+liver segmentation,1
+medial image,1
+네트워크 보안,1
+악성 패킷,1
+백테스팅,1
+인자분석,1
+상하이선전300지수,1
+주식가격,1
+Back-testing,1
+Factor analysis,1
+CSI 300,1
+Stock price,1
+Video Synthesis,1
+Posture Tracking,1
+영상 합성,1
+자세 추적,1
+증강 현실,1
+link prediction,1
+knowledge completion,1
+knowledge graph,1
+링크 예측,1
+정보 보호,1
+패킷 필터링,1
+Malicious packet,1
+Magnetic Suspension and Balance System (자기부상장치),1
+Tourism Application,1
+Clean Coast Detector,1
+Marine Debris,1
+League of Legends,1
+리그오브레전드,1
+Deep Reinforcement Learning (심층 강화학습),1
+Flight Test (비행시험),1
+Micro Aerial Vehicle (초소형 비행체),1
+algorithm bias,1
+Malware Detection,1
+autonomous intelligent system,1
+AI ethics,1
+알고리즘 편향,1
+자율지능시스템,1
+인공지능윤리,1
+Packet filtering,1
+Information security,1
+Network security,1
+지식 완성,1
+process mining,1
+remaining time prediction,1
+UAS(무인 항공 시스템),1
+입원환자분류체계,1
+중증도,1
+이용량,1
+상급종합병원,1
+Point Cloud(점군 데이터),1
+Object Detection(물체 인식),1
+Bistable Mechanism(쌍안정메커니즘),1
+Probe-and-Drogue(프로브-앤-드로그),1
+Algorithmic Design Process,1
+Utilization,1
+Deep Generative Design,1
+Building Skin Design,1
+Biomimicry,1
+알고리즘 기반 디자인 프로세스,1
+제너레이티브 디자인,1
+건축 외피 설계,1
+생체모방,1
+CT images,1
+Extra-large hospitals,1
+Severity,1
+predictive process monitoring,1
+Pedestrian Traffic Accidents,1
+프로세스 마이닝,1
+LSTM 모델,1
+잔여시간 예측,1
+예측적 프로세스 모니터링,1
+Urban Design,1
+Deep Learnning,1
+Living Roads,1
+Urban Tissue,1
+도시설계,1
+KDRG,1
+생활도로,1
+도시조직,1
+보행자 교통사고,1
+Inception V3 model,1
+image data mining,1
+geo-tagged photo,1
+tourism photo classification,1
+HIRA claim data,1
+Recurrent Neural Network(RNN),1
+Data Cleaning,1
+NoSQL injection,1
+이념적 어휘,1
+Shiitake,1
+Alexnet,1
+Pests,1
+RF 맵 재구성,1
+핑거프린트 측위,1
+실내 위치 추정,1
+ideological words,1
+political keywords,1
+정치적 핵심어,1
+sensors,1
+단어임베딩,1
+노동신문,1
+Deep learning.,1
+Illumination correction,1
+Skin diagnosis,1
+Winkles detection,1
+Malware,1
+Data pre-processing,1
+지상관제 소프트웨어,1
+구글맵 API,1
+자동 착륙,1
+이미지매칭,1
+대기오염,1
+대기,1
+질병,1
+천식,1
+Spearman correlation coefficient,1
+Feature of image,1
+VGG-16,1
+Design similarity,1
+스피어만 상관계수,1
+이미지 특징,1
+디자인 유사성,1
+Wavelet transforms,1
+Single image super-resolution,1
+Image matching,1
+Automatic landing,1
+Google Maps API,1
+Ground control software,1
+abnormal event,1
+dust,1
+영상 분석,1
+유형,1
+female hero novel,1
+affection novel,1
+hero novel,1
+Novel Type,1
+문체분석,1
+여성영웅소설,1
+애정소설,1
+영웅소설,1
+Deep-LTS,1
+activity,1
+Artificial Neural Network(ANN),1
+Lightweight Treated Soil(LTS),1
+경량혼합토,1
+Music Chart,1
+Music Box Office,1
+음원차트,1
+음악 흥행 예측,1
+Video analysis,1
+stylistic analysis,1
+artificial intelligence humanities,1
+digital humanities,1
+IEEE 802.11ac,1
+audio,1
+이상 징후,1
+먼지,1
+활동,1
+음성,1
+영상,1
+End-to-end skeleton joints mapping.,1
+Action recognition,1
+철근,1
+건축감리,1
+객체검출기술,1
+Rebar,1
+Building Supervision,1
+multi-sensor,1
+meat freshness,1
+Decoding,1
+Modulation Classification,1
+보건정책,1
+Atmosphere,1
+Air Pollution,1
+텍스트 분류,1
+EIA,1
+Marine,1
+클로로필-a,1
+환경영향평가,1
+해양,1
+RGBD Camera,1
+게이트 계층,1
+클래스 임베딩 계층,1
+gate layer,1
+Public Health Policy,1
+class embedding layer,1
+text classification,1
+Multiple Fingerprints,1
+Hybrid Deep Neural Network,1
+Channel State Information,1
+Indoor Positioning System,1
+Pandemic Prevention,1
+Monitoring System,1
+Chlorophyll-a,1
+Data Collection,1
+Product Labeling,1
+Diagnostic Imaging,1
+학습 데이터셋,1
+컨벌루션 커널,1
+활성함수,1
+용량제한,1
+AWS 람다 서버,1
+서버리스 컴퓨팅,1
+Capacity Limitation,1
+AWS Lambda Server,1
+Serverless Computing,1
+Wave prediction,1
+Mosaic Warfare,1
+Surveillance and Reconnaissance System,1
+Adversarial Attack and Defense,1
+Demand,1
+Bicycle,1
+수요,1
+자전거,1
+Crowd Counting,1
+Infectious Diseases,1
+전염병 예방,1
+객체검출,1
+영상전처리,1
+토픽 모델링,1
+주제 분석,1
+국민청원,1
+Topic Analysis,1
+National Petition,1
+construction safety,1
+인스턴스 분할,1
+컴퓨터 비전,1
+건설안전,1
+주가분석,1
+Stock analysis,1
+3D,1
+3,1
+Binary Classification,1
+흉부 X선,1
+Image Segmentation,1
+감지기,1
+Deeplearning,1
+모니터링 시스템,1
+Machinelearning,1
+군중 계수,1
+K-평균 군집화,1
+전염병,1
+Remote Sensing,1
+Coastal Debris,1
+무인 항공기,1
+원격 탐사,1
+해안 표착 폐기물,1
+장비 세팅 최적화,1
+대구경 수평 천공,1
+심발 공법,1
+발파 진동 저감,1
+machine setting optimization,1
+Large-diameter horizontal boring,1
+Center-cut method,1
+Blast vibration reduction,1
+Fire Detector,1
+실시간,1
+Bridge component classification,1
+Convolution kernel,1
+denoisng,1
+알렉스넷,1
+Malaysia LPR,1
+Deep-learning Neural Network,1
+Virtual screening,1
+Molecular structure,1
+Property,1
+random noise,1
+coherent noise,1
+무작위 잡음,1
+Digital neurons,1
+일관성 잡음,1
+잡음 제거,1
+positioning DB generation,1
+LTE-based localization,1
+Serial Number Recognition,1
+Optical Character Recognition,1
+Banknote Recognition,1
+Integer weights,1
+흉부 방사선검사,1
+코로나바이러스감염증19,1
+Chest Radiography(CXR),1
+고차 국소 자동 상관함수,1
+경계검출,1
+영역분할,1
+사용자 인증,1
+스마트 미러,1
+안전사고방지,1
+안전시스템,1
+User authentication,1
+Smart mirror,1
+Safety accidents prevention,1
+Safety system,1
+New Defect Pattern Detection,1
+Convolution Neural Networks,1
+Wafer Bin Map,1
+Back-Propagation Neural Network,1
+Back-Propagation,1
+Higher Order Local Autocorrelation Function,1
+역전파 신경망,1
+Hardware accelerator,1
+Siamese Neural Network,1
+교량 구성요소 분류,1
+· Rolling bearing · Interval coded deep belief network · Fault diagnosis · Rotating machinery,1
+Compliant Grasping,1
+Air Pressuer Sensor,1
+Tactile Sensing Module,1
+2.4㎓ band,1
+Wireless Interference Identification,1
+Latent space,1
+Stereo facial images,1
+Face anti-spoofing,1
+암석 샘플 이미지 데이터셋,1
+Video,1
+레즈넷,1
+암종 분류,1
+Rock sample image dataset,1
+Rock type classification,1
+grid search,1
+hyper parameter optimization,1
+Siamese Network,1
+Feature Representation,1
+예측 불확실성,1
+시뮬레이션 모델,1
+딥 앙상블,1
+건물 에너지,1
+Age Determination by Skeleton,1
+pre-service science teacher,1
+disease concept,1
+Conceptual status,1
+실습 플랫폼(Hands-on Platform),1
+교육용 프로그래밍 언어(Educational Programming Language),1
+인공지능(Artificial Intelligence),1
+Particle swarm optimization,1
+Breast cancer,1
+Depth Completion,1
+stationary wavelet transform,1
+reproducibility,1
+building energy,1
+Deep Ensembles,1
+simulation model,1
+Predictive uncertainty,1
+재연성,1
+트랙터 경운,1
+Annotation,1
+GUI(Graphical User Interface),1
+Antenna selection,1
+Abnomaly detection,1
+tree species,1
+identification,1
+image detection,1
+Virtual Metrology,1
+Smart Shopping Cart,1
+Millimeter wave,1
+Massive MIMO,1
+RR,1
+Tkinter,1
+확률 추론,1
+인과성,1
+발생학적 인식론,1
+피아제 학습이론,1
+베이지안 인지이론,1
+베이즈주의,1
+Cognitive science,1
+Causality,1
+Long Short-Term Memory models,1
+이상 행동 감지,1
+장·단기 기억 모형,1
+blockage,1
+Vision sensor,1
+Ship berthing aid system,1
+Docking assist system,1
+Around view monitoring,1
+Fast.ai,1
+Indoor plant information,1
+교통량 분석,1
+지능형 교통 체계,1
+Traffic Analysis,1
+ITS(Intelligent Transportation System),1
+UAV(Unmanned Aerial Vehicle),1
+intelligent spraying,1
+orchard,1
+PSC,1
+Spectrogram,1
+mmWave,1
+indoor,1
+Theory of learning,1
+Piaget,1
+Bayesian probabilistic model,1
+S-box structure,1
+Cryptanalysis,1
+precursor,1
+fine dust ( $PM_{10}$),1
+Word Count Analysis,1
+Semantic Network,1
+Paper trend,1
+Water Management,1
+Algal Bloom,1
+Water Quality,1
+조류,1
+time-series,1
+Korea peninsula,1
+ocean heatwave,1
+sea surface temperature,1
+저수지 수위계측,1
+CNN 딥러닝,1
+Retinanet,1
+Symmetric key,1
+Box-office Prediction,1
+예측모형,1
+Multivariate Time Series Classification,1
+선정평가,1
+기업지원효과,1
+중소기업 R&D,1
+Selection Model,1
+R&D Support,1
+SME,1
+Time Series Classification,1
+Firm Heterogeneity,1
+Export Participation,1
+잔차 네트워크,1
+완전 합성곱 신경망,1
+다층 퍼셉트론,1
+다변량 시계열 데이터 분류,1
+주요 변수 선택,1
+영화 흥행 예측,1
+박스 오피스 예측,1
+Fully Convolutional Neural Networks,1
+최적화 알고리즘 활성 함수,1
+Training dataset,1
+Rotation Estimation,1
+자질 선택,1
+Real-time monitoring,1
+Railway security,1
+Intruder control,1
+실시간 감시,1
+컴퓨터 화상,1
+철도 보안,1
+침입자 통제,1
+Mortality Prediction,1
+사망률 예측,1
+Cosine similarity,1
+Weight Initialization,1
+Weight Update,1
+Network Intrusion Detection,1
+가중치 초기화,1
+가중치 갱신,1
+네트워크 침입 탐지,1
+Abnormal disfluencies,1
+Normal disfluencies,1
+infectious disease,1
+electronic access system,1
+beacon,1
+감염병,1
+소나무 재선충,1
+가격예측,1
+하이퍼 파라미터 무작위 탐색,1
+데이터 조합,1
+양방향 순환신경망,1
+철근 가격,1
+Hyperparameter Random Search,1
+Data Combination,1
+Bidirectional LSTM,1
+Rebar Price,1
+Korean Recognition,1
+Character recognition,1
+이미지분석,1
+한글인식,1
+문자인식,1
+비콘,1
+전자출입명부,1
+Stuttering reading task,1
+비정상적 비유창성,1
+라즈베리파이,1
+Text-to-Speech(TTS),1
+Customer Leakage,1
+의사결정나무,1
+로지스틱,1
+고객이탈,1
+전자 입찰,1
+vocoder,1
+text-to-speech(TTS),1
+보코더,1
+허프 변환,1
+정상적 비유창성,1
+홍채인식,1
+동공 검출,1
+홍채 검출,1
+hough transform,1
+iris recognition,1
+pupil detection,1
+iris localization,1
+Raspberry Pi,1
+Logistic Regression,1
+Decision Tree,1
+지문,1
+생체정보,1
+말더듬 읽기과제,1
+코사인 유사도,1
+워드임베딩,1
+온라인 게임,1
+게임 봇 탐지,1
+Online Game,1
+Game Bot Detection,1
+geophysical data,1
+물리탐사 자료,1
+잡음제거,1
+discriminating of wrinkle fingerprint,1
+discriminating of scar fingerprint,1
+2D Convolutional Neural Network,1
+Biometric information,1
+주름 지문 판별,1
+상처 지문 판별,1
+2D 합성 곱 신경망,1
+RGB 정사영상,1
+딥러닝 분류기,1
+RGB ortho-image,1
+Online parenting communities,1
+스마트팜,1
+오이,1
+산림방제,1
+해충방제,1
+영상분석,1
+솔껍질깍지벌레,1
+Hierarchical Attention Networks (HAN),1
+Child-rearing concerns,1
+계층적 주의 네트워크(hierarchical attention networks: HAN),1
+미국식 수화,1
+자녀양육 고민,1
+온라인 육아 커뮤니티,1
+Similarity of Characters Style,1
+Completeness of Generated Characters,1
+Evaluation of Mapping Characters,1
+Font Generation Using CycleGAN,1
+Automated Hangul Font Generation System,1
+Long Short Term Memory,1
+Dental disease,1
+가구 부자재,1
+수요예측,1
+재고관리,1
+PWM,1
+지능형 변량 방제,1
+변량제어,1
+stereo camera,1
+delivery boxes,1
+IMU sensor,1
+YOLOv4,1
+Design Parameter,1
+Scan-to-BIM,1
+Raspberry pi,1
+Inverted residual block,1
+Sensor fault diagnosis,1
+1D-CNN F,1
+Inventory Control,1
+Oer demand Forecast,1
+Furniture Component,1
+1D-CNN,1
+Recurent Neural Network,1
+Multi-perceptron,1
+Decision tree,1
+Deep Neural Net,1
+이상거래탐지,1
+spatial autocorrelation,1
+digital soil mapping,1
+geographical variable,1
+스마트 농업,1
+공간적 자기상관성,1
+전자토양도 작성,1
+지리변수,1
+Opiniom Mining,1
+객체 인식,1
+Wearable Sensors,1
+Sign Language,1
+Human-Computer Interaction,1
+American Sign Language,1
+웨어러블 센서,1
+수화,1
+인간-컴퓨터 상호 작용,1
+Fraud Detection System,1
+Convolutional Neural Net,1
+중기 단기 기억,1
+컨베이어 시스템,1
+재귀 신경망,1
+다중 퍼셉트론,1
+결정 트리,1
+서포트 벡터 머신,1
+Tag Recommendation,1
+Label Extraction,1
+Social Medea,1
+태그 추천,1
+레이블 추출,1
+소셜 미디어,1
+Neural Architecture Search Network,1
+Dense Network,1
+Visual Geometry Group Network,1
+Blockage Determination,1
+Conveyor Systems,1
+NASNet,1
+막힘 판단,1
+GoogLeNet,1
+구글넷,1
+Optimizer algorithm,1
+Embedded Linux,1
+Cross-Entropy,1
+Softmax,1
+Gradient Descent Method,1
+안드로이드,1
+Deep artificial neural network,1
+Android application,1
+Malware detection,1
+CNN Algorithm,1
+Face expression,1
+Abnormal Signs,1
+Process-based evaluation,1
+Berkeley Deep Drive,1
+image recognition,1
+driving area segmentation,1
+실시간 위치 결정,1
+이상징후,1
+산불,1
+태양광 드론,1
+Customized Platform,1
+Pilot Training,1
+Intelligent Recruitment,1
+Headhunting,1
+청각 인터랙션,1
+멀티모달 평가,1
+회회와 음악의 매칭,1
+Soundscape,1
+Multisensory Experience,1
+Auditory Interaction,1
+Multimodal Evaluation,1
+Matching of Painting and Music,1
+Web Application Platform,1
+Plant Diseases and Pests,1
+Agricultural Tomato Images,1
+Railway construction project,1
+Estimation of activity duration,1
+Hyper parameter,1
+철도건설공사,1
+공기예측,1
+하이퍼 파라미터,1
+Realtime Georeferencing,1
+Solar Powered Drone,1
+Facility inspection,1
+computer,1
+교통량,1
+Fog,1
+Affine Transformation,1
+Traffic Volume,1
+sliding window technique,1
+time series forecasting,1
+KIS credit score,1
+Gastroenterology,1
+불량 검출,1
+Facial Expression Recognition,1
+머신비전,1
+Bio-signal,1
+Financial report,1
+Keyword Detection,1
+Unmanned vehicle,1
+Seagrass habitat,1
+X-rays,1
+Distal radius fractures,1
+부등각사상변환,1
+안개,1
+Ship,1
+Fallen,1
+Real-time Analysis,1
+Degree of Understanding,1
+Jeju Island,1
+Recommendation systems,1
+RNN(Recurrent Neural Network),1
+제주도,1
+융합,1
+전통적인 방식,1
+철도 레일,1
+고속철도,1
+fusion,1
+railway,1
+Rapid-transit railway,1
+안전,1
+이미지,1
+쓰러짐,1
+선박,1
+다중감각 경험,1
+사운드스케이프,1
+포인트 클라우드,1
+Stowage Planning,1
+LiDAR Intensity,1
+Prediction of inflow,1
+Multipurpose dam,1
+유량예측,1
+다목적댐,1
+underwater OFDM,1
+Underwater wireless communication,1
+Master-Bay Plan,1
+마스터베이플랜,1
+변화탐지,1
+적하 계획,1
+Cervix Cancer,1
+Autocode,1
+KSIC,1
+다중 연결 요소 라벨링,1
+수평선 검출,1
+선박 인식,1
+Multi Connected-component Labeling,1
+True Orthoimage,1
+라이다 반사강도,1
+엄밀정사영상,1
+수사학,1
+시설물 점검,1
+Kompsat,1
+Land cover,1
+subunits,1
+Groupe μ,1
+the type of metaboles,1
+RNN language model,1
+NLP data set,1
+rhetorical space,1
+general rhetoric,1
+GPT-3,1
+그룹 뮤,1
+메타볼 유형,1
+메타볼,1
+RNN 언어모델,1
+자연어처리 데이터 셋,1
+수사학적 공간,1
+Horizon Detection,1
+Ship Detection,1
+Visual Information,1
+MLP 분류 모델,1
+링크 적응,1
+2,1
+Photoemission spectroscopy,1
+광전자 분광학,1
+Gaofen-1 WFV,1
+Green and Golden tide,1
+Overlapping Computation,1
+LOA,1
+BSPE,1
+Hybrid Feature,1
+Bacterial Cell Segmentation,1
+Bio-cell Informatics,1
+YOLO v4,1
+EOTS,1
+Classification of nationality of warships,1
+Detection of warships,1
+Spatial Information,1
+AMC,1
+수중 IoT 네트워크,1
+Recommender Systems,1
+Link adaptation,1
+시각정보,1
+협업필터링,1
+Quality Control,1
+Nuclear medicine,1
+정도관리,1
+핵의학,1
+Surface Defects Detection,1
+Appropriate Scaled Model,1
+버스우선신호,1
+간선급행버스체계,1
+스마트교차로,1
+Bus priority signal,1
+BRT (Bus Rapid Transit),1
+Smart intersection,1
+Underwater IoT network,1
+MLP Classification model,1
+Adaptive Modulation and Coding,1
+steel frame,1
+nonlinear inelastic,1
+gradient boosting,1
+Building integrated photovoltaics,1
+Neuro-oncology,1
+Defect inspection · Machine vision · Deep learning · Object detection,1
+Black ice Detection,1
+Risky Road Detection,1
+Spatial Pyramid Pooling,1
+Max Pooling,1
+Deep Convolutional Neural Network,1
+Deep learning · Hand bone · X-ray · Bone age · Greulich and Pyle atlas · Tanner and Whitehouse atlas,1
+Colored solar cells,1
+Power Generation,1
+Residual connections training,1
+Contour detection,1
+Contour recovery,1
+Radiation oncology,1
+Attention-deficit/hyperactivity disorder,1
+Autism spectrum disorder,1
+Neurodevelopmental disorder,1
+Neuroimaging,1
+Clinical workflow,1
+Chest radiograph,1
+Topological invariant,1
+bidirectional LSTM,1
+Deep learning · White blood cells · Image segmentation · Classifi cation · Mask RCNN · Object detection,1
+Human activity recognition · Mobile sensor · Deep learning · Convolutional neural networks · Long short-term memory · Residual networks,1
+Trajectory pattern,1
+Mobility model,1
+Next location prediction,1
+Prediction in steady-state,1
+EGR prediction model,1
+EGR,1
+DNN (Deep neural network),1
+Diesel engines,1
+maritime dataset,1
+ship detection,1
+water flow rate.,1
+wastewater treatment plant,1
+time series,1
+rainfall,1
+neural net,1
+Diagnostic Service,1
+Health Information Systems,1
+Exponential function,1
+Robot Hand,1
+Ultrasonography,1
+Papillary,1
+Thyroid Cancer,1
+DBaaS.,1
+Falling Recognition System,1
+Smart Phone,1
+Foreground Segmentation,1
+Background Subtraction,1
+Tactile Image,1
+Multilayer perceptron,1
+Single Grasp Object Classification,1
+Feature Scaling,1
+radar,1
+drone detection,1
+하지재활(lower-limb rehabilitation),1
+시계열 예측(time series prediction),1
+이상 검출(anomaly detection),1
+SWIR camera,1
+Recurrence,1
+Adaptive Recommendation System,1
+Personal Type,1
+nativeness judgment,1
+Motion sensors,1
+Human gait motion,1
+Deep learning · Nanosatellite · Fault detection · Fault identifi cation · Reaction wheel,1
+Data distribution,1
+Prior information,1
+Unsupervised deep learning,1
+MRI reconstruction,1
+실험적 비교,1
+알고리즘 비교,1
+이미지 인식,1
+피부미용 질환 인식,1
+Experimental Comparison,1
+Algorithm Comparison,1
+Beauty-related Skin Disease Recognition,1
+plausibility,1
+well-formedness,1
+language experiment,1
+embedded control system,1
+inspection,1
+quadrotor aircraft,1
+fine dust prediction,1
+Frozen sections,1
+Breast neoplasms,1
+fecal contamination,1
+hydrological modeling,1
+Opinion mining,1
+Deep learning method,1
+Heating furnace,1
+Hot rolling process,1
+traffic flow prediction,1
+robust altitude control,1
+long short term memory,1
+도심지 미세먼지 예측,1
+교통흐름 예측,1
+장단기 메모리,1
+Tensorflow Object detection API,1
+Aggregate counting,1
+Expose aggregate concrete pavement,1
+LeNet,1
+Neoplasm metastasis,1
+Sentinel lymph node,1
+Multimodal Biometrics,1
+Sparse Classification,1
+ring pattern,1
+electron diffraction,1
+space group,1
+Serial Cadastral Map,1
+Aerial Photo,1
+Land Category,1
+accuracy,1
+multi-category,1
+automated driving vehicle,1
+neural architecture search,1
+intelligent transportation system,1
+deep learning technique,1
+Vehicle trajectory,1
+avian influenza,1
+regression,1
+Prediction model,1
+Grip strength,1
+동적 감쇠 학습률(dynamic decay learning rate),1
+사출 성형 해석(Injection molding analysis),1
+심층 학습(Deep learning),1
+mixer,1
+workability,1
+self-compacting concrete,1
+R-programming,1
+Mean Absolute Percentage Error (MAPE),1
+Industrial Internet of Things (IoT),1
+Artificial Neural Network (ANN),1
+Image-based monitoring,1
+Bolt-loosening,1
+Corrosion,1
+Steel girder,1
+Tumor segmentation,1
+Deep learning (DL),1
+Automatic Image Classification,1
+Missile Evasion(미사일 회피),1
+Potential Field(포텐셜 필드),1
+Deep Q-Learning(딥큐러닝),1
+UAV.,1
+mixing condition,1
+mixing volume,1
+LSTM.,1
+slump flow and V-funnel test,1
+LoRa,1
+Internet of things,1
+extended Kalman filter,1
+Deep neural network · Prediction · Parkinson disease progression · Principal component analysis,1
+Adipose tissue,1
+Muscles,1
+상온반도체 XRF imaging,1
+contribution map,1
+ENSO,1
+climate dynamics,1
+Volumetry,1
+Spleen,1
+Position control,1
+transmission control protocol,1
+problem spot identification,1
+network,1
+mobile,1
+Anti-drone,1
+Nonlinear combination,1
+형태(Morphology),1
+inverse design,1
+Colon Polyp,1
+Endoscopy Image,1
+Downscaling,1
+Feature engineering,1
+Deep multilayer perceptron,1
+Land surface temperature,1
+AWS,1
+Pedestrian railroad accident,1
+nanophotonics,1
+장단기 기억 신경망,1
+Image Analysis,1
+Lifetime Assessment,1
+Degradation,1
+Organic Material,1
+OLED,1
+Epoch of reionization,1
+Phishing Detection,1
+EBUS-TBNA,1
+Colorectal Cancer,1
+Res-net,1
+Adenocarcinoma,1
+SARS-COV-2,1
+Motion simulation,1
+Motion correction,1
+Motion artifact,1
+Survey,1
+State-of-the-Art,1
+Agriculture,1
+Highway,1
+traffic data imputation,1
+Left ventricle,1
+side-channel analysis,1
+profiling attack,1
+non-profiling attack,1
+Dental,1
+Dental implants,1
+Laboratory examination,1
+False-negative results,1
+rRT-PCR,1
+Lung Cancer,1
+키포인트,1
+Photo Storage Management.,1
+Distributed computing,1
+독창성,1
+다양성,1
+4차산업혁명,1
+people’s safety,1
+creativity,1
+variety,1
+makespan,1
+Task scheduling,1
+Cloud Computing,1
+오픈포즈,1
+생성 모델,1
+art education,1
+generating model,1
+Data Integration,1
+Multimedia,1
+RBM,1
+long short-term memory network,1
+stack auto encoder,1
+국민안전,1
+Spark,1
+Analytics Zoo,1
+Amazon EMR,1
+keypoints,1
+Ensemble model,1
+Feature fusion,1
+Color JPEG images,1
+reactor,1
+data-driven,1
+surrogate model,1
+computational fluid dyanmics,1
+Plant Engineering,1
+Piping and Instrumentation Diagram,1
+Resnet,1
+VGG,1
+human pose estimation,1
+Reduced graphene oxide,1
+Metal-organic frameworks,1
+Supercapacitor,1
+Active Learning,1
+Web page prediction,1
+Web log,1
+Log preprocessing,1
+Manipulation,1
+Battery,1
+Operational time,1
+Warning,1
+Radiation dose,1
+Phantoms,1
+CT,1
+Iterative reconstruction,1
+Deep learningArtificial intelligenceImage-driven regressionRadio propagationPath loss prediction,1
+Object understanding,1
+MapReduce model,1
+Robotic prosthetic hand (로봇의수),1
+Grasping (파지),1
+Object detection (물체검출),1
+Deep learning (딥러닝),1
+Endangered Species,1
+System Development,1
+System Design,1
+Imaging,1
+Aging,1
+structural health monitoring (SHM),1
+structural temperature,1
+LSTM network,1
+Photo Storage Management,1
+sonar simulator.,1
+sonar imaging,1
+Forward scan sonar,1
+tuberculosis,1
+chest X-ray radiography,1
+Warehouse Automation,1
+Object Classification,1
+approximate computing,1
+energy efficiency,1
+DRAM,1
+6G.,1
+mobile networks,1
+Agent-based architectures,1
+channel tracking,1
+Channel estimation,1
+missing data recovery,1
+Multi-core fiber,1
+Computed tomography angiography,1
+Coronary artery disease,1
+Presidential TV debate,1
+Localization,1
+Controller,1
+predicate argument structure,1
+natural language processing (NLP),1
+building information modeling (BIM),1
+automated rule checking,1
+SSIM,1
+Extending image intensity,1
+Hybrid Log-Gamma,1
+Object-detection,1
+Social Network Analysis,1
+Image Process,1
+맵/리듀스 모델,1
+로그 전처리,1
+웹 로그,1
+웹 페이지 예측,1
+프레임워크,1
+Computer-assisted,1
+Artificial intelligence video analysis,1
+Computer-aided diagnosis,1
+Mixed model analysis,1
+Computational pathology,1
+Chest X-Ray,1
+흉부 X-ray,1
+합성곱 신경망 네트워크,1
+Affective Computing,1
+Change detection · SAR · Remote sensing · Deep learning,1
+Computer-assisted image interpretation,1
+Trauma,1
+COVID-19 diagnostic testing,1
+thoracic,1
+정치인의 응시방향,1
+표정분류 알고리즘,1
+다층모형분석,1
+인공지능 영상분석,1
+대선 TV토론,1
+Politicians direction of gaze,1
+Facial expression classification algorithm,1
+Continuous wavelet transform (연속웨이블릿),1
+Deep learning (딥 러닝),1
+Milling (밀링),1
+Electronic Health Records,1
+Finite Element Analysis,1
+Constitutive Model,1
+J2 plasticity,1
+Blood pressure data,1
+Severity regression,1
+Abdominal aortic aneurysm(AAA),1
+Cardiovascular disease,1
+Nursing Records,1
+Drug-Related Side Effects and Adverse Reactions,1
+전문교육수급자,1
+sim-to-real transfer.,1
+AI-based application,1
+Probabilistic model,1
+Electromyogram · Multi channels surface-Electromyography (sEMG) · Upper limb · Joint torque estimation · Deep neural network · Regression · PRTE system,1
+Ten-sorflow federated,1
+Horizontal federated learning,1
+Cross-silo,1
+문화역사적 활동이론,1
+Post Estimation,1
+Body Shape,1
+Dual Deep Convolutional Neural Network.,1
+Fusarium head blight,1
+Failure Diagnostics,1
+Lithium-Ion Battery,1
+Passive source localization,1
+Passive target classification,1
+Passive SONAR system,1
+Unsupervised,1
+Castings,1
+X-ray image,1
+Active target classification,1
+Active SONAR system,1
+Ontology,1
+Knowledge Base (KB),1
+Class-labeling Method,1
+Capsule Endoscopy,1
+Parameter inversion,1
+Plant pathology,1
+Durum wheat,1
+문화규범,1
+언어적 코드-전환,1
+Short time Fourier transform (단시간 푸리에 변환),1
+Alzheimer’s disease,1
+TCP congestion control,1
+UNet,1
+Gray Mold Disease,1
+single short multi-box detector,1
+Sign language,1
+femoral neck fracture,1
+dietetics,1
+food,1
+Parallel model,1
+온라인포럼,1
+Numerical forecasting model,1
+Geostationary satellite,1
+Intensity forecasting,1
+Tropical cyclone,1
+Detection Model,1
+Conditional generation model,1
+Image Representation,1
+Railroad surface,1
+Proximal Policy Optimization,1
+ns-3 simulator,1
+Deep white matter hyperintensity,1
+Migraine,1
+Cultural Historical Activity Theory,1
+cultural norms,1
+linguistic code-switching,1
+educator professional learning,1
+Online forum,1
+Zero Filling,1
+Resampling,1
+Zero Mean,1
+PointNet,1
+surveillance networks,1
+smart city,1
+intelligent management,1
+attribute recognition,1
+Speech recognition,1
+Magnitude,1
+Virtual Tutor,1
+Dance Tutorial System,1
+Machining Learnig,1
+Prognostics And Health Management,1
+k-Anonymity,1
+supervised,1
+Thyroid,1
+Adrenal,1
+Pituitary,1
+Osteoporosis,1
+Diabetes,1
+Metabolism,1
+Endocrinology,1
+unsupervised,1
+microbiome,1
+k Value Prediction,1
+MMPI-2,1
+gender identity,1
+gender,1
+water quality prediction,1
+LSTM (long short-term memory),1
+DO (dissolved oxygen),1
+Thickness metrology,1
+Urdu,1
+actor-critic,1
+OpenAI gym,1
+non-symmetric deep auto-encoder,1
+Barge type ship,1
+생성적 적대 신경망(Generative Adversarial Network),1
+CNN.,1
+Corrupted Labels,1
+Noisy Labels,1
+Intrusion detection,1
+Radiographic Image Enhancement,1
+Data Compression,1
+Cone-Beam Computed Tomography,1
+data synthesize,1
+domain randomization,1
+domain gap,1
+off-road vehicle detection,1
+Standard deviation (SD),1
+Root mean square error (RMSE),1
+Deep neural network DNN),1
+Response amplitude operator (RAO),1
+Roll Motion,1
+named entity recognition,1
+deep recurrent neural network,1
+conditional random fields,1
+Hospital Emergency Service,1
+Perfect solar absorbers,1
+Input Vectors,1
+Network Configuration,1
+Intelligent Excavators,1
+Deep Learning Neural Network,1
+Hyperparameters,1
+Restricted Boltzmann machine,1
+Student performance,1
+PLS-DA,1
+Non-targeted analysis,1
+NMR,1
+Ginseng,1
+Residual learning,1
+mobile robot,1
+path planning,1
+k값 예측,1
+k-익명화,1
+Triage,1
+Efficiency,1
+Domain randomization,1
+Semi-Supervised  Learning,1
+Zero-shot transfer,1
+Robot manipulation,1
+resonance suppression.,1
+multiple notch filters,1
+highly complex servo system,1
+emotion recognition,1
+Deep neural networks,1
+Topological Map,1
+allergic rhinitis,1
+seasons,1
+quercus,1
+pollen grains,1
+Pollen,1
+Imitation learning,1
+model-free optimal control,1
+manufacturing process optimization,1
+Adaptive optimal control,1
+검출 모델,1
+조건부 생성모델,1
+영상 생성,1
+keypoint localization,1
+Information Security,1
+Electroencephalography,1
+vascular stiffness,1
+murine carotid artery,1
+Flow?wall dynamics interaction,1
+하수처리,1
+유입부하 예측,1
+Dorr classifcation · Canal-to-Calcar ratio · Cortical Thickness Index · Total hip arthroplasty · Deep learning,1
+human skeleton tracking,1
+class activation map,1
+Human pose estimation,1
+Short-term Normal ECG,1
+Sleep Apnea,1
+Automatic Prediction,1
+Sport video analysisDeep learningActivity recognition,1
+Periodic limb movement disorder,1
+Automatic brain tumor segmentation · CNN · Deep learning · Enhancing tumor · MRI brain tumor image processing · Sub regions of brain tumor segmentation,1
+FlexRAN,1
+Personal Authentication,1
+Polycystic kidney diseases,1
+Tomography,1
+Dice function,1
+dental panoramic radiography,1
+Electromagnetic radiation (X-ray),1
+Artificial Intelligence (AI),1
+Color Video,1
+Body Fall,1
+Mask-RCNN,1
+air quality monitoring,1
+particulate matter,1
+digital holographic microscopy,1
+Speckle,1
+modulation classification,1
+gaussian noise,1
+dropout,1
+rotary-wing drones,1
+RGB sensor,1
+plant disease,1
+field diagnoses,1
+OSM,1
+5G Networks,1
+E2E Network Slicing,1
+object retrieval,1
+Gait analysis,1
+Artificial leg,1
+Smart cities,1
+Danger detection,1
+Closed-circuit television,1
+Cardiovascular diseases,1
+Renormalization,1
+geographic map,1
+Reservation Algorithm,1
+EIoT,1
+Pulmonary fibrosis,1
+non-coding DNA,1
+evolutionary information,1
+DNA computing,1
+CSI-RS,1
+LBS,1
+Tool condition monitoring (공구 상태진단),1
+Inertial measurement unit,1
+Sketch-based 3D object retrieval,1
+neuromarketing,1
+Smart shopping cart,1
+social media advertising,1
+consumer engagement,1
+traffic prediction.,1
+resource percentage threshold,1
+resource allocation,1
+quality of service,1
+mean slowdown,1
+energy saving,1
+cognitive radio networks,1
+Bipartite matching,1
+medical IT,1
+convolutional autocoder,1
+MIMIC III database,1
+Corrupted data filtering,1
+YOLOv2-Tiny,1
+action recognition,1
+frame classification,1
+dark-net,1
+Smart manufacturing,1
+생성적 적대적 네트워크,1
+DLPFC,1
+Box Coupling,1
+Deep Quiz Cropping,1
+문제영역 검출,1
+딥러닝 기반 물체 인식,1
+온라인 퀴즈 시스템,1
+Design Science,1
+Cryptocurrency,1
+Ensemble Modeling,1
+OFC,1
+Fault detection,1
+fNIRS,1
+accommodation,1
+assimilation,1
+mirror task,1
+Self-regulation,1
+· Rolling element bearings · Improve intelligent diagnostics · Deep functional auto-encoder · Unsupervised learning enhancement · Massive raw data analysis,1
+· 2D CNN · Structural fault classification · Spatial information of input data · Transfer learning,1
+federated learning,1
+Online Quiz System,1
+Deep Learning-based Object Detection,1
+pilot contamination,1
+pilot assignment,1
+철도표면,1
+Subcutaneous mass,1
+Lipoma,1
+Epidermal cyst,1
+Ultrasound,1
+Epochs,1
+Batch size,1
+Time series normalization,1
+Trainsfer learning,1
+Market prediction,1
+시계열 정규화,1
+시장예측,1
+COPD,1
+Medical Image Analysis,1
+Brain Tumors,1
+SIR,1
+massive MIMO,1
+OQFL,1
+FPROPS,1
+CIDDSoft labelsManifold alignmentNSL-KDDSource domainTarget domainTransfer learningZero-day attack,1
+Automated parking systems,1
+Soft actor-critic algorithm,1
+Smart HVAC,1
+Inverter air conditioner,1
+Air conditioner,1
+video caching.,1
+Internet-of-vehicle caching,1
+socially aware navigation,1
+proxemics-based navigation,1
+autonomous vehicle,1
+on-device edge,1
+offloading decision,1
+service chaining,1
+Path Exploration,1
+Gazebo Simulation,1
+Laser Map,1
+Deep-Q Network,1
+Cold forging,1
+UAV navigation and tracking control,1
+Trajectory planning,1
+subcarrier assignment,1
+C-V2X,1
+power control,1
+DDQN,1
+spectral efciency,1
+D2D,1
+DDPG,1
+Offloading,1
+Edge computing,1
+Solenoid operated valve,1
+Support vector machines,1
+Remaining useful life,1
+Condition based maintenance,1
+Predictive maintenance,1
+multi-task,1
+multi-agent systems,1
+deep Q network,1
+merging collision,1
+Semi-persistent Scheduling,1
+depth,1
+화상병,1
+회전익 드론,1
+ser-M 모델,1
+Walking direction estimation,1
+Humanoid robot model,1
+Trt pose,1
+ser-M Model,1
+Ping An Insurance Group Ltd.,1
+Digital Insurance Platform,1
+InsurTech,1
+Artificial Intelligence Technology,1
+중국 평안보험,1
+Wake-Up-Word,1
+디지털보험플랫폼,1
+인슈어테크,1
+인공지능 기술,1
+Scanning System,1
+Vertical-type Structures,1
+자동화 스캐닝 시스템,1
+수직형 시설물,1
+SER,1
+Principal Component Analysis(PCA),1
+Ratio of Human and Animal facial Components,1
+Character Design,1
+Voice User Interface,1
+Double deck tunnel,1
+공용하중,1
+가설장비하중,1
+테스트베드(Test bed),1
+슬래브,1
+복층터널,1
+메모리 네트워크,1
+주의 집중 메커니즘,1
+시퀀스-투-시퀀스 모델,1
+문서 요약,1
+memory network,1
+attention mechanism,1
+sequence-to-sequence model,1
+document summarization,1
+Kansei Engineering,1
+Intelligent System,1
+Human-AI Interaction,1
+Speech-Emotion Recognition,1
+분산 학습,1
+Moral Judgement,1
+personal autonomy,1
+industrial noise,1
+LabVIEW,1
+Brix(Sugar Content),1
+Spectrometer,1
+Near infrared,1
+Sparse Memory,1
+moral status,1
+self-interest,1
+도덕적 지위.,1
+일반 납기,1
+자기 이익,1
+인격적 자율성,1
+Optimal Viewpoint,1
+결정경계(decision boundary),1
+도메인 차이(Domain Shift),1
+고장 진단(Fault Diagnosis),1
+vision based navigation,1
+geometry recovery,1
+sound classification,1
+industrial site,1
+test accuracy,1
+test accuracy.,1
+Generalized Due Date,1
+Scheduling,1
+Fine-Tuning,1
+Question Answering,1
+Masked Language Model,1
+Language Model,1
+2.5  estimation,1
+National scale,1
+Predictor importance,1
+Layerwise relevance propagation (LRP),1
+radar waveform recognition,1
+neural network classifier,1
+Science for Diplomacy,1
+Deep Learnining,1
+과학외교,1
+계량서지학,1
+과학계량학,1
+Middle slab,1
+Test bed,1
+Construction equipment load,1
+Underwater sonar image,1
+Maestro singer Ven Beoban,1
+Bongeun temple’s Yesujae,1
+불교의식음악,1
+조계종어산학교,1
+어장 법안스님,1
+예수재,1
+봉은사 예수재,1
+Gabor filter,1
+가버 필터,1
+Common load,1
+수중 소나 이미지,1
+Priority Object,1
+Seam Optimization,1
+Parallax Distortion,1
+Image Stitching,1
+Time distribution,1
+Attention module,1
+Deepfake,1
+Jogyejong Eosan-Jakbeob-hakgyo,1
+Korean Buddhist ritual music. Yesujae,1
+Beompae,1
+위치기반 소셜 네트워크,1
+Waring System,1
+Eye Aspect Ratio,1
+경고 시스템,1
+눈 영상비,1
+data noise,1
+privacy,1
+information loss,1
+Data de-identification,1
+데이터 잡음,1
+개인정보,1
+정보손실,1
+데이터 비식별화,1
+User-Roa Rating Matrix,1
+Photo-Based User Preference Analysis,1
+Location Based SNS,1
+사용자-ROA 평점 매트릭스,1
+사진 기반 사용자 선호 분석,1
+Data Masking,1
+CPA,1
+DPA,1
+node classification,1
+random walk,1
+graph neural network,1
+노드 분류,1
+그래프 임베딩,1
+랜덤 워크,1
+그래프 뉴럴 네트워크,1
+Dental implant planning.,1
+Transformation optimization,1
+Automatic plane detection,1
+치아 임플란트 계획.,1
+변환 최적화,1
+자동 평면 검출,1
+RGB-D Sensor,1
+Multi-Floor Navigation,1
+Elevator Position Estimation,1
+Elevator Recognition,1
+Kernel Density Estimation,1
+graph embedding,1
+NLTK,1
+Power Analysis Attack,1
+사물 인터넷,1
+Sound Signal(소리신호),1
+Bolt(볼트),1
+Clamping Force(체결력),1
+내용분석,1
+토픽모델,1
+연설문,1
+Content Analysis,1
+Topic Model,1
+Speech,1
+Visually impaired,1
+Situation awareness,1
+Pedestrian navigation,1
+Object recognition,1
+시각 장애,1
+상황 인지,1
+보행자 길안내,1
+물체 인식,1
+Moral Emotion,1
+Neuroscience,1
+Forest Fire Detection,1
+Internet of Things/Everything,1
+GAN (generative adversarial network),1
+Wi-Fi RSSI (received signal strength indicator),1
+Indoor positioning system,1
+Image Decomposition,1
+Attention Module,1
+HDFS,1
+Hadoop,1
+Highest Super Technology,1
+Intelligent Software,1
+아이템 기반 협업 필터링,1
+Smart Platform Convergence,1
+Deep Recommender System Models,1
+Dynamic Temporal Matching,1
+Sequence Aware Recommender System,1
+Recurrent Neural Network,1
+Context Aware Recommender System,1
+item based collaborative filtering,1
+face swapping,1
+deep learning.,1
+견적 자동화,1
+개산 견적,1
+노후 공동주택,1
+Corona 19 Pendemics,1
+경쟁적 신체 운동,1
+학습 공동체,1
+온라인 체육수업,1
+경력 체육 교사,1
+코로나 19 펜데믹,1
+Incomplete data,1
+Extended data expression,1
+Entropy,1
+불완전한 데이터,1
+확장된 데이터 표현,1
+엔트로피,1
+Aged Apartment Remodeling,1
+Schematic Estimation,1
+Automatic Estimation,1
+딥러닝기반 견적,1
+리모델링,1
+Conversation application(app),1
+얼굴 합성,1
+Artificial Moral Agent,1
+빅데이터 분석,1
+Autonomous,1
+Air Duct,1
+Brain perfusion . Vascular reserve . Acetazolamide SPECT . Carotid artery stenosis . Moyamoya disease . Deep learning,1
+Small-scale data,1
+Policy evaluation,1
+Big data analysis,1
+정책평가,1
+전시학습,1
+소규모 데이터,1
+회화 앱(어플),1
+Personalized healthcare,1
+Precision medicine,1
+Theranostics,1
+Advanced techniques,1
+Nuclear medicine physics,1
+Embedded Deep Learning,1
+Edge AI,1
+Lightweight,1
+Duct Cleaning,1
+이미지 합성,1
+영상 편집,1
+image compositing,1
+architectural planning and design,1
+long short-term memory networks (LSTMs),1
+electroencephalogram (EEG),1
+wind speed prediction,1
+sliding window method,1
+meteorological observation data,1
+풍속예측,1
+슬라이딩 윈도우 기법,1
+기상 관측자료,1
+의료영상,1
+UDP Socket,1
+SSD Model,1
+객체 감지,1
+UDP 소켓,1
+SSD 모델,1
+animation,1
+video editing,1
+Veteran Physical Education Teachers,1
+Online Physical Education Class,1
+Learning Teacher’s Community,1
+interdisciplinary study,1
+영화 평점,1
+calibration,1
+camera image,1
+unmanned vehicle,1
+HD-Map,1
+high definition Map,1
+human centered design,1
+eastern philosophy,1
+Virtual Reality,1
+Competitive Physical Exercise,1
+malicious code detection,1
+auto encoder,1
+터널굴착면 전방예측,1
+순환인공신경망,1
+Q값,1
+암반분류,1
+Tunnel ahead prediction,1
+Q-value,1
+협업 필터링,1
+MovieLens,1
+movie rating,1
+항공정사영상,1
+도덕정서,1
+도덕판단,1
+뇌신경과학,1
+인공 도덕행위자,1
+workshop,1
+media literacy,1
+social media writing,1
+university writing,1
+knowledge convergence,1
+워크숍,1
+미디어 리터러시,1
+SNS 글쓰기,1
+대학 글쓰기,1
+지식융합,1
+Automatic land cover map generation,1
+Aerial ortho photo,1
+토지피복지도 자동 제작,1
+Rock mass classification,1
+Driver Assistance System,1
+DPID,1
+steganalysis,1
+Super-resolution convolutional neural network,1
+영상 화질,1
+전산화단층촬영,1
+초 매개 변수,1
+초고해상도 합성곱 신경망,1
+법률전문시스템,1
+법률지식도,1
+사법응용,1
+Legal expert system,1
+Legal knowledge map,1
+Judicial application,1
+Buddhist epistemology,1
+internalization of subjects,1
+s Paradox,1
+Meno,1
+classes,1
+subjects,1
+Hyperparameter,1
+high-capacity,1
+edge loss,1
+adversarial network,1
+remote sensing image,1
+SISR,1
+Apple leaf,1
+Superpixel,1
+Disease classification,1
+Logistic regression,1
+Urban runoff analysis,1
+Flood prediction,1
+로지스틱 회귀,1
+LSTM 모형,1
+침수 예측,1
+도시 홍수 분석,1
+Weighted Graph,1
+Weighted Graph Embedding,1
+LSTM Autoencoder,1
+Graph Similarity,1
+Graph Embedding,1
+기후변화,1
+폭염,1
+취약성,1
+Long short term memory (LSTM),1
+ROC curve,1
+Ensemble Model,1
+금호강,1
+가뭄,1
+표준지하수위지수 (SGI),1
+Kumho river,1
+Drought,1
+Standardized groundwater level index (SGI),1
+toxic comments,1
+군집화,1
+OOV,1
+Highway Network,1
+Robot Platform,1
+Robot Interaction,1
+Artificial Intelligence Server,1
+AI server,1
+Demand Pattern Analysis,1
+Repair Parts Demand Forecasting,1
+machine vision and perception,1
+security and safety of deep learning,1
+adversarial attack,1
+out-of-distribution detection,1
+Time-constraints,1
+Queuetime prediction model,1
+Quality assurance,1
+Fab operation,1
+Variable importance,1
+Explainable AI,1
+MNIST. Image processing,1
+Image recognition,1
+Widget Recognition,1
+Symbol Marker,1
+Deep learning algorithm · Genetic algorithm · Hyper-parameter optimization · Motor fault diagnosis · Convolutional neural network · MNIST,1
+Recognition Rate,1
+Fingerprint Image,1
+VGG19,1
+Feature extraction layer,1
+Vespa monitoring system,1
+Deep CNN,1
+수요패턴분석,1
+장비수요예측,1
+Climate Change,1
+Virtual Space,1
+석유가스 개발사업,1
+similarity,1
+document classification,1
+유사도,1
+문서 분류,1
+딥 네트워크 학습,1
+User Interface,1
+Hand Gesture Recognition,1
+사용자 인터페이스,1
+Caffe,1
+손 제스쳐 인식,1
+가상 공간,1
+joint practice,1
+internet of things,1
+공동실시,1
+Prediction.,1
+Garch Model,1
+Auction,1
+디지털 전환,1
+Oil and Gas E&P Business,1
+Digital Transformation,1
+시각장애인,1
+Face recognition,1
+Embedding vector,1
+Face alignment,1
+deep cognition,1
+Chinese culture,1
+post-Korean current,1
+Korean student in China,1
+深??知,1
+中?文化,1
+????留?生,1
+“后?流”?代,1
+DCGANs,1
+Teeth Image Generation,1
+신원 식별,1
+치아 이미지 생성,1
+Research Trend,1
+The Visually Impaired,1
+Deep learning ASIC,1
+Mobile deep learning,1
+Open-set recognition,1
+Feedback Control(피드백제어),1
+Machine Vision,1
+Data Reconstruction,1
+Rare Class,1
+Machine-Learning,1
+Trading,1
+Catastrophic Forgetting,1
+Continuous Learning,1
+Controller(제어기),1
+Simulink(시뮬링크),1
+DT-CNN,1
+MATLAB(매트랩),1
+DDPG(Deep Deterministic Policy Gradient),1
+Software Defined Network,1
+Permutation Importance Algorithm,1
+DDoS Attack,1
+MR damper,1
+Semi-active TMD,1
+Seismic response prediction,1
+post deep learning,1
+Human-AI collaboration,1
+intelligence for autonomous things,1
+hologram,1
+Tracking error,1
+Pedestrian tracking,1
+Moving trajectory,1
+Body posture,1
+image segmentation,1
+satellite images,1
+PID,1
+inverted pendulum,1
+deep Q network(DQN),1
+Actor critic,1
+Synthetic Data,1
+LPR(License Plate Recognition),1
+Spectral Conversion,1
+Infrared Image,1
+Irregular Demand,1
+Aircraft Spare Parts,1
+Demand Forecasts,1
+Deep learning . Mask R-CNN . Potato detection . Potato segmentation,1
+temporal and spatial features,1
+false positive,1
+Motor fault diagnosis,1
+Finite Element Method(유한요소기법),1
+Data-driven Modeling(데이터 기반 모델링),1
+Deep Learning Neural Networks(심층신경망),1
+Mixed-criticality system,1
+System resource management,1
+Multi-Task DNN (다목적 딥뉴럴넷),1
+Uncertainty Estimation (불확실성 예측),1
+Knowledge Distillation (지식 증류),1
+Auxiliary Loss (보조 손실 값),1
+Object Detection (객체 검출),1
+Deep q-learning network (DQN),1
+Liquid cooling,1
+Dual-use Item,1
+Time evolution,1
+Media art,1
+Machine learning theory,1
+Motor fault prediction,1
+capsule network,1
+Motor fault predict,1
+wavelet transform,1
+CNN(순환 신경망),1
+행동 인식,1
+비디오 프로세싱,1
+주의 메커니즘,1
+Video Processing,1
+Motor Fault Diagnosis,1
+Pipelining,1
+Factoring,1
+Modified booth multipliers,1
+Tomato,1
+Inception V3,1
+Radar(레이더),1
+Road Lane Model(도로 차선 모델),1
+Lane Keeping System(차선 유지 시스템),1
+Deep learning(딥 러닝),1
+Additive Manufacturing(적층제조),1
+Image Labeling(이미지 라벨링),1
+Data Augmentation(데이터 증폭),1
+Housing,1
+예측.,1
+GARCH 모형,1
+Transfer-Learning,1
+엣지컴퓨팅,1
+Survival Analysis,1
+Database,1
+생존분석,1
+데이터베이스,1
+transformation,1
+data preprocessing,1
+Image Captioning,1
+Expertise Transplant,1
+Bias Training,1
+이미지 캡셔닝,1
+전문성 이식,1
+technology-organization-environment framework,1
+Adoption of open source software,1
+Deep learning open source software,1
+Deep learning framework,1
+기술-조직-환경 프레임워크,1
+오픈소스 소프트웨어 도입,1
+분산훈련,1
+시각화,1
+실험 관리,1
+자동 최적화,1
+Deep Deterministic Policy Gradient,1
+Policy Gradient,1
+Simulator,1
+Autonomous-Parking,1
+깊은 결정적 정책경사 알고리즘,1
+정책경사 알고리즘,1
+시뮬레이터,1
+자율주차,1
+Building shadow data,1
+Satellite shadow data,1
+Shadow Dataset,1
+Unity3D,1
+Wind(바람),1
+Wave(파랑),1
+Prediction technique(예측기법),1
+Auto Optimization,1
+Experiment Management,1
+딥러닝 오픈소스 소프트웨어,1
+딥러닝 프레임워크,1
+environmental improvement,1
+J&#299,1
+Gonggeujae(貢擧制),1
+Lee Seok-Jo (李奭祚),1
+Governing theories(經世論),1
+『Jipsul(輯說)』,1
+務本補末,1
+經世濟民,1
+限田制,1
+貢擧制,1
+李奭祚,1
+經世論,1
+『輯說』,1
+Speech Visualization,1
+SOM-VAE,1
+Korean Pronunciation,1
+Feature Clustering,1
+Vulnerability,1
+Heatwave,1
+Hanjunja(限田制),1
+ngsh&#236,1
+prospect,1
+j&#236,1
+retrospect,1
+sanitary administration,1
+germ theory,1
+urban sanitation,1
+urban,1
+modern,1
+환경정비,1
+위생행정,1
+세균설,1
+전망,1
+회고,1
+도시위생,1
+도시,1
+근대,1
+Mubonbomal(務本補末),1
+n(經世濟民),1
+m&#237,1
+Underground Utility Facility,1
+사용자 분석,1
+경매,1
+PCB 불량검출,1
+face authentication,1
+능동적 형태 모델,1
+결합베이시안,1
+얼굴인식,1
+Weakly supervised learning,1
+Onion downy mildew,1
+Crop disease,1
+PCB inspection,1
+준 지도 학습,1
+Consumer Analysis,1
+언어모델,1
+개체명 인식,1
+Language model,1
+Search Patterns for missing persons,1
+Disaster scene,1
+Using drone,1
+Distinguished data,1
+Fuzzy deep learning,1
+joint bayesian,1
+active shape model,1
+CNN Mobile Net,1
+Malware Detection Algoritm,1
+주택,1
+Pix2Pix,1
+Generative Adverasarial Network(GAN),1
+NSL-KDD Data Set,1
+Network Anomaly Detection,1
+노이즈 추가,1
+문장 생성,1
+자연어 생성,1
+knowledge base,1
+noise injection,1
+sentence generation,1
+natural language generation,1
+Raspberrypi,1
+Inverter,1
+Modbus TCP protocol,1
+Network Event,1
+Security Data Analysis,1
+Fuzzy data,1
+퍼지딥러닝,1
+퍼지자료,1
+학습 성과 예측,1
+Predictive learning analytics,1
+Adaptive learning,1
+Stock Price Direction Prediction,1
+속성선택,1
+주가방향 예측,1
+정보통신기술(ICT),1
+Information and communications technology(ICT),1
+Training data,1
+UNet++,1
+적치 상태 측정,1
+Accumulated status Measuring,1
+데이터 클리닝,1
+노이즈,1
+전처리기,1
+시계열,1
+Time Series,1
+traumatic brain injury,1
+적응 학습,1
+자동분류,1
+NAO Robot,1
+스태킹,1
+Cooperative Robot,1
+Cadastral Map,1
+FC-DenseNet,1
+RapidEye satellite imagery,1
+Crop cultivation area,1
+Fully convolutional network model,1
+Liver fibrosis,1
+Performance Improvement,1
+Load-Balancing,1
+Block-chain,1
+Distributed Network,1
+제한 볼츠만 기계,1
+협력 필터링,1
+Restricted Boltzmann Machine,1
+Attention mechanism,1
+KOSPI200 index,1
+Stacking,1
+Real-Time,1
+Scan Matching(스캔 정합),1
+예찰,1
+Performance Evaluation,1
+electrically-assisted forming,1
+electropulse,1
+magnesium,1
+Strength prediction,1
+Spatial structure,1
+UHPC,1
+Nadam,1
+Adam,1
+건조밀도,1
+Solid oxide fuel cell,1
+함수비,1
+물리적 특성,1
+흙,1
+Rapid misclassification sample,1
+Evasion Attack,1
+Adversarial example,1
+RetinaNet,1
+PCB Component Inspection,1
+측면주사 소나,1
+영상 잡음 제거,1
+압축 센싱,1
+학습기반 압축 센싱,1
+도시홍수,1
+Loss Function,1
+오차 함수,1
+Score Fusion,1
+3D Convolutional Neural Network,1
+Cerebrospinal Fluid,1
+줌(ZOOM),1
+파워포인트,1
+온라인 원격수업,1
+한시 전공 수업,1
+ZOOM,1
+PowerPoint,1
+Sino-Korean Poetry,1
+Online Remote Learning,1
+Learning based compressive sensing,1
+Compressive sensing,1
+Side scan sonar,1
+Performance prediction,1
+회귀,1
+Transfer Time,1
+conceptual framing,1
+Blockchain,1
+사고 구술 인터뷰,1
+문제 해결 추론,1
+개념적 프레이밍,1
+학습접근방식,1
+유전 문제 해결,1
+think-aloud interview,1
+problem-solving reasoning,1
+learning approaches,1
+성능 예측,1
+genetic problem-solving,1
+Publicly available data in agriculture,1
+Gradient boosting machines,1
+Agricultural big data,1
+Soil moisture prediction,1
+교통카드데이터,1
+회귀모형,1
+환승시간,1
+Data Privacy,1
+Decentralized Learning,1
+Incentive Mechanism,1
+Smart Contract,1
+고체 산화물 연료전지,1
+non-expressive use,1
+fair use,1
+copyright,1
+비표현적 이용행위,1
+Variation and Bias Balance,1
+Monte Carlo,1
+Temporal Difference,1
+분산과 편차의 균형,1
+몬테 칼로 학습,1
+시간차 학습,1
+온- 앤 오프-폴리시,1
+스마트 컨트랙트,1
+인센티브 모델,1
+연합학습,1
+데이터 프라이버시,1
+블록체인,1
+실측 강우사상,1
+홍수예측,1
+Urban Flood,1
+광화 인자,1
+Natural Scene Statistics,1
+3D Shearlet Transform,1
+No-Reference Video Quality Assessment,1
+Spatial attention mechanism,1
+Generative adversarial networks,1
+공간적 주의 기제,1
+깊은 신경망,1
+예측탐사,1
+광상 잠재성,1
+Observed Rainfall,1
+predictive exploration,1
+potential mapping factor,1
+mineral potential,1
+Parallel processing,1
+Deep Neural Network (DNN),1
+병렬 처리,1
+데이터 자동 구축,1
+추출 축약,1
+Deep Residual Neural Network,1
+Conditional Constraints,1
+Urban Heat Island Effect,1
+Urban Park and Green Space,1
+state ritual(國家禮),1
+Tang Dynasty(唐),1
+Land Cover Classification,1
+High Resolution KOMPSAT-3 Satellite Imagery,1
+토지피복분류,1
+고해상도 KOMPSAT-3 위성영상,1
+Mountain Wetland,1
+산지습지,1
+Calculation,1
+Recognition,1
+계산,1
+인식,1
+지표면온도,1
+도시공원 및 녹지,1
+도시열섬현상,1
+Land Surface Temperature,1
+Landsat,1
+삭제 기반 축약,1
+준-지도 학습,1
+한국어 문장 축약,1
+창의적 체험활동,1
+초등음악교육,1
+Collaboration,1
+Art instructor’s qualifications,1
+Creative experiential learning activities,1
+Music instruction,1
+Elementary music education,1
+Link Prediction,1
+네트워크 간소화,1
+프루닝,1
+모델 경량화,1
+모델압축,1
+Network-Slimming,1
+Model Light Weight,1
+Model Compression,1
+Signal to noise ratio,1
+UrbanSound8K,1
+Flood Prediction,1
+음악 수업,1
+예술강사 역량,1
+automatic data set construction,1
+동상방지층,1
+extractive compression,1
+deletion-based compression,1
+Korean sentence compression,1
+Road Situation,1
+Autonomous driving,1
+Deep Fully Convolutional Network,1
+도로상황,1
+객체 분할,1
+딥 풀리 컨벌루셔널 네트워크,1
+Prediction Model,1
+Hyper-parameter,1
+Stock Price,1
+예측 모델,1
+하이퍼파라미터,1
+주가,1
+Anti-frost Layer,1
+심층신경망학습,1
+Smart Card Data,1
+Rhinology,1
+Point cloud Map(포인트 클라우드 지도),1
+Sishujizhu,1
+기억,1
+지성,1
+의지,1
+아퀴나스,1
+아우구스티누스,1
+the practice of teaching and learning,1
+The relationship between teaching and learning,1
+teaching and learning,1
+교학의 방법,1
+지도학습,1
+가르침과 배움 의 관계,1
+교학의 관계,1
+敎學,1
+교학,1
+四書集注,1
+사서집주,1
+Robotic Grasp,1
+activation function,1
+조명,1
+추상,1
+내적 방향성,1
+학습 노력,1
+수업 전략,1
+그리스인 조르바,1
+낭독 공연,1
+수업 모형,1
+독후감,1
+각색,1
+명저읽기,1
+learning effort,1
+inner direction,1
+abstraction,1
+divine illumination,1
+learning,1
+memory,1
+intellect,1
+will,1
+Aquinas,1
+Augustine,1
+비 지도학습,1
+Combined Loss,1
+Otolaryngology,1
+시각적 혐오 표현,1
+영상품질,1
+전산화단층영상,1
+잡음저감,1
+트위치,1
+알고리즘 기반 조정,1
+양방향 장단기 메모리,1
+탐지,1
+실시간 방송,1
+Twitch,1
+Vehicle,1
+algorithmic moderation,1
+bidirectional long short-term memory,1
+live streaming,1
+visual hate speech,1
+Fault diagnosis,1
+Power line deflection monitoring system,1
+Panoramic video stitching,1
+RGB,1
+Actor-Critic Deep Reinforcement Learning,1
+Robotic Grasping,1
+deep Q network (DQN),1
+distribution netwok reconfiguration (DNR),1
+Person,1
+Re-Identification,1
+Quality of Service,1
+Flow Groups,1
+Adaptive Queue Management Mechanism,1
+서비스 품질,1
+흐름 그룹,1
+적응적 큐 관리 메커니즘,1
+Proportional Navigation Guidance(비례 항법 유도),1
+Pursuit-Evasion Game(추격-회피 게임),1
+monocular camera,1
+D3QN,1
+collision avoidance,1
+Image Search,1
+Cultural Difference,1
+renewable energy curtailment,1
+line loss,1
+masterpiece reading,1
+dramatization,1
+book review,1
+k-NN,1
+perceived value,1
+Intelligent cloud,1
+관광추천 시스템,1
+와이드 앤 딥러닝,1
+관광 행동의도,1
+지각된 가치,1
+지능형 클라우드,1
+Linear SVM,1
+C-index,1
+reading performance,1
+deepsurv,1
+random survival forest,1
+치매,1
+C지수,1
+딥서브,1
+랜덤 생존 포레스트,1
+언어발달 장애,1
+영문법교정,1
+Tourism Behavior Intention,1
+wide and deep learning,1
+tourism recommendation system,1
+통행속도 예측,1
+Medicine,1
+Tompkins's method,1
+Start (End) point of waveform,1
+12 lead ECG,1
+Continuous data processing deep neural network (C-DNN),1
+Multiculturalism,1
+L2 Learning Motivation,1
+Bilingualism,1
+Singapore,1
+Korean Language Education,1
+다문화주의,1
+제2 언어 학습 동기,1
+이중언어,1
+싱가포르,1
+Game,1
+The fourth industrial revolution,1
+Travel speed prediction,1
+픽토그램,1
+보완대체 의사소통,1
+Developmental disabilities,1
+AutoPilot,1
+latent space,1
+적대학습,1
+잠재공간,1
+Health monitoring,1
+Crack detection,1
+Adversarial learning,1
+상태 점검,1
+적대적 학습,1
+Channel estimation and tracking,1
+Bright Channel Prior,1
+Low-light Enhancement,1
+협력적 다중 에이전트,1
+분류 시스템,1
+Cooperative Multi-Agent,1
+Sortation System,1
+teaching strategy,1
+Zorba the Greek,1
+adversarial learning,1
+Image Archive,1
+Grammar Error Correction,1
+Metadata,1
+Pictogram,1
+Augmentative and Alternative Communication,1
+East Asian discourse,1
+the theory of national literature,1
+Modern criticism,1
+post modernism,1
+Korean Studies,1
+national learning,1
+동아시아론,1
+민족문학론,1
+근대비판,1
+탈근대론,1
+한국학,1
+국학,1
+자동 인덱싱,1
+사진 기록물,1
+Automatic Indexing,1
+Luling(律令),1
+Zhenguanli(貞觀禮),1
+Tong dian(通典),1
+multiple objective particle swarm optimization,1
+Video Search,1
+Human Object Detection,1
+Costume,1
+mechanical device,1
+machinery fault diagnosis,1
+rise time,1
+radial basis function,1
+proportional gain,1
+integral square-error,1
+Sonar,1
+integral of time-multiplied-squared-error,1
+integral of time multiplied by absolute error,1
+integral gain,1
+integral absolute error,1
+genetic algorithm,1
+frequency sensitivity,1
+Bees,1
+Feature Matching,1
+저해상도 이미지,1
+정보 전달 기법,1
+Self-Attention Map,1
+knowledge distillation,1
+Sliding Window,1
+Hough Transformation,1
+Lane Detection,1
+Positron emission tomography (PET) . Denoising filter . Deep learning . Artificial neural network,1
+personal identification,1
+electrocardiogram signal,1
+Anomaly Data Detection,1
+AutoML,1
+Crowdsensing,1
+라이트웨이 모듈,1
+셔플넷,1
+결함탐지,1
+Light-weight modules,1
+ShuffleNet,1
+Channel Attention Residual Dense Block,1
+Iterative Up-Down Sampling,1
+self-attention map,1
+Underwater,1
+Household energy bills prediction,1
+Jiu Tangshu(舊唐書),1
+Deep time series denoiser,1
+추천 의도,1
+구매 의도,1
+가치이론,1
+기독교적 종교성,1
+Factorization game,1
+Monte Carlo Tree Search,1
+인수분해 게임,1
+몬테카를로 트리 탐색,1
+KOSPI 200 stock index,1
+Long-Short Term Memory(LSTM),1
+Inappropriate Thermal Image Detection,1
+3D Printer,1
+Wearable Medical Device,1
+mirror neuron,1
+multiple sensory neuron,1
+Education-neurology,1
+Brain based learning,1
+Digital learningmaterials,1
+Religiousness,1
+Value Theory,1
+Purchase Intention,1
+Intention to Recommend,1
+Hyper-Parameters,1
+VGG-19,1
+CAN Analysis (CAN 신호 분석),1
+Characterizing Driving Style (운전 성향 분류),1
+Deep Learning (심층 학습),1
+FUSE,1
+malicious code,1
+file access behavior,1
+object segmentation,1
+video coding for machine,1
+intermediate features,1
+자기 지도 학습,1
+사전 학습 언어 모델,1
+문서 임베딩,1
+Self-Supervised Learning,1
+Document Embedding,1
+diagnosis,1
+NCTR,1
+ISAR,1
+CNN model,1
+Intersection Signal Model,1
+Automated rule checking,1
+Kendo,1
+Sequence,1
+예측모델,1
+검도경기,1
+Heart Segmentation,1
+심장분할,1
+Traffic Simulation,1
+교통 시뮬레이션,1
+비협조적 표적식별,1
+교차로 신호 모형,1
+2-dimensional Connectivity,1
+Mathematical Morphology,1
+Pre-Processing,1
+MAS형 인재,1
+0,1
+품질경영4,1
+Individual identification,1
+Building information modeling,1
+Design requirements,1
+Logic rule component,1
+MQTT,1
+Autonomous Vehicle(자율 주행 자동차),1
+키 관리,1
+지형 정보,1
+클라우드,1
+key management,1
+terrain information,1
+Cloud,1
+residual learning,1
+dense connection,1
+image denoising,1
+low-dose CT,1
+사전훈련 된 모델,1
+Pre-trained Model,1
+Security Guideline,1
+AMI Big Data,1
+Power System,1
+Remote Control,1
+Age range classification,1
+Endoscopic imaging,1
+Machine Diagnostics(기계 진단),1
+end to end deep learning,1
+public sphere,1
+post-truth,1
+public opinion molded,1
+deepfake,1
+공론장,1
+탈진실,1
+여론형성,1
+딥페이크,1
+Medical image registration,1
+Polyphase decomposition,1
+Food-materials,1
+Global Average Pooling,1
+Jitter,1
+Multi Layer Perceptron,1
+영상 식별,1
+CNN 모델,1
+역합성개구레이다 영상,1
+Fish Detection,1
+experiment,1
+Rotating Machine(회전체),1
+framework,1
+Orbit Detection(궤도 추적),1
+Rule-based(규칙기반),1
+Ensemble(앙상블),1
+High dimensionality,1
+Health care big data,1
+defects detection,1
+solar cell,1
+Indoor positioning,1
+Radio map,1
+Deep learning network,1
+Wi-Fi fingerprint,1
+gradient boosting machine,1
+ensemble learning,1
+shipment prediction,1
+YOLO9000,1
+Button Detection,1
+Features Recognition,1
+거울신경계,1
+다중감각신경,1
+교육신경학,1
+FDS,1
+Alice Case,1
+computer-related inventions,1
+software-related inventions,1
+eligible subject matter as an invention,1
+Alice 판결,1
+소프트웨어 관련 발명컴퓨터 관련 발명,1
+특허 적격성,1
+발명의 성립성,1
+Heat release rate,1
+Deep Learning Education,1
+Flame height,1
+Fire engineering,1
+Oil fire,1
+Predicting misfit students for college,1
+대학생활 부적응 예측,1
+e-Call Service,1
+Automobile Accident Prevention System,1
+적중률,1
+폐렴 검출,1
+흉부 X선 촬영영상,1
+Pneumonia Detection,1
+Chest X-ray image,1
+Illegal Parking and Stopping,1
+드론 영상,1
+불법 주정차,1
+deep-learning-based language model,1
+corpus-based language model,1
+surprisal,1
+predictabililty,1
+train set,1
+sentiment dictionary,1
+superpixels,1
+deep convolution neural networks,1
+bone age,1
+feature fusion,1
+프로그래밍,1
+빅 데이터 분석,1
+Programming,1
+Big data Analysis,1
+합격예측,1
+임용고사,1
+Human action recognition,1
+fault detection,1
+단층 탐지,1
+Discriminator,1
+Multi-task,1
+Disentanglement,1
+Speaker embedding,1
+판별기,1
+다중작업,1
+정보 분리,1
+화자 임베딩,1
+신당서,1
+구당서,1
+통전,1
+정관례,1
+율령,1
+국가례,1
+당,1
+Xin Tangshu(新唐書),1
+서포트벡터머신,1
+역제곱 비균일 양자화 기법,1
+Emergency detection,1
+에너지 효율성,1
+웹 서비스,1
+이미지 수집,1
+컨볼루셔널 뉴럴 네트워크,1
+장소 이미지,1
+Web Service,1
+Image Collecting,1
+CNN(Convolutional Neural Network),1
+V-Tol,1
+PIA,1
+VTol,1
+Free Trade Agreement,1
+Trade,1
+Harmonized commodity description and coding System,1
+Machine  learning,1
+Information communication technology,1
+energy-efficiency,1
+inverse power of two non-uniform quantization,1
+딥러닝 교육,1
+Multi-Layer Perceptron(다층 퍼셉트론),1
+뇌기반 교육,1
+박스 주석,1
+hierarchy analysis,1
+Digital Analysis Technique,1
+Digital Humanites,1
+Artificial Intelligence Humanities,1
+multicast routing,1
+Software Defined Networking(SDN),1
+box annotation,1
+Joint Training,1
+YONI,1
+Long Short-Term Memory(장단기 메모리),1
+합동 훈련,1
+Electrodiagnosis.,1
+Electrocardiography,1
+Computer-assisted diagnosis,1
+Phenotype,1
+Seed segmentation,1
+표현형,1
+종자 영상분할,1
+similarity analysis,1
+semantic search,1
+sijo,1
+Korean Sijo Dictionary,1
+디지털 학습자료,1
+Flooded area extraction,1
+Sentinel-1 A/B,1
+SegNet,1
+활성화 함수,1
+3D human model,1
+Shape deformation,1
+On-site learning,1
+3차원 사람 모델,1
+형상 변형,1
+온-사이트 학습,1
+한국시조대사전,1
+시조,1
+의미 검색,1
+유사도 분석,1
+계층 분석,1
+디지털 분석 기법,1
+Illegal Parking,1
+Anchor Box,1
+불법주정차,1
+Bridge damage localization,1
+교량 손상 위치 추정,1
+Baysian optimization,1
+flow of solution procedure,1
+Virtual tooth,1
+Number of learning,1
+Lower first  molar,1
+Deep Convolutional Generative Adversarial Networks,1
+Abuse detection,1
+Text embedding,1
+Text-based deep learning model,1
+Spoken language,1
+욕설 탐지,1
+텍스트 임베딩,1
+텍스트 기반 딥러닝 모델,1
+구어체 텍스트,1
+Regression(회귀),1
+Vehicle Vibration(차량 진동),1
+비지도학습,1
+Image Synthesis,1
+앵커박스,1
+Perspective Transform,1
+neural network stealing,1
+Meltdown,1
+Structural Health Monitoring(구조 건전성 감시),1
+Impact Location(충격 위치),1
+NDT(비파괴 검사),1
+tractor tillage,1
+path detection,1
+autonomous tractor,1
+VAE,1
+visual surveillance,1
+Foreground objects detection,1
+Ball Throwing,1
+Robotic Arm,1
+Batch Size,1
+Learning Rate,1
+Information,1
+Supply Chain,1
+Neutralization,1

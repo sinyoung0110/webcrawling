@@ -1,0 +1,595 @@
+keyword,count
+YOLO,62
+Object Detection,23
+Object detection,21
+Deep Learning,19
+Deep learning,18
+딥러닝,14
+object detection,11
+deep learning,8
+욜로,6
+CNN,5
+YOLOv3,4
+객체 인식,4
+컴퓨터 비전,4
+객체탐지,4
+Computer vision,3
+Vehicle Detection,3
+OpenCV,3
+YOLO v4,3
+Machine learning,3
+YOLO(You Only Look Once),3
+Artificial Intelligence,3
+Image processing,3
+머신러닝,3
+Real-Time,3
+Object recognition,3
+Convolutional Neural Network,3
+Image Processing,3
+Drone,3
+Jetson Xavier,2
+OCR,2
+Classification,2
+Monitoring,2
+YOLOv5,2
+Golf ball,2
+YOLOv4,2
+MR,2
+UAV,2
+Jetson Nano,2
+AI(ARTICIFIAL INTELLIGENCE),2
+웨이퍼 노치,2
+Vision,2
+Human detection,2
+LPR(License Plate Recognition),2
+Defect Detection,2
+LSTM,2
+object recognition,2
+Kalman filter,2
+Channeling Effect(채널링 현상),2
+Yolo(You look only once),2
+Mask-RCNN,2
+데이터셋(Dataset),2
+객체인식,2
+객체 검출,2
+Pallet,2
+Bhattacharyya distance,2
+YOLO v3,2
+AGV,2
+World Coordinate,2
+HSV,2
+K-mean,2
+Computer Vision,2
+SLAM,2
+PP-YOLO,2
+Visually Impaired,2
+CSI-Camera,2
+Virtual Reality,2
+가상현실,2
+HMD,2
+Screen capture,1
+무인항공기,1
+얼굴 영역 감지,1
+얼굴 탐지,1
+Labelling,1
+이미지 처리,1
+인물 분류,1
+장애물회피,1
+충돌회피,1
+드론,1
+Multicopter,1
+Secure image display,1
+Pixhawk,1
+Obstacle Avoidance,1
+Sensor fusion,1
+Collision Avoidance,1
+RGB-D camera,1
+LiDAR,1
+Frame differencing,1
+Virtual fence,1
+Screen shot,1
+픽스호크,1
+Dataset,1
+멀티콥터,1
+game scene,1
+보행 네트워크,1
+오픈스트리트맵,1
+Map Update,1
+Pedestrian Network,1
+OpenStreetMap,1
+Open API,1
+NFC,1
+embedded board,1
+Tensorflow,1
+EV Station,1
+Electric Vehicle,1
+cloud server,1
+RFID,1
+GPS,1
+Runway Cleaning Robot,1
+FOD (Foreign Object Debris),1
+Real Time Object Detection,1
+Image,1
+결함 검출(Detect Detection),1
+AI),1
+인공지능(Artificial Intelligence,1
+EL),1
+전계발광(Electroluminescence,1
+태양광 모듈(PV Modules),1
+태양전지(Solar Cells),1
+YOLOv2,1
+Thresholding,1
+Character Classification,1
+Infrared imaging,1
+Open CV,1
+Localization,1
+Deep Learning(딥러닝),1
+You Only Look Once Algorithm (YOLO),1
+Image scaling algorithm,1
+Cross-sectional analysis,1
+Melting pool tomography,1
+Metal 3D printing,1
+Substitute Video,1
+Vehicle Black Box,1
+Orientation,1
+대체 영상,1
+차량 검출,1
+차량용 블랙박스,1
+ROS(로봇 오퍼레이팅 시스템),1
+Face Detection,1
+Natural landmark,1
+Autonomous Driving(자율 주행),1
+Sensor Fusion(센서 퓨전),1
+Kalman Filter(칼만 필터),1
+Scaled YOLO v4(스케일드 욜로 버전4),1
+YOLO v4(욜로 버전4),1
+객체 추적(Object Tracking),1
+객체 인식(Object Detection),1
+Yolo-v3,1
+Walking Aids,1
+IoT System,1
+Yolo,1
+Vision System(영상처리 시스템),1
+Negligent Accident(안전사고),1
+Convolutional Neural Network(CNN)(컨볼루션신경망),1
+Aerial Image,1
+Facial Region Detection,1
+Intelligent drone system,1
+Object detection and tracking,1
+Handy motion control,1
+Oil spill detection,1
+Convolution Neural Network,1
+Hough lines algorithm,1
+National safety,1
+YOLO.,1
+Citizen safety,1
+Artificial Intelligent,1
+ITS : Intelligent Transportation System,1
+Road Dangerous Object,1
+Infiltration mononuclear cell,1
+Non-clinical study,1
+비전 센싱,1
+시각장애인,1
+Classificatioin,1
+Recognition,1
+요리,1
+Information leakage,1
+도로위험객체,1
+객체 분류,1
+You Only Look Once(YOLO)(욜로),1
+Depth Camera,1
+지도 갱신,1
+Beehive gate,1
+VAID,1
+Transfer Learning,1
+End-to-end Delay(종단 간 시간),1
+Darknet-YOLO(다크넷-욜로),1
+전이 학습,1
+텐서플로우 라이트,1
+티처블 머신,1
+안드로이드 스튜디오,1
+TensorFlow Lite,1
+Vehicle Orientation,1
+Teachable Machine,1
+Android Studio,1
+AR Glass,1
+Hand Position Tracking,1
+이미지 크롤링(Image crawling),1
+Node Js,1
+Multithreaded Application(multithreaded 응용),1
+Object Detection(객체 탐지),1
+Recycling Waste,1
+Rasberry Pi,1
+욜로 버전4,1
+재활용 쓰레기,1
+라즈베리파이,1
+시설 온실,1
+깊이 영상,1
+Pig Detection,1
+Video Object Detection,1
+Real-Time Video Monitoring,1
+License Plate Generator,1
+License Plate,1
+Surveillance Systems,1
+Multi-Stream,1
+Multi-Channel,1
+보조보행기구,1
+Convolutional Neural Network(CNN),1
+포트홀,1
+ROS(Robot Operating System),1
+Processing,1
+Weanling pig,1
+3D printing,1
+Ceramics,1
+Selective reaction hardening,1
+자율주행(Autonomous driving),1
+SLAM(Simultaneous Localization And Mapping),1
+Action recognition,1
+차선 인식(Lane detection),1
+물체 인식(Object detection),1
+수확량 모니터링,1
+감자 부피,1
+영상처리,1
+Enter key words or phrases in alphabetical order,1
+Behavior detection,1
+Convolutional neural network,1
+Web Service,1
+Quantization,1
+Deep Learning Accelerator,1
+Human robot interaction,1
+Object localization,1
+3D SLAM,1
+합성곱신경망,1
+이미지 학습,1
+실시간 검측,1
+적층제조,1
+스마트제조,1
+Traffic Analysis,1
+object tracking,1
+ship awareness,1
+Distance between camera and human,1
+You Only Look Once(YOLO),1
+균열,1
+UAVD,1
+tiny-YOLO,1
+DeepSORT,1
+you only look once (YOLO),1
+tungsten hexafluoride (WF6),1
+reduction,1
+defect detection.,1
+drowsy driving,1
+Colonoscopy,1
+Cartographer,1
+AutoAugment,1
+CADｘ,1
+Polyp Detection,1
+Car Accident Detection,1
+Head Pose Estimation,1
+De ep Learning,1
+big data,1
+Honeybee,1
+Python,1
+TCP/IP,1
+Road reflector mirror,1
+Rest area,1
+Yolo v3,1
+HCI,1
+머신 비전,1
+스마트 팩토리,1
+소형 결함검사,1
+부품 검사,1
+Tensorflow-Lite,1
+Smartphone,1
+Local based position,1
+VPS(Visual Positioning System),1
+DOTA,1
+YOLO V5,1
+Statistics Adaptive Linear Regression,1
+UAV),1
+Position estimation,1
+콘볼루션 신경망,1
+마스크 검출,1
+앙상블,1
+Mask Detection,1
+Ensemble,1
+FPN,1
+Stereo vision,1
+Wild Animals,1
+Depth map,1
+Worker tracking,1
+Stereo camera,1
+Decommissioning site,1
+Deepsort,1
+무인비행체(Unmanned Aerial Vehicle,1
+특징 피라미드,1
+특징 융합,1
+공간 강조,1
+PAN,1
+Feature fusion,1
+Spatial attention,1
+CUDA,1
+Raspberry Pi,1
+보조 보행 기구(auxiliary walker),1
+보행 속도 검출,1
+보행자 판별,1
+보행자작동신호기,1
+Vehicle part detection,1
+Image Data Augmentation,1
+Pattern Recognition,1
+Repellent,1
+Wild Boars,1
+grouping,1
+Moth larvae,1
+business district,1
+deep convolutional neural networks,1
+ROV,1
+fire,1
+rtsp camera,1
+edge computing,1
+attention YOLO model,1
+image segmentation,1
+smart farm,1
+Traffic surveillance data(교통감시데이터),1
+이상행동 감시,1
+one-shot 감지,1
+Abnormal Behavior Monitoring,1
+one-shot-detection,1
+person,1
+motocycle,1
+Underwater Vision,1
+infrared cameras,1
+Black-Ice,1
+Recognition(인식),1
+Object Detection(객체검출),1
+Darknet,1
+DeepLearning(딥러닝),1
+CRNN,1
+Meter Reading,1
+선정적 화면,1
+여성 신체 대상화,1
+객체 동작 감지,1
+MediaPipe,1
+YOLO4,1
+Pose Detection,1
+Body Objectification,1
+convolution neural network,1
+bicycle,1
+bus,1
+car,1
+추적,1
+Deep learning(딥러닝),1
+Vehicle detection(차량 검출),1
+Detection,1
+SMD inspection,1
+PCB inspection,1
+YOLO-V3,1
+Hough Transform,1
+Threshold,1
+Frame Differencing,1
+Tracking,1
+욜로-V3,1
+허프 변환,1
+임계값,1
+차영상,1
+골프 공,1
+detection,1
+Defect detection,1
+IoU,1
+mAP,1
+Identification of Friend or Foe,1
+tank,1
+dataset,1
+YOLO(You Only Look Once) algorithm,1
+피아식별 시스템,1
+전차,1
+데이터셋,1
+YOLO(You Only Look Once) 알고리즘,1
+Smart Farm,1
+Image Segmentation,1
+Attention YOLO Model,1
+optical character recognition,1
+license plate,1
+you only look once,1
+Visually Impaired Person,1
+Optical Music Recognition(OMR),1
+최적 위치 추정,1
+양파,1
+RGB-D 센서,1
+Scalp disease,1
+Haircare,1
+Real-time object detection,1
+두피 질병,1
+두피 관리,1
+Modified YOLO v4,1
+Detection of warships,1
+Optical Character Recognition,1
+You Only Look Once,1
+Expiration Date,1
+광학 문자 인식,1
+심층 신경망,1
+인공지능,1
+유통기한,1
+시각 장애우,1
+Autonomous driving,1
+자율주행,1
+Text-to-Speech,1
+Android,1
+Intersection over Union(IoU),1
+음성 합성 시스템,1
+안드로이드,1
+공통 영역,1
+시각 장애인,1
+YOLO model comparison.,1
+Moth larvae control,1
+항공영상,1
+객체 탐지,1
+드론인식(Drone recognition),1
+vision processing,1
+다크넷(Darknet),1
+욜로(Yolo-mark),1
+Ai,1
+bin picking,1
+robotic grasping,1
+Monitoring system,1
+RDS,1
+EC2,1
+STT,1
+TTS,1
+QR code,1
+COVID,1
+smart factory,1
+image processing,1
+yolo,1
+다중 스케일,1
+Industrial safety,1
+Forklift,1
+Distance estimation,1
+recycling mark,1
+drone image,1
+Embedded device,1
+PCA,1
+Small object detection,1
+Mean average precision,1
+Convolutional neurual network,1
+평균 정밀도,1
+합성곱 신경망,1
+영상인식,1
+Pruning 기법,1
+Convolutional neural network(합성곱신경망),1
+YOLO(You Only Look Once,1
+Pedestrian-Detection,1
+Unmanned Vehicle,1
+Style transformation,1
+DeblurGANv2,1
+YOLO-V5,1
+Faster R-CNN,1
+Machine Learning,1
+Support Vector Machine,1
+RaspberryPi,1
+욜로),1
+Congestion Algorithm,1
+Robot Operating System(로봇 운영 체제),1
+Indoor Self-driving(실내 자율 주행),1
+Automated Guided Vehicle(무인 운반차),1
+LiDAR Sensor(라이다 센서),1
+Inertial Measurement Unit(관성 측정 센서),1
+Data augmentation,1
+Synthetic license plate,1
+ROS,1
+Senior Monitoring Robot,1
+Fall Detection,1
+Water supply system,1
+Microalgae,1
+Video,1
+Object Tracking,1
+Character Recognition,1
+Vehicle License Plate,1
+following robot,1
+AR,1
+SSD,1
+Android phone,1
+Raspberry pi,1
+Cloud platform,1
+AI,1
+Federated Learning,1
+Recommendation System,1
+image crop,1
+빅데이터,1
+상권,1
+보행자 검출,1
+증강현실,1
+determine,1
+abnormal toothbrush cap,1
+Yolo V3,1
+RCNN,1
+Image Process,1
+Height Detection,1
+6-DoF Object Pose Estimation,1
+Monocular 3D Object Detection,1
+Construction Site Image,1
+건설현장 영상,1
+image roi,1
+Object Recognition,1
+API Gateway,1
+bject detection,1
+multi-view videos,1
+Moth larva detection,1
+다중화면 영상,1
+Two-step detection.,1
+Single-step detection,1
+Image-based AI,1
+Autonomous vehicle,1
+두 단계 검출,1
+단일 단계 검출,1
+영상 기반 인공지능,1
+자율주행 차량,1
+AI industry ecosystem in GwangJu Metro-city,1
+Smoke spread distance prediction,1
+Smoke detection,1
+연기 확산거리 예측,1
+Self-Driving Cars(자율주행자동차),1
+딥러닝(Deep learning),1
+미세조류,1
+MZ Generation,1
+Implicit Theory,1
+Present-Biased Consumption,1
+Recession,1
+MZ 세대,1
+암묵적 이론,1
+현재 편향 소비,1
+경기 불황,1
+Proportional Expression(비례식),1
+Depth Estimation(거리 추정),1
+YOLO V3 Network(욜로 V3 네트워크),1
+Monocular camera(단안카메라),1
+척도개발,1
+Machine Vision,1
+키에르케고르,1
+자아성찰,1
+실존적 진정성,1
+욜로(YOLO),1
+Scale development,1
+Kierkegaard,1
+Introspection,1
+Existential authenticity,1
+YOLOs,1
+Training Data,1
+Finger Direction Recognition,1
+Centroid tracking,1
+LP detection,1
+Helmet detection,1
+tiny 모델,1
+Visual Servoing,1
+연기검출,1
+Bound Box,1
+Self-Control,1
+Impulsivity,1
+Time Perspective,1
+Present-Oriented,1
+자기통제,1
+충동성,1
+시간관,1
+현재-지향적,1
+AOI,1
+PCB Inspection,1
+Deep Learning(심층 학습),1
+Thermal Image(열화상),1
+Object Detection(객체 인식),1
+R-CNN,1
+Region Of Interest,1
+Transformation Matrix,1
+YOLOV2,1
+Egoistic Value Consumption,1
+Cognitive  Impulse Buying,1
+Affective Impulse Buying,1
+Consumption Happiness,1
+개인주의적 가치소비,1
+인지적 충동구매,1
+감정적 충동구매,1
+소비행복,1
+공간분석,1
+건물탐지,1
+Spatial Analysis,1
+Building Object Detection,1
+machine learning,1
+separated by commas,1
