@@ -1,0 +1,479 @@
+keyword,count
+RNN,30
+LSTM,21
+딥러닝,13
+Deep Learning,11
+CNN,9
+순환신경망,7
+deep learning,6
+인공지능,6
+기계학습,6
+Machine Learning,6
+Deep learning,5
+Machine learning,5
+GRU,4
+인공신경망,3
+Artificial neural network,3
+Recurrent Neural Network,3
+RNN(순환신경망),3
+Recurrent neural network,3
+deep neural network,2
+Long short-term memory,2
+Prediction model,2
+Prediction,2
+IoT,2
+NLP,2
+Natural language processing,2
+recurrent neural network,2
+예측 모델,2
+AI(인공지능),2
+감정분석,2
+시계열 분석,2
+머신러닝,2
+Emotion recognition,2
+전자기유도,2
+자기임피던스센서,2
+Kalman filter,2
+Electromagnetic Induction,2
+AI,2
+Recurrent Neural Network (RNN),2
+artificial intelligence,2
+BERT,2
+자연어 처리,2
+Artificial Intelligence,2
+Attention Mechanism,2
+전용회선,1
+Python Script,1
+Word embedding,1
+Optimizer,1
+Leased Line,1
+시계열분석,1
+Sentimental analysis,1
+Time Series Analysis,1
+Trajectory model(경로모델),1
+Traffic Modeling,1
+LSTM(Long-short term memory),1
+Trajectory prediction(경로예측),1
+트래픽 모델링,1
+Incident(돌발상황),1
+Word representation vectors,1
+Recurrent Neural network(RNN) Language model,1
+비모수 추청,1
+미술품 가격,1
+Big data(빅데이터),1
+심층신경망),1
+Deep Neural Network(DNN,1
+Deep learning(딥러닝),1
+Convex hull(볼록포),1
+Geo-fence(지오펜스),1
+Path prediction(경로예측),1
+CDA(자율협력주행),1
+ITS(지능형교통체계),1
+Autonomous vehicle(자율주행차량),1
+Transfer Learning,1
+RNN),1
+순환 신경망(Recurrent Neural Network,1
+CNN),1
+합성곱 신경망(Convolutional neural network,1
+시계열(Time series),1
+재생에너지(Renewable energy),1
+Smart Grid,1
+Non-intrusive Load Monitoring (NILM),1
+Long-short Term Memory (LSTM),1
+Vocabulary Dataset,1
+Non-autonomous vehicle(일반차량),1
+Gated recurrent units,1
+Streamflow Prediction,1
+Convolutional Neural Network (CNN),1
+Gesture recognition,1
+3D-CNN,1
+PR연구,1
+ANN,1
+Weather forecast,1
+leak detection,1
+acoustic leak signal,1
+누수탐사,1
+누수음,1
+수질오염,1
+시계열 데이터,1
+정수처리,1
+탁도 예측,1
+순환신경망(RNN),1
+CMIP5,1
+하천유량,1
+AI 알고리즘(AI algorithm),1
+텐서플로(Tensorflow),1
+컴퓨터 프로그램(Computer program),1
+냉동기 에너지 절감(Refrigerator energy saving),1
+Particle filter,1
+Object tracking,1
+Long-short term memory,1
+recursive neural network.,1
+parameter identification,1
+2D-Cross correlation,1
+Abnormal Detection,1
+Time Series Data,1
+WSN,1
+Climate Change,1
+annals of the Joseon dynasty,1
+leadership,1
+classification,1
+조선왕조실록,1
+리더십,1
+분류,1
+Art Price,1
+Fault diagnosis,1
+Blade pitch system,1
+Floating wind turbine,1
+Data recovery,1
+ICS,1
+Ensemble,1
+Abnormal value detection,1
+Sea level observation,1
+wind engineering,1
+nonlinear structure,1
+dynamic response,1
+Horizontal Pod Auto-Scaling (HPA),1
+Auto-scaling,1
+Container,1
+Micro-services,1
+HAI Dataset,1
+다변수 장단기 기억 순환신경망,1
+학술문헌,1
+Non-parametric Prediction,1
+인공지능 알고리즘,1
+AI 예측,1
+농산물 가격,1
+AI algorithm,1
+e-Commerce,1
+AI prediction,1
+Agricultural product price,1
+DC–DC boost converter,1
+Machine learning (ML),1
+Partial shading conditions (PSC),1
+Maximum power point tracking (MPPT),1
+Deep Q-network,1
+Mid-story isolation system,1
+Semi-active control,1
+Reinforcement learning,1
+Supervised learning,1
+solar power forecasting,1
+power prediction,1
+Mode mixing,1
+Power Quality,1
+Hilbert–Huang Transform,1
+Disturbances classifi cation,1
+Recurrent neural networks,1
+Long short term memory,1
+네트워크 기반 침입 탐지 시스템,1
+호스트 기반 침입 탐지 시스템,1
+전자거래,1
+Machine Learning(머신러닝),1
+Multivariate LSTM RNN,1
+Big Data(빅데이터),1
+graph-based mechanism,1
+sentiment analysis,1
+natural language processing,1
+그래프 기반 메커니즘,1
+Feed forward neural network,1
+MQTT,1
+Continuous glucose monitoring(CGM),1
+Real-time,1
+Diabetes,1
+Feature Reduction,1
+Feature Extraction,1
+Activity Classification,1
+Accelerometer,1
+Smartwatch,1
+Human Activity Recognition,1
+Activities of Daily Living,1
+Objective and Subjective Evaluation,1
+Autoencoder,1
+Variational Autoencoder,1
+Laughter Synthesis,1
+GPS(위성항법시스템),1
+온실가스),1
+CO₂(이산화탄소,1
+Fuel Consumption(연료소비율),1
+OBD-Ⅱ(온보드진단기),1
+LID-DS,1
+NIDS,1
+HIDS,1
+wordpiece model,1
+스팩토그램,1
+스마트 그리드 시스템,1
+비침입 부하 모니터링(NILM),1
+에너지 분해,1
+Particulate matter,1
+Deep neural network,1
+Neural network,1
+Hyper-parameter Optimization,1
+Genetic Algorithm,1
+Energy Consumption Prediction,1
+Text classification,1
+Database,1
+Scientific literature,1
+Human health risk of electromagnetic fields,1
+텍스트분류,1
+데이터베이스,1
+electric vehicles (EVs),1
+전자파 인체 유해성,1
+Light color control,1
+Music recommendation,1
+Recipe recommendation,1
+Gender recognition,1
+Parallel convolutional neural network.,1
+Self-Attention,1
+Affective Computing,1
+Energy disaggregation,1
+NILM(Non-Intrusive Load Monitoring),1
+Smart Grid System,1
+머신러닝 모델,1
+language model fusion,1
+end-to-end ASR,1
+워드피스 모델,1
+언어모델 퓨전 디코딩,1
+종단형 음성인식,1
+Attitude estimation,1
+Inertial measurement unit,1
+Machine Learning Model,1
+Energy Management System,1
+Energy consumption prediction,1
+Energy Moniotring,1
+에너지 관리 시스템,1
+Spectogram,1
+에너지 사용량 예측,1
+에너지 모니터링,1
+time series,1
+attention,1
+correlation,1
+Simulation,1
+Computer Animation,1
+Motion Generation,1
+시뮬레이션,1
+컴퓨터 애니메이션,1
+동작 생성,1
+interior permanent magnet synchronous motors (IPMSMs),1
+financial time series,1
+Current optimization,1
+Marginal Company Prediction,1
+Recurrent Neural Networks,1
+Frequency based Text Analysis,1
+Cryptocurrency,1
+암호화폐,1
+순환 신경망,1
+빈도 기반 텍스트 분석,1
+분리 학습,1
+데이터 예측,1
+미세먼지,1
+Data prediction,1
+Fine dust,1
+Ensemble Model,1
+Time series analysis,1
+Corporate Insolvency,1
+한계기업 예측,1
+앙상블 모형,1
+딥러닝 기법,1
+기업 부실화,1
+태양광 발전량 예측,1
+장단기 메모리,1
+랜덤포레스트,1
+게이트 순환 유닛,1
+Random Forest,1
+Photovoltaic Power Forecasting,1
+Separate Learning,1
+비디오 분류,1
+Gated Recurrent Unit,1
+Gramian Angular Field,1
+암반공학,1
+Algorithm,1
+Artificial neural networks,1
+Artificial intelligence,1
+Rock engineering,1
+State of health,1
+Lithium-ion battery,1
+수명 상태,1
+장단기 기억 신경망,1
+리튬이온 배터리,1
+Markov Transition Field,1
+Recurrence Plot,1
+비디오 행동 인식,1
+· Composite laminates · Viscoelasticity · Laplace transform · Smooth finite element method · Neural networks · Hygrothermal effects,1
+long short-term memory,1
+attention mechanism,1
+bidirectional recurrent neural network,1
+bridge weigh-in-motion,1
+장단기 기억,1
+자동 채점,1
+1D convolutional neural network,1
+video action recognition,1
+video classification,1
+1차원 CNN,1
+Long Short-Term Memory,1
+vibration,1
+natural language,1
+예측,1
+대화 데이터,1
+감정 분석,1
+LSTM RNN,1
+linearization,1
+phosphorescence,1
+photorheological fluid,1
+smart fluid,1
+· Recurrent neural network · Deep learning · Model predictive control · Renewable energy · PV power generation,1
+Temperature,1
+Forecasting,1
+기온,1
+딥 러닝,1
+emotion recognition,1
+· Dimension reduction · Miv-tSNE-RNN · Rapid prediction · SCADA · Wind turbine blade icing,1
+Prediction of internal environments,1
+Environmental monitoring,1
+Duck house,1
+토양 함수율,1
+생육환경 예측,1
+Multi Sensor,1
+MI Sensor,1
+다중센서,1
+예측모델,1
+지중온도,1
+문맥 정보,1
+dialogue data,1
+motor,1
+Unstructured Data,1
+drone,1
+진동,1
+모터,1
+드론,1
+정적시험,1
+소프트웨어 신뢰성시험,1
+무기체계 소프트웨어,1
+전력부하 예측(Electric Power Load Forecasting),1
+DP 선박(Dynamic Positioning Ship),1
+심층 신경망(Deep Neural Network),1
+Text Classification,1
+Construction Safety,1
+self-dependency,1
+텍스트 분류,1
+비정형 데이터,1
+건설 안전,1
+CRF-RNN,1
+MVCNN,1
+IFC,1
+BIM,1
+시멘틱 세그멘테이션,1
+시멘틱 무결성,1
+context information,1
+inter-speaker dependency,1
+터널,1
+Autonomous vehicles,1
+Hidden Markov Model,1
+Retention Vector,1
+Pilot and copilot,1
+CNN_Raw-RNN,1
+Trajectory learning,1
+Autonomous driving,1
+PoseNet,1
+Fall Detection,1
+Skeleton Keypoints,1
+Pose Estimation,1
+LSTM(장단기 기억),1
+Indoor Air Quality(실내공기질),1
+Robustness,1
+Memory Deallocation,1
+Visual Recognition,1
+LM,1
+Language Model,1
+DNC,1
+Differentiable Neural Computer,1
+BiGRU,1
+BiLSTM,1
+Word2Vec,1
+스트립 바이너리,1
+역어셈블 엔지니어링,1
+함수정보,1
+양방향 순환신경망,1
+Machine Vision,1
+Video Captioning,1
+Tacotron2,1
+기상인자,1
+categorization,1
+contents,1
+자연어,1
+카테고리,1
+콘텐츠,1
+in vitro,1
+Peroxisome Proliferator-Activated Receptors,1
+COVID-19,1
+시험관내 실험,1
+Peroxisome Proliferator- Activated Receptors,1
+코로나바이러스감염증-19,1
+AdaBoost-GRU ensemble,1
+3D CNN,1
+금융시계열,1
+AdaBoost-GRU 앙상블,1
+Heatwave Occurrence Probability,1
+폭염 발생확률,1
+Secondary accidents,1
+Traffic accident,1
+Object Tracking,1
+Creativity,1
+” 1 the Road,1
+“The Art of Fiction,1
+Henry James,1
+Stripped Binary,1
+Reverse Engineering,1
+N-byte,1
+Prediabetic state,1
+합성곱신경망,1
+선박 연료유 가격 예측,1
+Bunker price forecasting,1
+RNN · Robotic couch · Motion compensation,1
+Real-Time,1
+Vehicle Driving Simulator,1
+State of Charge,1
+Lithium-ion Battery,1
+reinforcement learning,1
+mobile deep learning,1
+deep learning ASIC,1
+Mass screening,1
+Function information,1
+type 2,1
+Diabetes mellitus,1
+False positive rate,1
+True positive rate,1
+Detection accuracy,1
+Convolution neural network,1
+Intrusion detection,1
+Wireless network,1
+Text to Speech,1
+Speech to Text,1
+Speech recognition,1
+MI sensor,1
+Data-driven sensor · Self-sensing · Active magnetic bearing · RNN,1
+창의성 영역일반성,1
+영역특수성,1
+Bidrectional RNN,1
+Text Recognition,1
+CRNN,1
+LPRNet,1
+OCR,1
+Deep Neural Networks,1
+인과적 합성곱(Causal convolution) 나사 베어링 데이터셋(Bearing dataset of NASA),1
+팽창 합성곱(Dilated convolution),1
+시간 합성곱 신경망(Temporal convolutional networks),1
+시계열 예측(Timeseries prediction),1
+성능 저하 예측(Performance degradation prediction),1
+구름 베어링(Rolling bearing),1
+speed prediction,1
+SVM,1
+포그 시스템,1
+클라우드 시스템,1
+Support vector marchine,1
+Fog system,1
+Cloud system,1
+MongoDB,1
+JSON,1
+domain specificity,1
+creativity domain generality,1
+neural network,1

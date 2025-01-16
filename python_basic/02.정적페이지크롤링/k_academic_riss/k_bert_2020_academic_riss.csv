@@ -1,0 +1,199 @@
+keyword,count
+BERT,32
+딥러닝,6
+자연어처리,6
+deep learning,4
+NLP,4
+natural language processing,3
+트랜스포머,3
+MASS,2
+Melancholia,2
+coreference resolution,2
+상호참조해결,2
+Deep learning,2
+Blackface,2
+Caryl Phillips,2
+Plantation Minstrelsy,2
+Transformer,2
+In Dahomey,2
+언어모델,2
+fine-tuning,2
+language model,2
+NMT,2
+자연어 처리,2
+감성분석(sentimental analysis),1
+소셜미디어(social media),1
+놀이(play),1
+상대 위치 표현,1
+기계 번역,1
+의미연결망 분석(semantic network analysis),1
+contextual information extraction,1
+KoBERT,1
+ELMo,1
+relative position representation,1
+CNN,1
+감성 분석,1
+이커머스,1
+워드 임베딩,1
+센텐스 임베딩,1
+전이학습,1
+동향 분석,1
+LSTM,1
+Q&A System,1
+machine translation,1
+Safety Standard,1
+텍스트 분류,1
+악성댓글,1
+댓글분류,1
+GCN,1
+GAT,1
+Text classification,1
+pre-trained language model,1
+attention,1
+self-supervised learning,1
+Deep Neural network,1
+Denoising Autoencoder,1
+Unsupervised Learning,1
+Transfer learning,1
+Machine Translation,1
+정보통신기술,1
+Machine Reading Comprehension,1
+KorQuAd,1
+네트워크 분석,1
+transformer,1
+trend analysis,1
+network analysis,1
+neurolinguistics,1
+neuroimaging data,1
+EEG,1
+fMRI,1
+natural language representations,1
+word embeddings,1
+distributional semantics models,1
+word2vec,1
+GloVe,1
+brain-aware embeddings,1
+data preprocessing,1
+transformation,1
+sentiment analysis,1
+Natural Language Processing,1
+Pre-trained Model,1
+사전훈련 된 모델,1
+RNN,1
+순환신경망,1
+Attention,1
+Skeletal muscle fibers,1
+Paraspinal muscles,1
+BiLSTM-CRF,1
+Essay generation,1
+information and communication technology,1
+신경망기계번역,1
+비정상적 변동성,1
+neural machine translation,1
+translation quality,1
+Pre-Trained Language Model,1
+unreasonable volatility,1
+Natural language generation,1
+Pretraining-based method,1
+word embedding,1
+Self-attention network,1
+sentiment classification,1
+Explainable AI,1
+Explainer,1
+IG,1
+LIME,1
+SHAP,1
+Entity name recognition,1
+그래프,1
+scientific articles,1
+Text Analytics,1
+semantic role labeling,1
+bidirectional encoder representations from transformers,1
+문서분류,1
+단어 임베딩,1
+Document Classification,1
+Deep Learning,1
+Natural Language,1
+Sentiment Analysis,1
+Stock Prediction,1
+Macro Economy Index,1
+감성분석,1
+주가예측,1
+거시경제지표,1
+Language Model,1
+Masked Language Model,1
+Question Answering,1
+Fine-Tuning,1
+random masked OOV,1
+morpheme-to-sentence converter,1
+text summarization,1
+machine learning,1
+Bidirectional Encoder Representations from Transformers,1
+deep-learning,1
+언어 모델,1
+relation extraction,1
+sentiment extraction,1
+knowledge graph,1
+문맥 정보 추출,1
+인물 추출,1
+관계 추출,1
+감정 추출,1
+지식 그래프,1
+sequence-to-sequence,1
+Korean morphological analyzer,1
+attention mechanism,1
+copying mechanism,1
+시퀀스-투-시퀀스,1
+한국어 형태소 분석기,1
+주의 메커니즘,1
+복사 메커니즘,1
+딥 러닝,1
+의미역 결정,1
+기계학습,1
+recognition of unknown word,1
+generative summarization,1
+Knowledge Graph,1
+embedding model,1
+vocabulary,1
+tokenizer,1
+속성기반 감성분석,1
+ABSA,1
+속성카테고리 감성분류,1
+Aspect-Based Sentiment Analysis,1
+Aspect Category Sentiment Classification,1
+Legal Tech,1
+Contract Analysis,1
+Sentence Classification,1
+추천시스템,1
+다기준 추천시스템,1
+keyphrase extraction,1
+embedding,1
+person extraction,1
+자연언어처리,1
+자연재해예방,1
+피해산정,1
+Deep-Learning,1
+Korean language modeling,1
+language modeling,1
+OOV 랜덤 마스킹,1
+토크나이저,1
+형태소-문장 변환기,1
+문서요약,1
+미등록 단어 인식,1
+생성요약,1
+Natural language processing,1
+Named entity recognition,1
+Reinforcement learning,1
+DQN,1
+Language model,1
+개체명 인식,1
+강화학습,1
+개방형 정보 추출,1
+Sequence Labeling,1
+open information extraction,1
+sequence labeling,1
+언어 모델링,1
+임베딩 모델,1
+한국어 모델,1
+사전,1
+어텐션,1

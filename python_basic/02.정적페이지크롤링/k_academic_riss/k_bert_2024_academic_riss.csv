@@ -1,0 +1,698 @@
+keyword,count
+BERT,49
+ChatGPT,8
+GPT,7
+딥러닝,7
+Machine Learning,7
+Deep Learning,7
+Transformer,7
+deep learning,6
+LSTM,6
+Classification,5
+머신러닝,5
+KoBERT,5
+CNN,5
+인공지능,5
+NLP,4
+Generative AI,4
+자연어처리,4
+TF-IDF,4
+Sentence-BERT,4
+Artificial Intelligence,4
+Attention Mechanism,3
+BERT Model,3
+Sentiment Analysis,3
+토픽 모델링,3
+Artificial intelligence,3
+language model,3
+Large Language Model,3
+Deep learning,3
+Text Mining,3
+Topic Modeling,3
+.,2
+GAN,2
+전이 학습,2
+TensorFlow-BERT,2
+surprisal,2
+멀티태스크 학습,2
+fine-tuning,2
+감성 분석,2
+Irony Detection,2
+Transfer Learning,2
+Dynamic Capabilities,2
+색채분석,2
+MultiTask Learning,2
+sentiment analysis,2
+Topic modeling,2
+Sentimental Analysis,2
+Speech-to-Text,2
+Knowledge Base,2
+subject control,2
+AI Compliance,2
+반어 탐지,2
+object control,2
+Named entity recognition,2
+BERTopic,2
+Color Analysis,2
+자연어 처리,2
+Patent Analysis,2
+Cosine Similarity. Social Network Analysis,2
+멀티모달,2
+ESG Report,2
+토픽모델링,2
+Llama,2
+LLM,2
+Automatic Classification,2
+텍스트 마이닝,2
+Clustering,2
+112,2
+Natural Language Processing,2
+감성분석,2
+트랜스포머,2
+텍스트마이닝,2
+Keybert,2
+transformer,2
+Bertopic,2
+BART,2
+VAR,2
+ResNet,2
+Sentence BERT,2
+BERT-CNN,2
+자동분류,2
+Tehchnology-Push Planning,1
+ESSENCE-type adverbial constructions,1
+kitsune no yomiire,1
+척도 값 역전 현상,1
+Liminal space,1
+holim,1
+semantic expansion,1
+말뭉치 방법론,1
+Publication Database,1
+Defense Science Technology Prediction,1
+담화 기능,1
+의미 확장,1
+[본질]류 부사 구문,1
+S&T R&D Monitoring,1
+Regional Name Classification,1
+corpus methodology,1
+Defense Big-Data Analysis,1
+Multi-class Classification,1
+Defense Core Technology Forecasting,1
+Future Emerging Technology Analysis,1
+False Alarm,1
+Binary Classification,1
+허위신고,1
+discourse function,1
+the fox is getting married,1
+scalar reversal phenomenon,1
+선샤워,1
+sunrain,1
+sunshower,1
+기쓰네노 요메이리,1
+리미럴스페이스,1
+홀리다,1
+foxs wedding day,1
+tigerrain,1
+the tiger is getting married,1
+tigers wedding day,1
+홀림,1
+양가성,1
+기능,1
+new new media,1
+공포,1
+여우불,1
+idiom,1
+관용어,1
+뉴뉴미디어,1
+호랑이 장가가는 날,1
+foxfire,1
+fear,1
+호랑이 장가간다,1
+호랑이비,1
+여우 시집가는 날,1
+foxrain,1
+function,1
+여우비,1
+태양비,1
+ambivalence,1
+여우가 시집간다,1
+문장 분류,1
+AI Dataset,1
+자동 분류,1
+민원,1
+Earnings Call Transcript,1
+ESG,1
+Machine learning,1
+Natural language processing (NLP),1
+News Article Classification,1
+Hierarchical Classification Model,1
+Multi-Class Classification Model,1
+Multidimensional classification,1
+BERT 모델,1
+뉴스 기사 분류,1
+계층적 분류 모델,1
+다중 클래스 분류 모델,1
+다차원 분류,1
+preprocessing,1
+소규모 비격식 텍스트,1
+Civil Complaint Data,1
+natural language processing,1
+Ko-BERT,1
+비정보기반투자자,1
+감성지수,1
+선도-지연,1
+Jensen’s Alpha,1
+비속어 분류,1
+koBERT,1
+LMM,1
+분류 시스템,1
+CoT,1
+Chain of Thought,1
+Classification System,1
+Korean BERT,1
+Large Multimodal Model,1
+Profanity Classification,1
+Small-Scale Informal Text,1
+DistillBERT,1
+CIC-MalMem-2022,1
+과학기술 R&D 모니터링,1
+자동화,1
+스킬,1
+jobs,1
+이진분류,1
+dynamic topic analysis,1
+automation,1
+tasks,1
+skills,1
+감성분류,1
+Sentiment Classification,1
+관광 추천시스템,1
+Tourism Recommendation System,1
+AI 데이터셋,1
+다중 클래스 분류,1
+학술논문 데이터베이스,1
+지역명 분류,1
+업무,1
+동적토픽분석,1
+생성형 AI,1
+연관규칙분석,1
+ESG Keywords-Library,1
+ESG 보고서,1
+ESG 키워드 사전,1
+동적역량,1
+텐서플로우-버트,1
+코사인 유사도,1
+소셜네트워크분석,1
+자동 음성 인식,1
+한국어 음성 처리,1
+automatic speech recognition,1
+korean speech processing,1
+ESG Keywords-Diary,1
+honorific mismatches,1
+dependency formation,1
+일자리,1
+association rules analysis,1
+Multi-labeling,1
+생성모델,1
+Natural language understanding,1
+인공지능 윤리,1
+데이터 프라이버시 및 소유권,1
+인공지능에서의 인간 감독,1
+윤리에 대한 성경적 관점,1
+Neural Machine Translation (NMT),1
+AI Ethics,1
+Data Privacy and Ownership,1
+Human Oversight in AI,1
+Biblical Perspectives on Ethics,1
+Low-resource language,1
+Morphological structure,1
+Optimization,1
+Tamil,1
+Tokenizer,1
+Tokenization Stability Index,1
+Generative artificial intelligence,1
+Large language model,1
+신경망 기계번역(NMT),1
+Unstructured data,1
+스테이블 디퓨전,1
+Big data analytics,1
+크루얼티 프리 패션,1
+브랜드 이미지,1
+브랜드 커뮤니케이션,1
+윤리적 패션,1
+cruelty-free fashion,1
+brand image,1
+brand communication,1
+ethical fashion,1
+Speech Recognition,1
+Multimodal,1
+Emotion Classification,1
+음성 인식,1
+감정 분류,1
+Prompt Engineering,1
+Table-to-Text,1
+Report Generation,1
+Work automation,1
+Synthetic data,1
+Medical imaging,1
+large language model,1
+voice phishing detection,1
+evaluation,1
+disaster messages,1
+well-formed expression,1
+언어모델,1
+유연성,1
+평가,1
+재난문자,1
+적형 표현,1
+Measurement,1
+Optical measurement,1
+Touch measurement,1
+Accuracy,1
+Cutting tools,1
+age,1
+dialect,1
+gender,1
+Korean language model,1
+flexibility,1
+University-Industry Cooperation,1
+LINC 3.0,1
+CES-D,1
+prompt design,1
+초거대 언어모델,1
+보이스피싱 탐지,1
+프롬프트 설계,1
+Emotion,1
+BDI-II,1
+PROMIS,1
+depression,1
+Isomorphism,1
+제도주의,1
+워드임베딩,1
+동형화,1
+대학,1
+산학협력,1
+Institutionalism,1
+Word Embedding,1
+PRO,1
+클러스터링,1
+트윗,1
+data augmentation,1
+Food Safety,1
+Bert,1
+Technology Trend,1
+Emotion identifcation · BERT · Sentence embedding · Word embedding · Deep neural networks · Deep learning · Multi-class classifcation · Text classifcation · Natural language processing · Tweets,1
+Kospi Index Prediction,1
+Word2Vec,1
+Doc2Vec,1
+Service Quality,1
+Context Term,1
+AIRQUAL,1
+Risk Detection,1
+Image Captioning,1
+YOLOv8,1
+BLIP,1
+Pointwise Mutual Information,1
+Simpson coefficient,1
+Doc2vec,1
+Sentiment,1
+식품안전,1
+다중라벨링,1
+심리상담,1
+테스트 시간 증강,1
+프롬프트 엔지니어링,1
+generative model,1
+multi modal,1
+Stable Diffusion,1
+test time augmentation,1
+prompt engineering,1
+Psychological Counseling,1
+대형언어모델,1
+Prediction,1
+Stock Market,1
+Injuries,1
+Information Extraction,1
+Clinical Note,1
+Emergency Department,1
+Fine Tuning,1
+Newspaper,1
+Korean text classification,1
+소셜미디어,1
+masked language modeling,1
+백신,1
+코로나19백신,1
+시계열분석,1
+뉴스,1
+뉴스 기사,1
+COVID19,1
+Vaccination,1
+COVID19 Vaccination,1
+Times Series Analysis,1
+News,1
+News Media,1
+Cyber Investigation,1
+Drug,1
+Social Media,1
+Tweet,1
+사이버 수사,1
+마약,1
+코로나19,1
+Template,1
+Automatic,1
+온톨로지 매칭 방법,1
+데이터 증강,1
+한국어 분류,1
+Document management service,1
+Intelligent document platform,1
+Parsing technology,1
+Compilation skills,1
+New document Bert function,1
+이질성 문제,1
+Timesaving,1
+지식 베이스,1
+Ontology Matching Method,1
+Heterogeneity Problem,1
+SCBOW,1
+SimRank,1
+Book Design,1
+Workload,1
+Lead-Lag,1
+엔그램,1
+Uninformed Investor,1
+관광지,1
+reference resolution,1
+picture noun phrase,1
+donkey sentence,1
+quantificational interpretation,1
+Next Sentence Prediction,1
+BERT 기반 시맨틱 검색,1
+카운트 기반 랭킹 알고리즘,1
+BERT-based semantic search,1
+targeted sentiment analysis,1
+count-based ranking algorithm,1
+tourist destination,1
+Credit Prediction,1
+Ensemble Modeling,1
+Tabular Data,1
+광고 분류,1
+웹 크롤링,1
+KPF-BERT,1
+named entity recognition,1
+Advertisement Classification,1
+초등 인공지능 교육,1
+Integrated science Q&A chatbot,1
+고등학교,1
+학교 맞춤형,1
+통합과학 질문-답변 챗봇,1
+Technology Convergence,1
+CPC,1
+Wearables,1
+프로그래밍 환경,1
+clustering,1
+가상-학습,1
+가상-추론,1
+Elementary AI Education,1
+Programming Environment,1
+Pseudo-Training,1
+Pseudo-Inference,1
+news trend visualization,1
+청각적 정보 추출,1
+Auditory Information Extraction,1
+High school,1
+Detection of Generated texts,1
+Domain-Specific Fields,1
+Legal Corpus,1
+가짜 구매후기,1
+거대언어모델 기반 텍스트 생성,1
+생성된 텍스트 탐지,1
+Fake Reviews,1
+LLM-generated Texts,1
+Bioelectroremediation,1
+금융 특화 언어모델,1
+Biocatalyst,1
+Microbial fuel cells,1
+Polycyclic aromatic hydrocarbons (PAHs),1
+Perchlorate,1
+Tetrachloroethylene,1
+중국어 방향보어,1
+의미 추론,1
+Pre-trained Language Model,1
+전이학습,1
+Natural Language Process,1
+Deep learning modelHuman health risks of EMFResearch category classificationPre-trained BERT,1
+Web Crawling,1
+발화 의도,1
+지식베이스,1
+카테고리,1
+CLS,1
+Speech Intent,1
+Categories,1
+Customer Review Analysis,1
+도메인 특화,1
+Modified Evaluation Value,1
+automated essay scoring,1
+deep learning methods,1
+multi-task learning,1
+multi-trait scoring,1
+transformer-based models,1
+사전학습언어모델,1
+School-tailored,1
+딥 러닝,1
+Neural Network,1
+BERT기반 모델,1
+static testing,1
+false alarm classification,1
+BERT-based model,1
+무기체계 소프트웨어,1
+소프트웨어 신뢰성 시험,1
+정적시험,1
+거짓경보 분류,1
+순차적 추천 시스템,1
+weapon system software,1
+재현성,1
+sequential recommender system,1
+artificial intelligence,1
+reproducibility,1
+리뷰 유용성 예측,1
+리뷰 일관성,1
+전자상거래,1
+SW reliability testing,1
+Text Similarity,1
+Review Consistency,1
+Ex-ante Sentiment,1
+Sentence classification,1
+Sentence similarity,1
+애널리스트 보고서,1
+사전어조,1
+BERT어조,1
+텍스트 정보력,1
+Analyst Reports,1
+BERT Sentiment,1
+Publishing Time,1
+Text Informativeness,1
+온라인 뉴스,1
+선정성,1
+게재 시간,1
+텍스트 유사도,1
+Online News,1
+Sensationalism,1
+Review Helpfulness Prediction,1
+E-Commerce,1
+다중 모달 감정 인식,1
+개인화 추천,1
+model learning,1
+pretraining,1
+seismic processing,1
+사전학습,1
+탄성파 자료처리,1
+호텔 추천 시스템,1
+온라인 리뷰,1
+Hotel Recommender System,1
+artificial intelligence model,1
+Online Review,1
+Personalized Recommendation,1
+Research Paper,1
+Ensemble Algorithms,1
+Speech Emotion Recognition,1
+Multimodal Emotion Recognition,1
+음성 감정 인식,1
+BERT model,1
+automatic classification,1
+Encrypted traffic classification,1
+한국어 리뷰 분석,1
+Lightweight,1
+Security,1
+collaborative filtering,1
+embed,1
+recommendation system,1
+하이퍼 파라미터 미세 조정,1
+입력 시퀀스 길이,1
+hyperparameter fine-tuning,1
+Intellectual property consultation,1
+input sequence length,1
+topic modeling,1
+Korean review analysis,1
+특허상담,1
+인공지능모델,1
+버트모델,1
+모델학습,1
+상,1
+上,1
+起来,1
+Online advertorials,1
+Security essential information,1
+Security equipment,1
+기사형 광고,1
+선한 광고,1
+악한 광고,1
+게재 시점,1
+긍정적 반응,1
+Text mining,1
+Conflict of Interest Prevention Act,1
+Vice advertorials,1
+Virtue advertorials,1
+Timing  of posting,1
+Positive response,1
+Data Augmentation,1
+Automated Short Answer Grading System,1
+Translanguaing(트랜스랭귀징),1
+Log data analysis,1
+Legal QA System,1
+Coherence(응집성),1
+음성처리 지적구조,1
+비선형 모델,1
+성능 평가,1
+Recommendation System,1
+Collaborative Filltering,1
+Linear Model,1
+Non-linear Model,1
+Performance Evaluation,1
+네트워크분석,1
+이해충돌방지법,1
+음성인식,1
+음성합성,1
+Speech processing intellectual structure,1
+Network analysis,1
+Speech recognition,1
+Speech synthesis,1
+법령질의응답시스템,1
+Sentiment Analysis(감성 분석),1
+Implicature(함축),1
+下来,1
+Logistics Safety Management,1
+Android,1
+APK,1
+Smali,1
+roBERTa,1
+인과관계 분류,1
+상대적 위치 임베딩,1
+물류 안전 관리,1
+Causal Relationship Classification,1
+collocation analysis,1
+Relative Position Embedding,1
+DeBERTa,1
+KB-BERT,1
+CCSI,1
+GDP economic growth rate,1
+DNN,1
+Fused Features,1
+principal component analysis,1
+English prepositions,1
+TCSE,1
+Expert knowledge,1
+Translation Education(번역 교육),1
+herbal medicine formula,1
+levels of evidence,1
+latural language processing,1
+prediction algorithm,1
+Traditional Chinese medicine syndromes,1
+Holistic syndrome differentiation,1
+한시,1
+the International Corpus Network of Asian Learners of English (ICNALE),1
+분류,1
+군집(clustering),1
+문장 유사도,1
+(n-gram) 버트(BERT),1
+Classical Chinese Poetry,1
+n-gram,1
+Bidirectional Encoder Representations from Transformers (BERT),1
+선형 모델,1
+협업 필터링,1
+추천 시스템,1
+Generated voice detection,1
+E-commerce reviews,1
+Sentiment analysis,1
+MixMatch,1
+Focal loss,1
+Audio codec,1
+Voice Features Extraction,1
+Speech Synthesis,1
+Low Birth Rate,1
+Continuative,1
+Term-Frequency,1
+Attention,1
+FinBERT,1
+금융 감성 분석,1
+post-training,1
+사전 학습 데이터 세트,1
+Financial Sentiment Analysis,1
+Discourse Marker,1
+Beginning,1
+Bayesian Optimization-Hyperband (BOHB),1
+Chinese Directional Complement,1
+下去,1
+방향이동,1
+결과,1
+완성,1
+시작,1
+지속,1
+담화표지,1
+Semantic Inference,1
+Completive,1
+Aspect,1
+shang,1
+qilai,1
+xialai,1
+xiaqu,1
+Directional Movement,1
+Resultative,1
+Post-training,1
+Pre-training Dataset,1
+Semiotic value consumption,1
+Named entity normalization,1
+inter-sentential processing,1
+subject-object asymmetry,1
+네트워크 약리학,1
+한의학,1
+중의학,1
+데이터 통합,1
+생물정보학,1
+Traditional herbal formula,1
+Trigram analysis,1
+text classification,1
+herbal formula,1
+large language models,1
+Rumor Detection,1
+Fake News Detection,1
+Text Classification,1
+Hyperparameter Optimization,1
+felicity,1
+Allosentences,1
+Vector database (DB),1
+Retrieval-augmented generation (RAG),1
+Topic modeling analysis,1
+Similarities analysis,1
+BERT Sentiment analysis,1
+记号价值消耗，三元组分析，主题建模分析，相似度分析，BERT情感分析,1
+기호가치 소비,1
+트라이그램 분석,1
+토픽 모델링 분석,1
+유사도 분석,1
+BERT 감성분석,1
+Korean morphological analysis,1
+natural language understanding,1
+pretrained transformer encoder,1
+reranking,1
+Document classification,1
+Large language model (LLM),1
+social register,1
