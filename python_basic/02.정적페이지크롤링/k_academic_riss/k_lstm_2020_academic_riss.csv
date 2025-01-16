@@ -1,0 +1,1109 @@
+keyword,count
+LSTM,101
+딥러닝,31
+Deep learning,28
+Deep Learning,24
+RNN,17
+deep learning,16
+CNN,13
+Machine learning,11
+Machine Learning,10
+ARIMA,8
+기계학습,7
+Long short-term memory,7
+머신러닝,7
+CNN-LSTM,7
+machine learning,6
+빅데이터,6
+NLP,5
+Neural Network,5
+Long Short-Term Memory,5
+recurrent neural network (RNN),5
+GRU,5
+Gradient Boosting,4
+prediction,4
+Artificial intelligence,4
+자연어처리,4
+Bidirectional LSTM,4
+예측 시스템,3
+순환 신경망,3
+Big Data,3
+장단기 메모리,3
+Convolutional Neural Network,3
+Long Short Term Memory,3
+합성곱 신경망,3
+Random Forest,3
+Time series,3
+Autoencoder,3
+Artificial Intelligence,3
+인공지능,3
+Forecasting,3
+Multi Layer Perceptron,3
+DNN,3
+Prediction,3
+텍스트마이닝,3
+Recurrent Neural Network,3
+오토인코더,3
+RNN-LSTM,3
+GloVe,3
+Keras,3
+감성 분석,3
+MOT,2
+sea surface temperature,2
+Image Processing,2
+RMachine Learning,2
+기계 학습,2
+신경망,2
+수질,2
+NN-LSTM,2
+Water quality,2
+Dam Inflow,2
+CombML,2
+Data denoising,2
+Long Short-term Memory,2
+Multi-Object Tracking,2
+Long short-term algorithm,2
+Low-pass filter,2
+Technical indicator,2
+Stock market index,2
+BLSTM,2
+AutoEncoder,2
+object tracking,2
+예측,2
+vessel path prediction,2
+long-short-term memory (LSTM),2
+traffic accident detection,2
+link prediction,2
+LSTM(Long short-term memory),2
+Artificial Neural Network,2
+Recurrent Neural Networks,2
+forecast,2
+MLP,2
+Flood prediction,2
+deep-learning,2
+K-means Clustering,2
+방위사업,2
+중기 단기 기억,2
+심층학습,2
+LSTM model,2
+Electric Vehicle,2
+MFCC,2
+BERT,2
+딥 러닝,2
+주가,2
+Deep Neural Networks,2
+시계열 예측,2
+승률,2
+short-term,2
+Text Mining,2
+Winning rate,2
+Diagnostic,2
+Feature extraction,2
+인공신경망,2
+링크 예측,2
+Big data,2
+wind power,2
+Prediction model,2
+SNS,2
+LSTM/RNN,2
+deep neural networks,2
+Convolutional LSTM,2
+Attention mechanism,2
+ANN based water flow analysis,2
+long short-term memory (LSTM),2
+Water pipe leak prediction,2
+GEE,2
+자연어 처리,2
+Water usage prediction,2
+time series,2
+I3D,2
+Behavior Recognition,2
+Anomaly detection,2
+3D CNN,2
+순환신경망,2
+Price Prediction,2
+Apartment Sales Price Index,2
+Object Detection,2
+Recurrent neural network,2
+LSTM Network,2
+Dense Layer,2
+Dropout,2
+Object Tracking,2
+IoT,2
+natural language processing,2
+Decision tree,2
+Denoising filter,2
+이동 평균,1
+Swearword Detection,1
+통신 오류,1
+문장의 의미,1
+DC Nanogrid,1
+평균 필터,1
+단어의 의미,1
+MILP,1
+Meaning of Word,1
+비속어 판별,1
+Prophet model,1
+Renewable Energy Forecasting,1
+신호인식,1
+long-term prediction,1
+토픽 모델링,1
+seizure,1
+National Petition,1
+Topic Analysis,1
+Topic Modeling,1
+국민청원,1
+주제 분석,1
+dynamic hand gesture,1
+K-means 클러스터링,1
+forecasting garlic price,1
+마늘 가격 예측,1
+장기 예측,1
+Prophet 모형,1
+HSFE network,1
+Meaning of Sentences,1
+extended Kalman filter,1
+이상치 및 결측치,1
+SARIMA,1
+Mean Filer,1
+FastText,1
+Seismic Risk Assessment,1
+1차원 합성곱 신경망,1
+오버 샘플링,1
+NO<sub>x</ sub>,1
+KOSPI200 index,1
+건물 피해,1
+학습데이터,1
+지진 피해평가,1
+skip-gram,1
+Abnomaly detection,1
+Deep-learning,1
+농업용 저수지,1
+chatbot,1
+품질 관리,1
+저수지 수위,1
+· AlexNet · Bidirectional LSTM layer · Deep learning · Faulty gear · Gearbox · Improved grasshopper optimization algorithm (IGOA),1
+Long Short-Term Memory models,1
+이상 행동 감지,1
+생체신호,1
+유출량,1
+지진 시뮬레이션,1
+term frequency-inverse document frequency,1
+피크 전력,1
+TF-IDF,1
+Outlier & Missing Value,1
+Moving Average,1
+Fault Detection,1
+Gas Pressure Regulator,1
+Communication Errors,1
+장·단기 기억 모형,1
+1D Convolutional Neural Networks,1
+Over-Sampling,1
+hand detection,1
+이상 상태 진단,1
+Peak Power,1
+정압기,1
+Seismic Simulation,1
+hand gesture recognition,1
+그레이디언트 부스팅,1
+Building Damage,1
+농업용수,1
+Optimal Scheduling,1
+Data Collection,1
+long-short term memory,1
+도시 홍수 분석,1
+preictal,1
+Electromyography,1
+Classification,1
+Solar energy,1
+Photovoltaic power,1
+Long-term forecasting,1
+텍스트 분류,1
+섀플리,1
+SHAP,1
+원인,1
+설명,1
+text classification,1
+Shapley,1
+stock price,1
+cause,1
+explanation,1
+Speaker verification,1
+Speaker embedding,1
+Far-field and noisy environments,1
+화자 검증,1
+화자 임베딩,1
+주의 집중 기법,1
+원거리 잡음 환경,1
+아파트매매가격지수,1
+표준 장단기 메모리,1
+양방향 장단기 메모리,1
+게이트 순환 유닛,1
+벡터오차회귀모형,1
+VECM(Vector Error Correction),1
+Pattern Recognition,1
+진료 건수 예측,1
+GRU(Gated Recurrent Unit),1
+천식,1
+Inverter,1
+Raspberrypi,1
+Monitoring system,1
+Autonomous vehicles,1
+driving directions,1
+road side units,1
+road information,1
+Natural Language,1
+Sentiment Analysis,1
+Stock Prediction,1
+Macro Economy Index,1
+감성분석,1
+주가예측,1
+거시경제지표,1
+도로 속도 예측,1
+교통 혼잡도,1
+교통 돌발 상황 분석,1
+교통 예측,1
+교통 데이터 분석,1
+Road Speed Prediction,1
+Traffic Congestion,1
+Traffic Incident Analysis,1
+Traffic Prediction,1
+Traffic Data Analysis,1
+뉴스기사,1
+미세먼지,1
+폐렴,1
+LSTM(Long Short-Term Meomory),1
+Ionospheric model,1
+interictal,1
+Water Quality,1
+Water Management,1
+생존분석,1
+Database,1
+Survival Analysis,1
+KoBERT,1
+ELMo,1
+이커머스,1
+워드 임베딩,1
+센텐스 임베딩,1
+전이학습,1
+Modified MFCC,1
+변형 MFCC,1
+1d-CNN,1
+C-LSTM,1
+Cross-validation,1
+Sequential data.,1
+Fast-Changing,1
+Mixed-Modulation,1
+MR,1
+KSIC,1
+Autocode,1
+Exchange rate,1
+comparison,1
+Channel estimation and tracking,1
+mmWave.,1
+EEG,1
+Epilepsy EEG,1
+Algal Bloom,1
+조류,1
+검도경기,1
+recurrent neural network,1
+예측모델,1
+Sequence,1
+Kendo,1
+Deep Stacking Network Architecture,1
+Short-Term Power Load Forecasting,1
+Vessel,1
+건물에너지,1
+Building Energy,1
+Long-Short Term Memory,1
+알루미늄 전해 커패시터,1
+고장예지,1
+고장모드 및 영향 분석,1
+고장모드,1
+Aluminum Electrolytic Capacitor,1
+Failure Prognostics,1
+Failure Mode and Effect Analysis,1
+Failure Mode,1
+VECM,1
+EMD · IDBSCAN · Load forecasting · LSTM,1
+Reinforcement Learning,1
+fog computing,1
+Long Short-Term Memory (LSTM ),1
+Neural Network Algorithm,1
+댐 유입량,1
+CO2 enrichment,1
+mango tree,1
+photosynthesis,1
+데이터베이스,1
+long short-term memory neural network,1
+Internet of things,1
+Dynamic recommendation,1
+주택가격,1
+예측력,1
+Time Series Analysis Model,1
+Non-linear,1
+Housing Price,1
+object detection,1
+GRU(Gate Recurrent Unit),1
+DNN(Deep Neural Network),1
+LSTM(Long Short term Memory),1
+쌍극 음원(Dipole),1
+능동 소음 제어 (Active Noise Control),1
+Long Short Term Memory(LSTM),1
+Heat treatment,1
+FA,1
+Static recommendation,1
+시계열분석모형,1
+Elasticsearch,1
+Recommendation architecture,1
+Accuracy,1
+Wireless sensor networks,1
+clustering,1
+solar radiation prediction,1
+routing protocols,1
+energy balance,1
+우울증,1
+sentimental analysis,1
+depression,1
+Deep Knowledge Tracing(DKT),1
+eXplanableAI(XAI),1
+학습자 진단,1
+비선형,1
+Convolutional Neural Network(CNN),1
+구조물 건전성 모니터링,1
+예측(Prediction),1
+THUCNews,1
+deep learning model fusion,1
+LSTM-CNN,1
+emotion classification,1
+Vessel path prediction,1
+Ship trajectory prediction,1
+Long short-term memory network (LSTM),1
+Acceleration prediction,1
+convolution neural network,1
+DNA computing,1
+evolutionary information,1
+non-coding DNA,1
+전이 학습(Transfer learning),1
+건물 전력 소비량(Building power consumption),1
+고정 레이어(Frozen layer),1
+Multi-Encoder,1
+딥러닝(deep learning),1
+동적 감쇠 학습률(dynamic decay learning rate),1
+LeNet,1
+BiLSTM,1
+Real-estate market,1
+Time series analysis,1
+LIME,1
+Human Activity Recognition (HAR),1
+Kinect depth sensor,1
+Random Oversampling,1
+Machine Learning Decision Tree(DT),1
+Random Forest(RF),1
+Support Vector machine(SVM),1
+LongShort Term Memory(LSTM),1
+맞춤형 추천,1
+Peak Load Forecasting,1
+Ensemble Forecasting Method,1
+Semi-active TMD,1
+Feed forward neural network,1
+Hosting capacity,1
+On-load tap changer,1
+Renewable energy resources,1
+Voltage control,1
+Language Model,1
+Masked Language Model,1
+Question Answering,1
+Fine-Tuning,1
+NILM,1
+power usage pattern,1
+smart farm,1
+data acquisition,1
+Seismic response prediction,1
+MR damper,1
+· Long short-term memory · Kernel principal component analysis · Bearing degradation assessment · Feature fusion · Remaining useful life · KPCA-DLSTM,1
+이상 탐지,1
+계층적 구조,1
+복합 장애 예측,1
+어탠션,1
+Anomaly Detection,1
+Hierarchical Structure,1
+Complex Failure Prediction,1
+Attention,1
+방위력개선사업,1
+문장 유사도 비교,1
+Siamese Network,1
+Self-Attention,1
+Defence Acquisition Program,1
+Sentence Similarity,1
+Distributed energy resources,1
+Automatic Analysis,1
+Facet Analysis,1
+Document Classification,1
+Computer vision,1
+Image context,1
+Image captioning,1
+Visual description,1
+Validity measures,1
+Automated rule checking,1
+Building information modeling,1
+Design requirements,1
+Logic rule component,1
+감정 분석,1
+감정 분류 모델,1
+Deep learning(딥러닝),1
+Multi-Layer Perceptron(다층 퍼셉트론),1
+Long Short-Term Memory(장단기 메모리),1
+Vehicle Vibration(차량 진동),1
+Regression(회귀),1
+actor-critic,1
+program model,1
+OpenAI gym,1
+non-symmetric deep auto-encoder,1
+reinforcement learning,1
+지방의회,1
+공적토론,1
+담론형성,1
+패싯분석,1
+자동분석,1
+Local Assembly,1
+Public Discussion,1
+Discourse Ethics,1
+시스템 식별,1
+출렁다리,1
+LoRa,1
+Deep Learning(딥러닝),1
+Trainsfer learning,1
+Time series normalization,1
+Indoor temperature,1
+Forecasting model,1
+Gated Recurrent Unit,1
+Transfer learning,1
+미국식 수화,1
+인간-컴퓨터 상호 작용,1
+수화,1
+웨어러블 센서,1
+American Sign Language,1
+Human-Computer Interaction,1
+Sign Language,1
+Wearable Sensors,1
+Lithium-ion Battery(배터리),1
+시계열 정규화,1
+Remaining Useful Life(잔여 유효수명),1
+Prognostics and Health Management(고장예지 및 건전성 관리),1
+Machine Learning(기계학습),1
+Big Data(빅 데이터),1
+Human activity recognition,1
+Convolutional Neural Networks,1
+Time-series classification,1
+Earthquake events classification,1
+Convolutional Neural Network (CNN),1
+Recurrent Neural Network (RNN),1
+Convolutional Recurrent Neural Network (CRNN),1
+지진 이벤트 분류,1
+합성 순환 신경망,1
+장비수요예측,1
+Market prediction,1
+전이 학습,1
+Facebook’s Prophet,1
+STOI,1
+LSTM.,1
+가구 부자재,1
+수요예측,1
+재고관리,1
+1D-CNN,1
+Furniture Component,1
+Oer demand Forecast,1
+Inventory Control,1
+1D-CNN F,1
+Non-intrusive,1
+Speech intelligibility estimation,1
+noise environment,1
+Bottleneck feature,1
+Long short-term memory (LSTM),1
+고령환자의료자료,1
+시장예측,1
+기상자료,1
+elderly patient medical data,1
+weather data,1
+Encrypted speech retrieval,1
+Transformer,1
+deep hashing,1
+speech feature extraction,1
+4D hyperchaotic system,1
+퍼지 시계열,1
+F-변환,1
+평균절대백분율오차,1
+Fuzzy time series,1
+F-transform,1
+Mean absolute percentage error,1
+군집화,1
+수요패턴분석,1
+Repair Parts Demand Forecasting,1
+Data Mining,1
+Storm Surge(폭풍해일),1
+Typhoon Advisory(태풍통보문),1
+ADCIRC+SWAN(커플링 모델),1
+Wavelet transform,1
+Distillation process,1
+Entity classification,1
+Relation extraction,1
+Joint model,1
+LSTM-RNN,1
+Named entity recognition,1
+Bi-LSTM-CRFs,1
+CNN-CRFs,1
+Thermostat,1
+Rule Engine,1
+DO (dissolved oxygen),1
+Clustering,1
+LSTM (long short-term memory),1
+water quality prediction,1
+단기 예측,1
+자귀회귀오차 모형,1
+표층 수온,1
+Autoregressive error model,1
+short-term forecasting,1
+Long-Short Term Memory(LSTM),1
+Household energy bills prediction,1
+DASH,1
+HMM,1
+Hyper Parameter Optimization,1
+feature extraction,1
+Time Series Forecasting,1
+LSTM(장단기 메모리),1
+Artificial Neural Network(인공신경망),1
+SWAT,1
+미량오염물질,1
+Demand Pattern Analysis,1
+Continuous measurement · Greenhouse · Leaf area · Light interception · Recurrent neural network,1
+Building energy demand prediction,1
+Building schedule analysis algorithm,1
+Fourier transform,1
+건물 에너지 소비량 예측,1
+스케줄 분석 알고리즘,1
+푸리에 변환,1
+고속도로 교량,1
+축 방향 변형률,1
+수직 방향 처짐,1
+multi-category,1
+accuracy,1
+비정형자료,1
+침수예측,1
+indoor CO₂,1
+prediction model,1
+smart-farm,1
+time complexity,1
+스마트 팜,1
+시간 복잡성,1
+환경예측,1
+AE(utoencoder),1
+LSTM(long short-term memory),1
+RNN(recurrent neural network),1
+전염병 예측 모델링,1
+특징추출,1
+traffic data imputation,1
+Highway,1
+Modbus TCP protocol,1
+수요,1
+Natural language understanding,1
+드론,1
+Youtube,1
+Spam,1
+Artificial neural network,1
+개체명 인식,1
+한국어 개체명 인식,1
+단어 표상,1
+bidirectional LSTM-CRF,1
+Named Entity Recognition (NER),1
+Korean Named Entity Recognition,1
+word representations,1
+Deepfake,1
+Attention module,1
+Time distribution,1
+위험 예측,1
+절대 백분율 오차 평균,1
+Drone,1
+Risk Prediction,1
+Sequence-to-Sequence,1
+crawling,1
+and deep learning,1
+순환 신경망(RNN),1
+장기 단기 기억(LSTM),1
+심층 학습(Deep Learning),1
+HILS(HILS),1
+데이터 분류 및 판정(Data Classification &amp,1
+Determination),1
+지하 수위,1
+평균 제곱 오차 제곱근,1
+금호강,1
+가뭄,1
+표준지하수위지수 (SGI),1
+Kumho river,1
+Design Science,1
+Interest Rate-Spread,1
+SVR-Ensemble,1
+PCA,1
+Time Series Data,1
+Arima model,1
+Grey model,1
+Long Short Term Memory model.,1
+시계열 자료,1
+Arima 모형,1
+Grey 모형,1
+장단기기억 모형,1
+전력수요 예측,1
+Attention Mechanism,1
+Modified Attention-based LSTM,1
+Power demand prediction,1
+Auto Regressive Integrated Moving Average,1
+load forecasting,1
+unidirectional lstm,1
+bidirectional lstm,1
+single-layer lstm,1
+stacked lstm,1
+container volumes forecasting,1
+컨테이너 물동량 예측,1
+Long short term memory (LSTM),1
+Standardized groundwater level index (SGI),1
+Drought,1
+상관 관계 지수,1
+Long term short term memory,1
+상하이선전300지수,1
+센서,1
+speech data augmentation,1
+spoken computer-assisted language learning (CALL),1
+spoken proficiency assessment,1
+고장진단,1
+이상치 탐색,1
+고장 예지 및 건전성관리,1
+진동,1
+Fault Diagnosis,1
+Prognostics and Health Management,1
+Vibration,1
+피플 카운팅,1
+메트로 서비스 CNN-LSTM,1
+사물인터넷(IoT),1
+스마트시티,1
+Under ground water level,1
+People Counting,1
+Metro service,1
+Sensor,1
+Smart city,1
+Demand Forecasts,1
+Aircraft Spare Parts,1
+Irregular Demand,1
+China,1
+Stock price,1
+CSI 300,1
+Factor analysis,1
+Back-testing,1
+중국,1
+bidirectional long short-term memory (BLSTM)-based acoustic models (AMs),1
+automatic speech recognition (ASR) for a non-native Korean utterance,1
+Milling Processes,1
+Machin Learning,1
+Root Mean Square Error,1
+Correlation,1
+Absolute Percent Error,1
+태양 에너지,1
+태양광 발전,1
+고속도로,1
+Photovoltaic Ppower,1
+적지 선택,1
+Solar Eenergy,1
+Highway Network,1
+Site Selection,1
+Content Classification,1
+속도 예측,1
+교통류 분석,1
+LSTM-based DDPG(장단기 기억기반 심층 강화학습),1
+Learning-based Target Tracking(학습기반 타겟 추적),1
+Wave Estimation,1
+Convolutional Long Short-Term Memory,1
+컨테이너 물동량(container throughput),1
+항만 효율성(port efficiency),1
+딥러닝(deeplearning),1
+장단기메모리(long short term memory),1
+Feed-forward neural networks,1
+Semiconductor manufacturing,1
+Wafer yield prediction,1
+Discrete Wavelet Transform,1
+Toolwear Prediction,1
+Cryptocurrency,1
+Ensemble Modeling,1
+Shannon Entropy,1
+Flickr,1
+Stack AutoEncoder(: SAE),1
+Feature Dimensional Reduction,1
+시계열 데이터,1
+주식시장,1
+포트폴리오,1
+stock market,1
+portfolio,1
+소셜네트워크서비스,1
+토픽모델링,1
+플리커,1
+social network service,1
+text mining,1
+topic modeling,1
+Solar Power Generation Forecasting,1
+Information Gain,1
+Long Short-Term MemoryM,1
+eteorological Variable,1
+태양광 발전량 예측,1
+기상변수,1
+전염병 예측,1
+웹 데이터,1
+Predict infectious diseases,1
+Web data,1
+Demand pattern forecasting,1
+On-line retailing,1
+Customer orders,1
+Order management,1
+.,1
+Electroencephalogram(: EEG),1
+특징 차원 감소,1
+스택 오토 인코더,1
+뇌파,1
+LSTM 모형,1
+로지스틱 회귀,1
+Urban runoff analysis,1
+Logistic regression,1
+하이퍼파라미터,1
+예측 모델,1
+Stock Price,1
+Hyper-parameter,1
+Prediction Model,1
+DO,1
+자정작용,1
+Emotion Analysis,1
+Lexical Ambiguity,1
+Word Sense Disambiguation,1
+양방향 LSTM,1
+감정분석,1
+어휘적 중의성,1
+이별 가사,1
+가사 감정,1
+가사 감정 분류,1
+Parting Lyric,1
+Lyric Emotion,1
+Lyric Emotion Classification,1
+Call Detailed Record,1
+HPAI,1
+CDR,1
+고위험성 조류인플루엔자,1
+Uncertainty Modeling,1
+Renewable Power Forecasting,1
+Local Level Network,1
+Weighted Graph,1
+최대전력부하,1
+부하예측,1
+EV,1
+Peak electric load,1
+Load forecasting,1
+Anomaly Session Inspection,1
+IDS,1
+Long Short-Term Mmemory,1
+Context-aware Authentication,1
+Context Data,1
+Mobile Application User Authentication,1
+Supply Chain,1
+Information,1
+Learning Rate,1
+Batch Size,1
+Monitoring,1
+Information and communications technology(ICT),1
+모니터링,1
+정보통신기술(ICT),1
+Visual saliency,1
+Computer Graphics Deep learning,1
+Deep two-way long-term short memory,1
+Convolutional neural network,1
+Wind Power Forecasting,1
+Support Vector Regression,1
+Mobile Malicious Apps,1
+Android Malware,1
+전기차,1
+Weighted Graph Embedding,1
+Severity Risk Index,1
+LSTM Autoencoder,1
+Wind Power,1
+Forecast,1
+Factor,1
+예측적 프로세스 모니터링,1
+잔여시간 예측,1
+LSTM 모델,1
+프로세스 마이닝,1
+predictive process monitoring,1
+remaining time prediction,1
+process mining,1
+Rebar Price,1
+Data Combination,1
+Hyperparameter Random Search,1
+철근 가격,1
+양방향 순환신경망,1
+데이터 조합,1
+하이퍼 파라미터 무작위 탐색,1
+가격예측,1
+KIS credit score,1
+time series forecasting,1
+sliding window technique,1
+원자산소침식,1
+예측(prediction),1
+atomic oxygen erosion,1
+F10.7,1
+Graph Embedding,1
+Graph Similarity,1
+주식가격,1
+인자분석,1
+Semantic vector learning,1
+다목적댐,1
+League of Legends,1
+Win-Loss Prediction,1
+Significant Wave Height,1
+3D Convolution,1
+Language model,1
+Language model based on LSTM,1
+Statistical language model,1
+N-gram,1
+Crop classification,1
+Multitemporal analysis,1
+ocean heatwave,1
+Korea peninsula,1
+time-series,1
+유량예측,1
+Support vector machine,1
+Multipurpose dam,1
+Prediction of inflow,1
+Oxygen depleted water,1
+A.I. (Artificial Intelligence),1
+빈산소 수괴,1
+통행속도 예측,1
+4차 산업혁명,1
+Travel speed prediction,1
+The fourth industrial revolution,1
+머신 러닝,1
+서포트 벡터 머신,1
+결정 트리,1
+다중 퍼셉트론,1
+승패 예측,1
+리그오브레전드,1
+embedding,1
+knowledge completion,1
+fine dust prediction,1
+Battery,1
+구묶음,1
+입력표상,1
+구문분석,1
+chunking,1
+word embedding,1
+parsing,1
+State of health,1
+remaining useful life,1
+Ensemble Health Indicators,1
+lithium-ion battery,1
+주가분석,1
+Server,1
+Data Security,1
+Blockchain,1
+platform,1
+Pattern recognition,1
+Smart factory,1
+computer-manipulated vide,1
+deepfake,1
+efficientnet,1
+video forensics,1
+지식 그래프,1
+지식 완성,1
+임베딩,1
+knowledge graph,1
+재귀 신경망,1
+Multi-perceptron,1
+백테스팅,1
+최소분산 포트폴리오,1
+named entity registration(NER),1
+knowledge graph completion,1
+path-based reasoning,1
+low-dimensional embedding,1
+question answering,1
+지식 그래프 완성,1
+경로 기반 추론,1
+저차원의 임베딩,1
+Condition-Based Maintenance (CBM),1
+Connected Car,1
+Prognostics,1
+DTC (Diagnostic Trouble Code),1
+ARIMA · Confi dence level · Data fi ltering · Neural network · Long short-term memory · And short-term load forecasting,1
+가상화폐,1
+Recurent Neural Network,1
+Data pre-processing,1
+predictive model,1
+distillation,1
+인공지능 주가분석,1
+AI Stock Prediction,1
+Prediction System,1
+Information and communication technology,1
+High-Frequency Financial Data,1
+Sentimental Analysis,1
+고빈도 금융 데이터,1
+텍스트 마이닝,1
+딥뉴럴네트워크,1
+Semantic vector,1
+criminal information extraction,1
+investigation technique,1
+tracking of additional crimes,1
+voice phishing,1
+철광석 가격,1
+그레인저 인과관계,1
+Price of iron ore,1
+Granger causality,1
+Time-series forecasting,1
+long-term evolution (LTE),1
+indoor localization,1
+indoor navigation,1
+OpenPose,1
+keypoints,1
+convolutional neural networks,1
+long short-term memory,1
+오픈포즈,1
+키포인트,1
+심층 신경망,1
+장단기 기억 신경망,1
+자전거,1
+침수 예측,1
+Bicycle,1
+Demand,1
+Distillation column,1
+Adam optimizer,1
+보이스피싱,1
+여죄 추적,1
+수사기법,1
+범죄정보 추출,1
+개체명 인식(NER),1
+traffic flow prediction,1
+long short term memory,1
+도심지 미세먼지 예측,1
+wastewater treatment plant,1
+linear mixed-effects regression model,1
+wh-licensing interaction effects,1
+Power Consumption,1
+Disaggregation Methods,1
+Clustering Analysis,1
+Cigarette smoking,1
+Puff,1
+Respiration,1
+PACT,1
+IMU,1
+bidirectional LSTM,1
+neural net,1
+rainfall,1
+water flow rate.,1
+교통흐름 예측,1
+Short-term load forecasting · Deep neural networks · Long short-term memory,1
+Parameter prediction,1
+Cost sensitive,1
+Pressurizer,1
+Pressurized water reactor,1
+State Of Charge,1
+Estimation,1
+Lithium-ion battery,1
+file access behavior,1
+malicious code,1
+FUSE,1
+fall down detection,1
+anomaly detection,1
+surprisal,1
+filler-gap dependency,1
+English sentence processing,1
+LSTM language model,1
+structural health monitoring (SHM),1
+structural temperature,1
+LSTM network,1
+missing data recovery,1
+Atomic Oxygen,1
+Erosion,1
+Factor Forecasting,1
+Statistical Method,1
+LEO,1
+Emergency detection,1
+Human action recognition,1
+Attention mechanism · Bidirectional LSTM · Deep learning · Feature extraction · Voltage sag causes,1
+Stock Price Prediction,1
+Online News,1
+Technical Indicators,1
+지하수위,1
+결측,1
+다변량 ARIMA,1
+groundwater level,1
+missing value,1
+multivariate ARIMA,1
+장단기기억신경망 언어모델,1
+영어 문장처리,1
+필러-갭 의존관계,1
+놀라움,1
+선형 혼합효과 회귀모델,1
+의문사 상호작용효과,1
+skeletal coordinate vector,1
+KOSPI 200 stock index,1
+Deep time series denoiser,1
+Brain-Machine Interface,1
+Emotion Classification,1
+average PSD,1
+Demand Forecasting,1
+External Data,1
+Predictive Analytics,1
+ECG segmentationLSTMCNNSupervised learningConvLSTM,1
+나노여과,1
+막 오염,1
+광 간섭 단층 촬영,1
+temporal action proposal generation,1
+snippet relatedness,1
+flood forecasting,1
+long- short-term memory (LSTM),1
+당뇨병,1
+혈당예측,1
+diabetes,1
+blood glucose prediction,1
+Computer Aided Diagnosis,1
+Time-Frequency Analysis,1
+Real-Time Service Correction(RTS 보정정보),1
+Long-Short Term Memory(장단기기억),1
+acoustic signal(음향 신호),1
+flowrate prediction(유속 예측),1
+lower urinary tract symptoms(하부 요로 증상),1
+Siamese network,1
+법령 비교 시스템,1
+방위사업법,1
+Arm-Movement Prediction,1
+Brain-Computer Interface,1
+예지 보전,1
+COVID-19,1
+변수 선택,1
+매개 변수 최적화,1
+Arrhythmia,1
+Heartbeat detection,1
+bird’s eye view,1
+Bi-LSTM,1
+cascade Bi-LSTM,1
+vehicle-mounted camera,1
+first-person videos,1
+Urban flooding,1
+Observed rainfall,1
+Hazard rating,1
+Random forest,1
+시계열,1
+유량,1
+수문예측,1
+전이학습(Transfer learning),1
+건물 에너지 소비량(Building energy consumption),1
+기계학습(Machine learning),1
+예측 모델(Prediction model),1
+해양,1
+수온 예측,1
+Trajectory Prediction,1
+Autonomous Vehicle,1
+Time-series Forecasting,1
+DTG,1
+SIR,1
+Natural Language Processing,1
