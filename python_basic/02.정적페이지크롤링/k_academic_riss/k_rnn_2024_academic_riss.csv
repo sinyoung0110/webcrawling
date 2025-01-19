@@ -1,0 +1,351 @@
+keyword,count
+딥러닝,13
+LSTM,12
+Deep Learning,11
+RNN,10
+deep learning,6
+Machine Learning,6
+CNN,6
+인공지능,5
+Deep learning,5
+순환신경망,4
+.,4
+머신러닝,4
+Artificial Intelligence,3
+DNN,3
+GRU,3
+시계열 예측,2
+Anomaly Score,2
+Recurrent Neural Network,2
+Moving Average,2
+artificial intelligence,2
+분류,2
+심층신경망,2
+트랜스포머,2
+Classification,2
+시계열 데이터,2
+이상 탐지,2
+GPT,2
+recurrent neural network,2
+Transformer,2
+ANN,2
+Recurrent neural networks,2
+Feature Engineering,2
+詩三百,2
+SikuGPT2,2
+九歌,2
+CBM,2
+생성형 인공지능,2
+variational autoencoder,2
+transformer,2
+Generative AI,2
+GAN,2
+흉부 X-선 영상,1
+Vision transformer,1
+LSTM(Long Short Term Memory),1
+GRU(Gate Recurrent Unit),1
+Pneumonia detection,1
+폐렴 진단,1
+Wastewater Treatment System,1
+Feature Importance Analysis,1
+Adversarial Example Analysis,1
+RNN(Recurrent Neural Network),1
+HPE(Human Pose Estimation),1
+Chest X-ray image,1
+Fall Prediction,1
+Correlation analysis,1
+Person Skeleton,1
+사람자세예측,1
+낙상예측,1
+사람관절,1
+Incremental Capacity Analysis,1
+Lithium-ion Battery,1
+Causality,1
+Exchange rate,1
+Vector Autoregressive,1
+Time Series,1
+Local Interpretable Model-agnostic Explanations,1
+Population growth Multivariate,1
+long non-coding RNA,1
+외골격 로봇,1
+XAI(eXplainable AI),1
+Tancheon  river,1
+Forecast data,1
+Residual analysis,1
+Solar power generation,1
+BiLSTM Auto-encoder,1
+BiLSTM 오토인코더,1
+cryptocurrency,1
+time series,1
+Bitcoin,1
+Virtual assets,1
+암호화폐,1
+시계열,1
+비트코인,1
+가상자산,1
+Hand Gesture Classification,1
+Video Classification,1
+Psychological Counseling,1
+심리상담,1
+Machine learning,1
+Traditional Chinese medicine syndromes,1
+Holistic syndrome differentiation,1
+착용형 센서,1
+hourly  water  level,1
+machine  learning,1
+neural network models,1
+neuropsychological tests,1
+dementia,1
+mild cognitive impairment,1
+Alzheimer’s disease,1
+Pairs Trading,1
+Expert knowledge,1
+표면 근전도,1
+보행 단계 인식,1
+Wearable Sensor,1
+Exoskeleton,1
+Surface Electromyography,1
+Gait Phase Recognition,1
+Artificial intelligence,1
+SOH Estimation.,1
+Sentimental Analysis,1
+Similarity Analysis,1
+특징 추출,1
+Presence or Absence of Precipitation,1
+Feature extraction,1
+Time Series Data Processing,1
+Time Series Prediction,1
+Recommendation,1
+Demand Forecasting,1
+Small and Medium Distribution Industry,1
+NMIFS-HHO algorithm,1
+SEMD,1
+Recurrent Neural Networks,1
+Condition BSI,1
+Manufacturing,1
+NMIFS-HHO,1
+SEMD 분해,1
+업황실적,1
+제조업,1
+Behavior,1
+시계열 데이터 처리,1
+강수 유무 예측,1
+3D skeleton,1
+Gated Recurrent Unit,1
+Pixel Attention Mechanism,1
+Generative Adversarial Networks,1
+Malware,1
+Defectfuse classifier,1
+Hybrid optimization model,1
+Defect detection,1
+Ceramic tile,1
+Predict cardiac disease  · Extensive data analysis  · CIIR  · Feature selection and classifi cation  · Neural network  · SMAF  · IOT-WSN,1
+Self-Supervised Learning,1
+Lip-Reading Technology,1
+Silent Speech Interface,1
+Deep Neural Networks,1
+Speech Recognition,1
+Neural Network,1
+Time series,1
+Commodities demand forecast,1
+Attention mechanism,1
+Identity,1
+Egocentric,1
+Autoencoder,1
+합성곱 신경망,1
+나우캐스팅,1
+Extreme rainfall,1
+Generative adversarial networks,1
+Convolutional neural networks,1
+Deep neural networks,1
+Nowcasting,1
+감성 분석,1
+한시창작 AI,1
+time-series data estimation,1
+attention block,1
+spatiotemporal data,1
+traffic accident forecasting,1
+Error correction strategy,1
+Ship motions,1
+Hull girder loads,1
+Recurrent neural network,1
+Vector Embeddings,1
+딥 뉴럴 네트워크,1
+순환 신경망,1
+Obesity,1
+생성적 적대 신경망,1
+예측 모델,1
+하이브리드 모델,1
+주식 예측,1
+주가 시계열 예측,1
+Prediction Model,1
+Hybrid Model,1
+Stock Prediction,1
+Time Series Forecasting,1
+Optimization,1
+Generator,1
+Ship,1
+Marine,1
+최적화,1
+발전기,1
+선박,1
+해양,1
+극한 강우,1
+디지털 인문학,1
+도심 항공 모빌리티,1
+한시 데이터,1
+time series analysis,1
+Technical Analysis,1
+Echo State Networks,1
+Stock Trend Prediction,1
+자기 지도 학습,1
+Time-Series Data,1
+Anomaly detection,1
+Self-supervised Learning,1
+spatial regression analysis,1
+주가 추세 예측,1
+real estate valuation,1
+Mel-spectrogram,1
+Spectrogram,1
+Dialect audio data,1
+Time series analysis,1
+Missing data interpolation,1
+시계열 분석,1
+Cloud Computing,1
+에코 스테이트 네트워크,1
+digital humanities,1
+Acoustic,1
+Computer Vision,1
+Video Captioning,1
+합성곱신경망,1
+음향,1
+사고,1
+교통,1
+Artificial Intelligent,1
+Accident,1
+기계학습,1
+Traffic,1
+growth prediction of emerging commercial areas,1
+Dongbaekjeon Payments system,1
+신흥 상권의 성장성 예측,1
+동백전 지급결제 시스템,1
+클라우드 컴퓨팅,1
+기술적 분석,1
+결측치 보간,1
+Forecast model,1
+Solar radiation,1
+Mars Weather Prediction,1
+어텐션 메커니즘,1
+시계열 데이터 분석,1
+화성 기상 예측,1
+Predictive Modeling,1
+Activation Functions,1
+Attention Mechanism,1
+Time-Series Analysis,1
+aircraft attitude estimation,1
+Photovoltaic generation forecasting,1
+recurrent neural network (RNN),1
+convolutional neural network (CNN),1
+인공지능 기반 무용,1
+AI-generated dance,1
+sequence data,1
+CNN-RNN framework,1
+disease association prediction,1
+활성화 함수,1
+예측 모델링,1
+Web Attack Detection,1
+WAF Log,1
+Long Short-Term Memory (LSTM),1
+Recurrent Neural Network (RNN),1
+Convolutional Neural Network (CNN),1
+Classification model,1
+Weldability,1
+Ultrasonic welding,1
+Multilayer copper foil,1
+일반화선형모형,1
+회귀분석,1
+다층퍼셉트론,1
+GLM,1
+Regression,1
+MLP,1
+AutoML,1
+TF-IDF,1
+Natural Language Processing,1
+비디오 캡션,1
+컴퓨터 비전,1
+time series data analysis,1
+Atrial Fibrillation,1
+신경망 모델,1
+최적화 알고리즘,1
+박스 구조물,1
+neural network model,1
+optimization algorithm,1
+box structure,1
+long short term memory,1
+deep learning models,1
+sufficient dimension reduction,1
+dimension reduction,1
+time series forecasting,1
+교차검증,1
+딥러닝 모델,1
+머신러닝 모델,1
+스켈레톤 데이터,1
+Electrocardiography,1
+Mobile Applications,1
+Probability Learning,1
+Urban Air Mobility (UAM),1
+AI Creating Sino-poetry,1
+Sino-poetry database,1
+anomaly detection,1
+generative model,1
+생성모형,1
+Shift-by-wire Control Unit,1
+Inspection Equipment,1
+Monitoring Program,1
+PdM,1
+AI,1
+경로 예측,1
+lncRNA,1
+Time Series prediction,1
+GRU (Gated Recurrent Unit),1
+Trajectory prediction,1
+cross-subject cross-validation,1
+machine learning models,1
+자연어 처리,1
+당뇨병,1
+언어모형,1
+positional encoding,1
+encoder-decoder,1
+multi-head attention,1
+language model,1
+Power prediction  · Renewable energy forecasting  · Machine learning  · Deep learning  · Recurrent neural network (RNNs)  · Generative adversarial networks (GANs)  · Energy grid integration  · Sustainability,1
+앙상블  모델,1
+Ensemble Model,1
+skeleton data,1
+Diabetes,1
+ASIC,1
+Fixed-Point,1
+Accelerator,1
+LLM,1
+LLaMA 3,1
+(MEG),1
+다중어텐션,1
+인코더-디코더,1
+위치인코딩,1
+데이터,1
+Generalized Maxwell model,1
+Viscoelasticity,1
+History-dependent material,1
+ratio transformation,1
+normalization,1
+realized volatility,1
+asymmetry,1
+Carbon capture · Diethanolamine (DEA) · CO 2 loading capacity · Recurrent Neural Networks · Intelligent model,1
+user survey,1
+3D hologram,1
+leap motion,1
+education systems,1
+sign language,1
+Time Series Data,1
+Data,1
+Adversarial Samples,1

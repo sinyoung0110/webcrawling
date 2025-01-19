@@ -1,0 +1,434 @@
+keyword,count
+CNN,29
+Deep Learning,21
+Convolutional Neural Network,19
+deep learning,15
+딥러닝,11
+convolutional neural network,10
+딥 러닝,7
+GPGPU,6
+Deep learning,6
+Convolutional neural network,5
+Classification,5
+MNIST,4
+Computer vision,4
+합성곱 신경망,4
+machine learning,3
+자연어 처리,3
+Object Tracking,3
+SIMT,3
+convolutional neural networks,3
+기계학습,3
+Clipart Classification,3
+Clipart,3
+style search,3
+Image Processing,3
+SELU,3
+ReLU,3
+Activation Function,3
+Hyperparameter,3
+Convolutional Neural Networks,3
+인공신경망,3
+Conventional Neural Network,2
+T-Commerce,2
+사람 재식별,2
+딥 기능,2
+GoogLeNet,2
+fake fingerprint detection,2
+scale invariant feature transform,2
+scene segmentation,2
+video identification,2
+Fisheye Camera,2
+CNN (Convolutional Neural Networks),2
+Saliency Detection,2
+transfer learning,2
+training options,2
+SVM,2
+Convolution Neural Network,2
+Face Recognition,2
+이미지검색,2
+콘텐츠 기반 검색,2
+Deep features,2
+Fine tuning,2
+Long Short-Term Memory,2
+Leaf,2
+Visual system,2
+GoogleNet,2
+Human face tracking,2
+data augmentation,2
+AdaBoostClassifier,2
+Person re-identification,2
+SIFT,2
+Convolution,2
+CUDA,2
+TPU,2
+Content-based search,2
+Image retrieval,2
+Optical Flow,2
+Human Localization,2
+Active Appearance Model,2
+Korean Text,2
+English Text,2
+컨볼루션 신경망,2
+합성곱신경망,2
+Machine Learning,2
+Handwritten Document,2
+K-NeighborsClassifier,1
+object detection,1
+클래스 불균형 문제,1
+TLD(Tracking-Learning-Detection),1
+전이학습,1
+문자수준 컨볼루션 신경망,1
+natural language classification,1
+class imbalance problem,1
+H-CNN(Hippocampus - Convolution Neural Network),1
+ferns,1
+optical flow,1
+객체 추적,1
+RandomForestClassifier,1
+Pedestrian Tracking,1
+랜덤 포레스트,1
+K-최근접 분류기,1
+컨볼루션 신경망 네트워크,1
+Convolutional Neural Network(CNN),1
+extreme learning machine,1
+rectified linear unit,1
+보행자 추적,1
+Destination image (cognitive,1
+affective,1
+and unique image),1
+Extended theory of planned behavior,1
+Decision-making process,1
+자연어 분류,1
+맨하탄 좌표계,1
+카메라 캘리브레이션,1
+Image Recognition Algorithm,1
+Machine learning,1
+Pulmonary nodule detection,1
+train-test framework,1
+melody extraction,1
+사람 추적,1
+회선 신경망,1
+image classification,1
+Human Tracking,1
+Atopic Dermatitis,1
+Black Box,1
+people detection,1
+faster RCNN,1
+보행자 검출,1
+synthetic aperture radar,1
+automatic target recognition,1
+Document Analysis,1
+Sentiment Analysis,1
+Word2vec,1
+ACF,1
+DB construction,1
+이미지 인식 알고리즘,1
+Multi-Layer Perceptron,1
+Binary Classification,1
+장단기 기억,1
+다층 퍼셉트론,1
+이진분류,1
+short time fourier transform,1
+electroencephalogram,1
+brain-computer interface,1
+faster R-CNN,1
+pedestrian detection,1
+딥러닝 프레임워크,1
+자동미분,1
+아토피피부염,1
+Computation Efficiency,1
+MLP,1
+Artificial Neural Network,1
+계산효율성,1
+다계층 신경망,1
+컨벌류션날 네트워크,1
+CIFAR-10,1
+computational graph,1
+characterlevel convolution neural network,1
+CNTK,1
+TensorFlow,1
+Theano,1
+deep learning framework,1
+Cognitive toolkit,1
+텐서플로,1
+티아노,1
+Media effects,1
+LSTM,1
+Drone Detection,1
+Arificial Neural Network,1
+Document Analysis.,1
+ANN,1
+Visual tracking,1
+Difference of Gaussian,1
+지역 최소값,1
+License Plate Detection,1
+Vehicle Detection,1
+최적화,1
+FPGA,1
+Biomedical Event,1
+ADAS,1
+Embedded system,1
+Local Minimum,1
+Deep-Learning,1
+Personal Information,1
+Optimization,1
+Natural Language Processing(NLP),1
+Information Extraction,1
+R-CNN,1
+RoboCup,1
+object classification,1
+object localization,1
+Adaptive power control,1
+convolutional neural network(cnn),1
+word piece model(wpm),1
+WFSO,1
+word2vec,1
+doc2vec,1
+Ensemble,1
+Batch normalization,1
+Fingerpirnt classification,1
+Fingerprint recognition,1
+GoogLeNet Long Short Term Memory,1
+Appearance Model,1
+Feature Map,1
+Correlation Filter,1
+Android Smart Phone,1
+Facial Expression Recognition,1
+Tensor Flow,1
+Event Extraction,1
+심층 학습,1
+Common data link,1
+Plant Leaf Disease,1
+vehicle,1
+알렉스넷,1
+블랙박스,1
+synchronization for motion and music,1
+Driving on the road,1
+music genre classification,1
+dancing robot,1
+AlexNet,1
+보고서 자동 생성,1
+정보 추출,1
+자연어 생성,1
+텍스트 생성,1
+문장 생성,1
+Automatic Report Generation,1
+Natural Language Generation(NLG),1
+Text Generation,1
+Sentence Generation,1
+Manhattan coordinate,1
+Long Short Term Memory,1
+광류 추정 알고리즘,1
+Masking,1
+smoke detection,1
+이벤트 추출,1
+생의학 이벤트,1
+IoT,1
+fuzzy logic,1
+multi-sensors,1
+fire detection,1
+하이퍼리얼리티(hyper-reality),1
+미디어 정향적(media-oriented),1
+대용량 문서 분류,1
+CNN 오페라(CNN Opera),1
+도로주행,1
+《닉슨 인 차이나》 (Nixon in China),1
+존 아담스(John Adams),1
+GMM,1
+Alexnet CNN,1
+Personal Information Recognition,1
+CNN(Convolutional Neural Network),1
+camera calibration,1
+Face Detection,1
+artificial neural networks,1
+LGP,1
+People Counting,1
+Object tracking,1
+Background Modeling,1
+XML,1
+YCbCr,1
+uniform,1
+symmetry,1
+U-LGP,1
+S-LGP,1
+LBP,1
+amyloid,1
+Pooling,1
+Object Recognition,1
+풀링,1
+객체 인식,1
+컨볼루셔널 뉴럴 네트워크,1
+expression recognition,1
+convolution neural network,1
+VGG,1
+Convoultion Neural Network,1
+neural network,1
+alzheimer,1
+Surface Defects Detection,1
+Tensorflow,1
+protein-protein interaction extraction,1
+정보추출,1
+컨볼루션 네트워크,1
+단백질간 상호작용 추출,1
+Probability optimization,1
+Image classification,1
+Convolutional neural networks,1
+low resolution image,1
+sewer,1
+Recognition of Face,1
+PET,1
+CNN algorithms,1
+Object Movement,1
+Search Area,1
+Pupil Size Variation Signal,1
+Arousal-Valence,1
+Short-Time Fourier Transform,1
+Emotion Classification,1
+lmdb,1
+caffe,1
+Electronic Parts,1
+전자 부품,1
+natural language processing,1
+China’s CCTV,1
+표적분류,1
+적외선 영상,1
+예일 페이스 데이터 베이스 B,1
+얼굴 인식,1
+Yale Face Database B,1
+HOG,1
+Object detection,1
+KBS in South Korea,1
+CNN in the United States,1
+News Frame,1
+Infrared Image,1
+Terror in China,1
+한국 KBS,1
+미국 CNN,1
+중국 CCTV,1
+뉴스 프레임,1
+중국 테러보도,1
+Energy Efficient,1
+Acceleration,1
+Hybrid FPGA,1
+다중인격,1
+Target Classification,1
+표면 결함 검출,1
+Feature Augmentation,1
+Handwriting Recognition,1
+thread,1
+필기체인식,1
+스레드,1
+Hyperparameter Optimization,1
+Metaheuristic Algorithm,1
+Hyperparameter 최적화,1
+메타 휴리스틱 알고리즘,1
+Parameter-Setting-Free Harmony Search Algorithm,1
+Natural Language Processing,1
+Multiple Personality,1
+Named Entity Recognition,1
+자질 보강,1
+개체명 인식,1
+DNS Amplification Attack,1
+Real-Time Detection System,1
+DNS DDoS Attack,1
+DNS 증폭 공격,1
+실시간 탐지 시스템,1
+DNS DDoS 공격,1
+convolutional networks,1
+information extraction,1
+Pedestrian Inference,1
+Night-time vehicle detection,1
+지진가속도,1
+지진피해,1
+시설물,1
+Data Reduction,1
+Reduced Learning Time,1
+learning floor,1
+handwriting,1
+Rear-lamp detection,1
+Head-lamp detection,1
+풀리 컨볼루션 신경망,1
+Earthquake Damage,1
+조건부 랜덤 필드,1
+의미론적 분할,1
+"Fully Convolutional Neural Network
+분할",1
+Conditional Random Field,1
+Semantic Segmentation,1
+Segmentation,1
+multi-scale features,1
+horizon correction,1
+다중 스케일 특징,1
+Infrastructure,1
+Cascade Convolutional Neural Network (CNN),1
+GP-GPU,1
+Person-Reidentification,1
+large-scale text classification,1
+문서분류,1
+정보검색,1
+텍스트 마이닝,1
+DocumenCt lassification,1
+Information Retrieval,1
+Text Mining,1
+data-set,1
+face expression,1
+Unsupervised Learning,1
+automatic wood species identification,1
+RNN,1
+Damage,1
+Port Structure,1
+Vision,1
+손상,1
+항만시설물,1
+영상,1
+MiniVGGNet,1
+LeNet,1
+영상 수평 보정,1
+Processing Time,1
+Parallel-Addition,1
+Self-Mving(자율주행),1
+social status,1
+gender,1
+former part of 20th century,1
+gramophone play,1
+addressee honorific,1
+presentation attack,1
+fingerprint liveness detection,1
+Perception(인식),1
+Object-Detection(객체검출),1
+Deep-Learning(딥러닝),1
+Chip Design,1
+Transfer learning,1
+Dataset bias,1
+Traffic Signs Recognition,1
+canny edge detection,1
+image segmentation,1
+convex hull algorithm,1
+shoe-upper fuse sewing,1
+lane detection,1
+Multithread,1
+age,1
+상대높임법,1
+유성기 연극,1
+20세기 전기,1
+풀링 레이어,1
+컨볼루션 레이어,1
+Pooling layer,1
+Convolution layer,1
+Finetuning,1
+AR spectrogram,1
+UWB,1
+Moving object classification,1
+Max pooling,1
+맥스 풀링,1
+합성곱,1
+MBM(Modified Booth Multiplier),1
+IPU(Intelligent Processing Unit),1
+수정 Booth 곱셈기,1
+IPU,1
+Hyperspectral image,1
+연령,1
+사회적 지위,1
+성별,1
+Ground acceleration,1
