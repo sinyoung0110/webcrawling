@@ -1,40 +1,44 @@
 keyword,count
-딥러닝,20
+딥러닝,13
 deep learning,7
-Deep learning,7
-Deep Learning,5
-전이학습(Transfer learning),3
-딥러닝(Deep-learning),2
-철도교량,2
-딥러닝(Deep Learning),2
-인공신경망,2
+Deep learning,6
+Deep Learning,3
 ELM,2
+딥 러닝,2
+철도교량,2
 무인이동체,2
 자동손상분석,2
 유지관리,2
-딥 러닝,2
 CoAP,2
-Convolutional neural network,2
-VRF 시스템(VRF system),2
-에너지소비량예측(Energy consumption prediction),2
-빅데이터,2
-Classification,2
-머신러닝,2
-객체 인식,1
-능동 시각,1
-생체신호,1
-EMR,1
-신호등 인식,1
-자율주행,1
-영역기반 영상정합,1
-ConvNet,1
-영상처리,1
-imagery registration,1
-convolutional network,1
-image processing,1
-GeoAI,1
-GIS,1
+태양열 집열기(Solar Thermal Collector),1
+iterative cropping,1
+친밀도 분석,1
+소셜 네트워크 분석,1
+사진 구도 개선,1
+LSTM(Long Short-Term Memory),1
+반복적 크롭핑,1
+미학적 사진 평가,1
+photo recomposition,1
+aesthetic photo assessment,1
+스마트시티(Smartcity),1
+Fault Diagnosis (고장진단),1
+Fault Classification (고장분류),1
+Deep Learning (딥러닝),1
+딥러닝(Deep Learning),1
+TemporalConvolutional Network (시간적 컨볼루션 네트워크),1
+Unbalance Rotor (불균형 회전체),1
+태양열 에너지(Solar Thermal Energy),1
+computer tomography,1
+머신러닝,1
+딥하이퍼넷,1
 위성영상,1
+image processing,1
+융합,1
+사물인터넷,1
+무선인터넷,1
+Convergence,1
+IoT,1
+Wifi,1
 퍼스널비디오,1
 비디오분류,1
 멀티모달리티,1
@@ -44,61 +48,13 @@ personal video,1
 video classification,1
 multi-modality,1
 audio/video grouping,1
-융합,1
-사물인터넷,1
-무선인터넷,1
-합성곱신경망(Convolutional Neural Network+),1
-Convergence,1
-마취,1
-기계학습,1
-군집화(Clustering),1
-계층적 구조(Hierarchical Structure),1
-딥 러닝(Deep Learning),1
-모바일헬스,1
-Patrol robot,1
-Visual SLAM,1
-이상치 탐지(Anomaly Detection),1
-이미지 분류(Image Classification),1
-Keypoint extraction,1
-Fine tuning,1
-순찰 로봇,1
-시각적 동시적 위치추정 및 지도 생성,1
-특징점 추출,1
-미세 조정,1
-Deep neural network,1
-Printed electronics,1
-Machine learning,1
-Symbol recognization,1
-Convolutional Neural Network,1
-ADAS,1
-FPGA,1
-Vehicle Detection,1
-Mechine Learning,1
-딥러닝 추천(Deep learning recommendation),1
-지역적협업오토인코더(LOCA),1
-교차도메인(Cross domain),1
-Inkjet printing,1
-Jetting map,1
-IoT,1
-Wifi,1
-사진 구도 개선,1
-Convolutional neural network (합성곱 신경망),1
-Medical Imaging,1
-Artificial Neural Network,1
-Online Learning,1
-드론,1
-초분광 영상,1
-식생지수,1
-의사결정트리,1
-도열병,1
+GeoAI,1
+GIS,1
+빅데이터,1
+멀티모달 개념 학습,1
 Smart factory (스마트팩토리),1
-Prognostics and health management (건전성 예측 및 관리),1
-object recognition,1
-Deep learning (딥러닝),1
-신체활동,1
-포인터 네트워크,1
-정확성,1
-측정오차,1
+social network analysis,1
+스킵 포인팅 모델,1
 Measurement Errors,1
 Physical Activity Levels,1
 Validity,1
@@ -106,63 +62,44 @@ Thermal Imaging Camera,1
 Failure Diagnostics,1
 Failure Mode,1
 LSTM,1
+포인터 네트워크,1
+대명사 상호참조해결,1
+정확성,1
+pointer networks,1
+skip pointing model,1
+pronouns coreference resolution,1
 시각 주의,1
-active vision,1
+능동 시각,1
+객체 인식,1
 visual Attention,1
-온라인 학습,1
-스킵 포인팅 모델,1
-반복적 크롭핑,1
-딥하이퍼넷,1
-미학적 사진 평가,1
-photo recomposition,1
-iterative cropping,1
-aesthetic photo assessment,1
-Fault Diagnosis (고장진단),1
-Fault Classification (고장분류),1
-Deep Learning (딥러닝),1
-TemporalConvolutional Network (시간적 컨볼루션 네트워크),1
-스마트 의료기기,1
-소셜 네트워크 분석,1
-친밀도 분석,1
-멀티모달 개념 학습,1
-social network analysis,1
-분류,1
+active vision,1
+측정오차,1
+신체활동,1
 affinity analysis,1
+인공신경망,1
 multimodal concept learning,1
 deep hypernetwork,1
-태양열 에너지(Solar Thermal Energy),1
-태양열 집열기(Solar Thermal Collector),1
-pronouns coreference resolution,1
-skip pointing model,1
-pointer networks,1
-대명사 상호참조해결,1
-스마트시티(Smartcity),1
-LSTM(Long Short-Term Memory),1
+imagery registration,1
+Prognostics and health management (건전성 예측 및 관리),1
+Deep learning (딥러닝),1
+Convolutional neural network (합성곱 신경망),1
 의료영상,1
-Unbalance Rotor (불균형 회전체),1
-computer tomography,1
-슈퍼픽셀,1
-Image Segmentation,1
-자연어 처리(Natural Language Processing),1
-NLTK(Natural Laguage Toolkit),1
-물체,1
-크기,1
-계산,1
-NARX,1
-센서융합,1
-이동체 측위,1
-탄산화,1
-공극률,1
-영상 분할,1
-Carbonation,1
-Porosity,1
-U-net,1
-영역분리,1
-ANN,1
-이산화탄소 분압,1
-해양-대기 탄소 순환,1
-자료동화,1
-불확실성,1
+분류,1
+온라인 학습,1
+도열병,1
+Medical Imaging,1
+Classification,1
+Artificial Neural Network,1
+Online Learning,1
+드론,1
+초분광 영상,1
+식생지수,1
+의사결정트리,1
+convolutional network,1
+자율주행,1
+영상처리,1
+ConvNet,1
+Error backpropagation algorithm,1
 GARCH,1
 Convolutional Neural Networks,1
 Authorship Attribution,1
@@ -171,84 +108,7 @@ Facebook,1
 automatic modulation classification,1
 deep neural network,1
 statistical features,1
-KoNLPy(Korean NLP in Python),1
-피싱 공격(Phishing attack),1
-Forecast,1
-Precipitation,1
-temperature,1
-concentration,1
-합성곱신경망,1
-순환신경망,1
-오류역전파 알고리즘,1
-Convolutional neural networks,1
-Recurrent neural networks,1
-Error backpropagation algorithm,1
-간 분할,1
-노이즈 저감화,1
-방사선치료계획,1
-윤곽선 추출,1
-딥러닝(Deep-Leanring),1
-I-V 곡선(I-V curve),1
-고장 진단(Fault diagnosis),1
-혼동 행렬(Confusion matrix),1
-Road Dangerous Object,1
-Recognition,1
-Performance Improvement,1
-빅데이터(Big data),1
-장애 예측(Failure prediction),1
-신경망(Neural Network),1
-딥러닝(deep learning)H2O,1
-딥 빌리프 네트워크,1
-강수,1
-예보,1
-Deep belief network,1
 moving-average,1
-YOLO,1
-Convolution Neural Network,1
-프로토타입 기반 설명 (Prototype-based Explanation),1
-병원 전 컴퓨터 단층 촬영,1
-회전 없는 직사각형 갠트리,1
-광자 계수 검출기,1
-딥 러닝 재구성,1
-machine learning,1
-artificial neural network,1
-power demand prediction,1
-big data,1
-tensorflow,1
-알파고,1
-이세돌,1
-인공지능,1
-학습자 역량,1
-토포필리아,1
-AlphaGo,1
-Lee Sedol,1
-artificial intelligence(AI),1
-learner’s capability,1
-topophilia,1
-생성 설계(Generative Design),1
-로봇설계(Robot Design),1
-다물체 동역학(Multibody Dynamics),1
-CallHelper,1
-Speech-to-Text,1
-Emotion Recognition,1
-tunable diode laser absorption spectroscopy,1
-소고기,1
-딥 러닝 (Deep Learning),1
-설명 가능한 인공지능 (XAI),1
-Image Analysis,1
-thermal performance,1
-Image Weight Estimation,1
-Object Detection,1
-농식품 가공업,1
-생산성,1
-자료포락분석,1
-맘퀴스트 분석,1
-인도,1
-Agricultural Food Processing Industry,1
-Productivity,1
-Malmquist Index,1
-Data Envelope Analysis,1
-India,1
 High-resistance ground fault,1
 CNN,1
 Distribution system,1
@@ -257,11 +117,71 @@ AE,1
 Mobile Signature,1
 One Class,1
 Biometric Recognition,1
-광원일체형 마이크로 LED 가스센서(Monolithic micro-LED gas sensor),1
-국소표면 플라즈몬 공명(Localized surface plasmon resonance),1
-합성곱 신경망(Convolution neural network),1
-초저전력 전자코 시스템(Ultra-low power electronic nose),1
 heat transfer,1
+Recurrent neural networks,1
+Convolutional neural networks,1
+오류역전파 알고리즘,1
+I-V 곡선(I-V curve),1
+temperature,1
+concentration,1
+간 분할,1
+노이즈 저감화,1
+방사선치료계획,1
+윤곽선 추출,1
+딥러닝(Deep-Leanring),1
+전이학습(Transfer learning),1
+고장 진단(Fault diagnosis),1
+순환신경망,1
+혼동 행렬(Confusion matrix),1
+딥 빌리프 네트워크,1
+강수,1
+예보,1
+Deep belief network,1
+Precipitation,1
+Forecast,1
+합성곱신경망,1
 metal foam,1
 PCM,1
-다중 일반 클래스(Multiple Normal Classes),1
+thermal performance,1
+딥러닝 추천(Deep learning recommendation),1
+Deep neural network,1
+Machine learning,1
+Symbol recognization,1
+Convolutional Neural Network,1
+ADAS,1
+FPGA,1
+Vehicle Detection,1
+Mechine Learning,1
+지역적협업오토인코더(LOCA),1
+Emotion Recognition,1
+교차도메인(Cross domain),1
+기계학습,1
+마취,1
+생체신호,1
+EMR,1
+신호등 인식,1
+tunable diode laser absorption spectroscopy,1
+영역기반 영상정합,1
+Convolutional neural network,1
+Speech-to-Text,1
+병원 전 컴퓨터 단층 촬영,1
+알파고,1
+회전 없는 직사각형 갠트리,1
+광자 계수 검출기,1
+딥 러닝 재구성,1
+machine learning,1
+artificial neural network,1
+power demand prediction,1
+big data,1
+tensorflow,1
+이세돌,1
+CallHelper,1
+인공지능,1
+학습자 역량,1
+토포필리아,1
+AlphaGo,1
+Lee Sedol,1
+artificial intelligence(AI),1
+learner’s capability,1
+topophilia,1
+object recognition,1
