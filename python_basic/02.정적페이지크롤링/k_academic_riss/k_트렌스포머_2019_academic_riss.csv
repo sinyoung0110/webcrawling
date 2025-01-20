@@ -1,0 +1,479 @@
+keyword,count
+Transformer,15
+High voltage gain,5
+Efficiency,5
+CMOS,4
+High efficiency,4
+LLC resonant converter,4
+BERT,4
+Power amplifier,3
+Matching network,3
+Magnetic coupling,3
+EMI,3
+-,3
+Current-fed,2
+Integrated,2
+Solid-state transformer,2
+Five phase,2
+Voltage and power balance,2
+Cascaded H-bridge rectifier,2
+LDC,2
+Motor drive,2
+High-frequency bipolar buck-boost,2
+OBC,2
+Hybrid boost,2
+Multi-parameters solving,2
+RNN,2
+DCM,2
+DAB,2
+Current stress,2
+BCM,2
+Medium voltage,2
+Vector refactoring,2
+superconducting fault current limiter (SFCL),2
+variational inference,2
+Detuning factor,2
+Rotary transformer,2
+Transfer power,2
+Core saturation,2
+High voltage direct current,2
+Impedance frequency characteristics,2
+Resonance,2
+Unbalanced fault,2
+Virtual harmonic resistor,2
+Voltage-source converter,2
+${\lambda}/4$-,2
+double quench,2
+Low voltage input,2
+LC resonant converter,2
+Partial discharge,2
+Diode clamping,2
+DC/DC converter,2
+TEV,2
+third winding,2
+ICPT,2
+fault current limiting characteristics,2
+전기화재,2
+Resonant compensation,2
+Subsea,2
+Zero-current-switching (ZCS),2
+Function decoupling,2
+Passive auxiliary resonant circuit,2
+Two switch forward converter,2
+DGA,2
+PCB transformer,2
+Flyback,2
+common-mode (CM) noise,2
+Balance winding,2
+Classification,2
+ZCS,2
+Zero-voltage-switching (ZVS),2
+Dual-coupled inductor,2
+High gain,2
+Quadratic Boost converter,2
+Ripple absorption circuit,2
+Voltage multiplying unit,2
+Shared legs,2
+Phase-shift triple full-bridge,2
+Soft switched,2
+Interleaved,2
+Power quality,2
+Interaction analysis,2
+Precise unified modeling,2
+DDVS,2
+Multiple-output auxiliary power supply,2
+Stray capacitance,2
+Winding arrangement,2
+Two-transistor flyback,2
+Photovoltaic,2
+Adaptive feed-forward decoupling,2
+ZVS,2
+UPQC,2
+Inverter control,1
+Heatwave,1
+Fault analysis,1
+PV fault current,1
+3phase power flow,1
+AI sensor,1
+Power Outage,1
+Grounding System,1
+Air flow rate,1
+Motor speed,1
+Performance-base,1
+NBB(Non-Isolated Buck-Boost) converter,1
+Cascode structure,1
+회전 분무장치,1
+회전컵,1
+모터 회전 속도,1
+공기 공급률,1
+작동유체 공급률,1
+Rotary atomizer,1
+Distribution power network Linear power flow ZIP load Voltage controlled (PV) bus Linear approximation,1
+Liquid flow rate,1
+Spinning cup,1
+Transformer Space,1
+4 MW class,1
+Fire Risk Factor,1
+thermal aging,1
+보행환경 저해,1
+상무지구,1
+보행환경,1
+보행자전용도로,1
+characteristic parameters.,1
+epoxy resin impregnated paper,1
+temperature,1
+dielectric properties,1
+ATP-EMTP · Capacitor bank switching · Electrical transient · Inrush current · Restriking voltage · Transient recovery voltage,1
+Electric Fire,1
+WPTS (Wireless Power Transfer System),1
+Wireless power transfer,1
+LLC series resonant converter,1
+IPT(Inductive Power Transfer),1
+LTE,1
+Harmonic Impedance Control,1
+Power Amplifier,1
+High voltage capacitor charger,1
+Pedestrian Road,1
+Pedestrian Environment,1
+Sangmu-district,1
+Constraint of Pedestrian Environment,1
+Switch Board/Panel Board,1
+화재저항에 대한 성능기반,1
+화재위험요소,1
+배전반 및 분전반,1
+Lighting Device,1
+AC/DC Converter,1
+Filter,1
+모듈화 설계,1
+나셀,1
+풍력터빈,1
+4 MW급,1
+육상,1
+Modular design,1
+Nacelle,1
+Wind turbine,1
+Lightning,1
+Onshore,1
+Large-Scale,1
+locuteur natif,1
+Lightning Induced Overvoltage,1
+프랑스 경제부의 소송 특권,1
+Komeito,1
+Kochikai,1
+Network Diplomacy,1
+Japan’s Diplomacy,1
+의원연맹,1
+공명당,1
+고치카이,1
+네트워크 외교,1
+일본외교,1
+Hospitality,1
+Power of Bio,1
+Michel Foucault,1
+Anti-Multiculturalism,1
+Multiculturalism,1
+환대,1
+생명 권력,1
+미셸 푸코,1
+반다문화주의,1
+다문화주의,1
+affaire Galec,1
+DGCCRF,1
+action du ministre de l`Economie et sa faculte a agir,1
+ordre public economique,1
+Pratiques commerciales deloyales,1
+Galec 사건,1
+Parliamentarians’ Union,1
+기어박스,1
+유압 펌프 및 모터,1
+les contenus de la littérature française,1
+Revolution necessaire,1
+Mouvement personnaliste,1
+Jacques Ellul,1
+혁명적 기독교,1
+필요한 혁명,1
+인격주의 운동,1
+자크 엘륄,1
+le marché émotionnel,1
+Storydoing,1
+Cyrano,1
+storytelling visuel,1
+감성시장,1
+토크 미터,1
+스토리두잉,1
+시라노,1
+시각적 스토리텔링,1
+프랑스문학콘텐츠,1
+Electrical Noise,1
+Torque Measuring,1
+Torque Meter,1
+Hydraulic Pump & Motor,1
+Gearbox,1
+전기적 노이즈,1
+토크 측정,1
+프랑스 경쟁·소비자·기망행위 방지실,1
+경제적 공공질서,1
+PV Plant,1
+불공정거래행위,1
+Marine,1
+Synesthesie ‘picturale’,1
+Synesthesie,1
+Rimbaud,1
+인상주의,1
+회화,1
+바다 풍경,1
+‘회화적’ 시네스테지,1
+공감각,1
+랭보,1
+étude comarative,1
+Lithium polymer battery,1
+apprenant coréen,1
+traduction du coréen en français,1
+비교연구,1
+원어민 화자,1
+한국인 화자,1
+한불번역,1
+Directional relaying · Fault detection · Post-fault current · S-transform · Smart grids,1
+강재 파이프 서포트,1
+일반 구조용 탄소 강관,1
+영상분석,1
+Steel pipe supports,1
+Carbon steel tubes for general structural purposes,1
+Vision-based analysis,1
+Tableau,1
+Impressionnisme,1
+Christian citizenship education,1
+듀티 보상,1
+monitoring(모니터링),1
+UV-Vis spectroscopy(자외선-가시광선 광분광분석기),1
+degradation(열화),1
+insulating paper(절연지),1
+electrical insulating oil(전기절연유),1
+Contingency analysis · Contingency probability · Dynamic load fl ow Jacobian matrix · Dynamic power system simulation · Dynamic voltage stability index · Long-term voltage stability · Power system expansion planning,1
+duty compensation,1
+Load current compensation,1
+Three-level DC/DC Converter,1
+Resonant Converter,1
+Auxiliary Power Supply,1
+부하 전류 보상,1
+Citizenship education,1
+3레벨 DC/DC 컨버터,1
+공진형 컨버터,1
+보조전원장치,1
+교육신학,1
+과정신학,1
+제자도,1
+시민교육,1
+기독교 시민교육,1
+Theology of education,1
+Process theology,1
+Discipleship,1
+Three phase resonant converter,1
+Transition,1
+PDSCH Decoder,1
+Multi-winding transformer,1
+DC-DC Converter,1
+Dual active phase-shift,1
+Voltage balancing,1
+Sub–module capacitor,1
+Transformer capacity,1
+Starting current,1
+Starting method,1
+Induction motor,1
+Energy transfer efficiency,1
+BMS(Battery Management System),1
+Cell balancing techniques,1
+Solid-state transformers (SST),1
+Active cell balancing,1
+Maxwell 3D simulation,1
+Magnetics design,1
+LED-TV,1
+Automatic winding,1
+Lifetime model,1
+Electrical aging,1
+Fiber sheath,1
+Pre-training,1
+Final Diagnosis,1
+Modular multilevel converter (MMC),1
+SoC(State of Charge),1
+IEEE-693) · Cast resin transformer (CRT) · Finite element analysis (FEA) · Response spectrum analysis · Seismic shaking test,1
+DC Circuit breaker,1
+감성 분석,1
+movie review,1
+sentimental analysis,1
+Wireless charging system,1
+Two-phase resonant converter,1
+Isolation transformer,1
+Full compensation,1
+Transformer · Nanofl uid · Corn oil · Partial discharge · BDV · Lightning impulse,1
+Quench,1
+Superconductor,1
+Circuit breaker,1
+Jeju,1
+Fault current,1
+PD measurement,1
+UHF sensor,1
+Fuzzy Logic,1
+Expert System,1
+Failure Diagnosis,1
+Duval Triangle Method(DTM),1
+IEC 60599,1
+Demonstration Apartment,1
+EV,1
+Medical,1
+Earthquake safety · Seismic code (Korean,1
+챗봇,1
+Diagnostics,1
+multi-encoder architecture,1
+automatic post-editing,1
+machine translation,1
+다중 인코더 구조,1
+transformer,1
+번역문 사후 교정,1
+기계 번역,1
+Faults,1
+Defects,1
+Artifi cial intelligent,1
+Classifi cation,1
+Deep Learning(딥 러닝),1
+Neural Network,1
+Deep Learning,1
+Natural Language Processing,1
+Transfer Learning,1
+SMLT(Switch Mode Line Transformer),1
+Small size,1
+유동적 경계,1
+키네틱 스페이스,1
+트랜스포머 스페이스,1
+Fluid Border,1
+Transformer oil · Aging · Life assessment · Ultraviolet–visible spectrometer · Methanol,1
+Natural Language Processing(자연어 처리),1
+αβ frame control,1
+function block diagram,1
+${\alpha}{\beta}$ frame control,1
+sliding mode control,1
+pi-sigma fuzzy neutral network,1
+hydraulic transformer,1
+Hydraulic hybrid system,1
+Current transformers · Multiple winding · Thermal analysis,1
+Impedance matching Wireless power transfer Magnetic integration Volume reduction,1
+Dissolved gas analysis · Failure type · Fault location · Fault type · Internal inspection · Power transformer,1
+electrical,1
+insulating oil,1
+FTA,1
+Self-Attention(셀프-어텐션),1
+oil immersed transformer,1
+절연유,1
+기능적 블록 다이어그램,1
+결함수분석,1
+유입변압기,1
+Bushing · Stray load loss · Distribution transformer,1
+Design optimization HVDC Transformer Insulation Lead Lead-exit,1
+High frequency transformer · Interleaving winding · Leakage inductance · Winding loss · Frequency dependency,1
+Transformer oil Nanofluids Breakdown voltage Surfactant Sedimentation,1
+Transformer(트랜스포머),1
+영화평,1
+시퀀스 투 시퀀스,1
+LTE-A,1
+LLC converters,1
+magnetic materials,1
+Unbalanced Load,1
+Parallel inverter,1
+Active Balancer,1
+AC Electric Railway,1
+Insulation Coordination,1
+Spark Gap,1
+Arrester,1
+OBC(On-Board-Charger),1
+DC/DC converters,1
+Bidirectional resonant converters,1
+magnetic properties,1
+Sensor,1
+Insulation diagnosis,1
+Electric power apparatus,1
+센서,1
+부분방전,1
+절연 진단,1
+전력 기기,1
+Voltage balancer,1
+SST(Solid State Transformer),1
+LVDC(Low Voltage Direct Current),1
+laser-irradiated electrical steel,1
+neutron diffraction/scattering,1
+Short-circuit electromagnetic,1
+Position detection,1
+TMS320C6670,1
+DSP,1
+SDR,1
+Plasma-activated water (PAW) Underwater plasma jet Cylindrical dielectric barrier discharge (C-DBD) Bacteria Design of experiment (DOE),1
+Coil turn,1
+RLC Filer,1
+Receive current,1
+Check in-check out,1
+Relay circuit,1
+Monorail,1
+AC Electrical Railway,1
+neutron imaging,1
+Reactive Power,1
+Active Power,1
+Regenerative Power,1
+Seeker,1
+Millimeter Wave,1
+Kinetic Space,1
+Microstrip,1
+Waveguide,1
+Inline,1
+grating interferometer,1
+Bipolar DC-DC converter,1
+Power trasformer,1
+주의집중 기법,1
+GVT,1
+GTG,1
+AAC,1
+DC,1
+Q-factor,1
+Inductive link,1
+Magnetic Resonance Modeling,1
+Wireless Power Transfer,1
+Zero-sequence current,1
+Ungrounded system,1
+Single line short circuit,1
+Detector for current comparator,1
+UAT,1
+Charging current,1
+Active current,1
+Clustering,1
+Reinforcement Learning,1
+Attention Mechanism,1
+Sequence-to-Sequence,1
+Chatbot,1
+군집화,1
+강화학습,1
+트랜스포머,1
+SAT,1
+power transformer,1
+-r.,1
+friction pendulum system,1
+Mode Transformer.,1
+Chock,1
+Rotary Joint,1
+Ka-Band,1
+Millimeter Wave Seeker,1
+fragility curves,1
+incremental dynamic analysis,1
+porcelain breakage,1
+capacitor voltage transformer,1
+lightning arrester,1
+스코트 변압기,1
+pressboard,1
+불연속 변조기법,1
+추진시스템,1
+NPC 멀티레벨,1
+Scott transformer,1
+DPWM,1
+Propulsion system,1
+NPC Multi-level,1
+furanic product,1
+tracking,1
+creepage discharge,1
+Christianisme revolutionnaire,1

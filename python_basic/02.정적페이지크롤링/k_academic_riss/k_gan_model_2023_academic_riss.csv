@@ -1,0 +1,399 @@
+keyword,count
+GAN,27
+generative adversarial network,7
+Deep Learning,7
+딥러닝,7
+AI,6
+Deep learning,6
+Design,4
+deep learning,4
+LSTM,4
+CycleGAN,4
+생성적 적대 신경망,3
+DNN,3
+Generative adversarial network,3
+Efficiency,3
+Image generating AI,3
+Generative Adversarial Network,2
+이미지 변환,2
+Generative AI,2
+Generative Model,2
+Image,2
+Data Augmentation,2
+Reinforcement Learning,2
+anomaly detection,2
+인공지능,2
+synthpop,2
+variational autoencoder,2
+적대적 생성 신경망,2
+Object Detection,2
+SARIMA,2
+.,2
+SARIMAX,2
+Transformer,2
+Time-GAN,2
+pix2pix,2
+3DMM,2
+CNN,2
+시계열 데이터,2
+Image Inpainting,2
+Creativity,2
+Generative Adversarial Networks,2
+Anomaly Detection,2
+데이터 증강,2
+Credit card transaction,1
+재현 데이터,1
+U-Net,1
+신용카드 거래 데이터,1
+synthetic data,1
+변분 오토인코더,1
+time series,1
+Image generation,1
+Image synthesis,1
+Medical imaging,1
+GANDiscriminatorGeneratorOverfittingExplainable AI,1
+Residual block,1
+Instance segmentation,1
+디지털염색,1
+데이터처리,1
+컴퓨터보조진단,1
+디지털병리,1
+Creative Deep Learning,1
+3D Aware GAN,1
+Point to Mesh,1
+Generation,1
+2D to 3D,1
+Dataset synthesis,1
+Conditional GAN,1
+Feature extraction,1
+Game Development,1
+2D Sprite Animation,1
+Generative Adversarial Networks (GANs),1
+Deep learning for dental images,1
+Generative adversarial networks,1
+Impersonator Model,1
+Parking constraints,1
+sensor data within process,1
+대조 학습,1
+테이블 데이터,1
+Optical,1
+Infrared,1
+Forest fire,1
+이미지,1
+광학,1
+적외선,1
+산불,1
+거리 학습,1
+데이터 불균형,1
+generative models,1
+metric learning,1
+data augmentation,1
+contrastive learning,1
+generative adversarial nets,1
+data imbalance,1
+Standardization,1
+short-term forecasting,1
+time series analysis,1
+Composite Index of Business Indicators,1
+학습데이터,1
+생성 모델,1
+Tabular Data,1
+Training Data,1
+deep learning models,1
+Anomaly detection,1
+이상치 탐지,1
+생성적 모형,1
+딥러닝 모형,1
+공정 데이터,1
+Genetic algorithm,1
+Digital Pathology,1
+Improved arctangent function,1
+Path planning,1
+Parallel parking,1
+Low-resolution,1
+X-transfer,1
+Model Lightweight,1
+Super-Resolution,1
+Knowledge Distillation,1
+Optimization,1
+Image Augmentation,1
+Fourier Transform,1
+Artificial Intelligence,1
+데이터 보정,1
+Computer Aided Diagnostic,1
+Drug delivery,1
+Endotoxin neutralization,1
+Photothermal,1
+Neutrophil membrane,1
+GANs,1
+Multi-Modal,1
+Visual to Auditory,1
+Tensorflow,1
+Latent space,1
+Variational Auto-encoder,1
+Auto-encoder,1
+OpenCV,1
+Non-Pneumatic Tire,1
+Bone scintigraphy · Arthritis · Complex regional pain syndrome · Artificial intelligence · Image-to-image translation,1
+이상 탐지,1
+적대적 도메인 적응,1
+정보 보안,1
+Time Series Data,1
+Adversarial Domain Adaptation,1
+Information Security,1
+Pseudomonas aeruginosa,1
+Multimedia forensics,1
+Image conversion,1
+anti-forensic attacks,1
+injection molding,1
+time series data,1
+visual odometry.,1
+style transfer,1
+low-light image enhancement,1
+transformer,1
+recurrent neural network,1
+natural language processing,1
+deep learning framework,1
+open source,1
+트랜스포머,1
+순환 신경망,1
+자연어 처리,1
+프레임워크,1
+오픈소스,1
+Ghost imaging,1
+Atmospheric turbulence,1
+Stylization,1
+Style mixing,1
+Design education,1
+AI design tool,1
+Data Processing,1
+의미작용,1
+기호학,1
+AI생성예술,1
+Data augmentation,1
+Hyperparameter optimization,1
+Artificial neural network (ANN),1
+Ammonia emission amount,1
+Livestock manure,1
+Image Classification,1
+이상탐지,1
+데이터 품질,1
+단기예측,1
+다변량 시계열 데이터,1
+Data Quality,1
+Data Correction,1
+Multivariate Time-Series Data,1
+Deep neural network,1
+Turbulent boundary layer,1
+Transitional boundary layer,1
+Super-resolution reconstruction,1
+신화론,1
+창의,1
+Graphic design,1
+생성,1
+디자인 교육,1
+AI 디자인 툴,1
+그래픽 디자인,1
+생성형 AI,1
+Kospi200,1
+Stock movement prediction,1
+Smallsignal stability,1
+Voltage regulation,1
+Distributed optimal control,1
+Distributed generation,1
+Active distribution network,1
+Privacy Data Recognition.,1
+New Media,1
+Face Recognition,1
+generative,1
+creation,1
+signification,1
+mythology,1
+AI generative art,1
+표준화,1
+초해상화,1
+시계열 분석,1
+이미지 개선,1
+generation,1
+residual learning,1
+Datasheet,1
+Curve fitting,1
+Switching loss,1
+Parasitic capacitance,1
+Non-linear,1
+Gallium nitride (GaN),1
+클라우드 컴퓨팅,1
+이미지 생성,1
+Generative Adversarial Network.,1
+Cloud Computing,1
+Image Enhancement,1
+Image Generation,1
+In-situ Silicon Nitride (SiN),1
+Low-frequency noise,1
+High electron mobility transistors (HEMTs),1
+AlGaN/GaN,1
+Wallpaper Design,1
+Image Translation,1
+reconstruction,1
+voxel.,1
+Synchronous reluctance,1
+Concentrated winding,1
+Image Blending,1
+Impact Pressure,1
+Sloshing,1
+Generative Adversarial Network (GAN),1
+Convolutional Neural Network (CNN),1
+Comprehensive Cars (CompCars),1
+Voltage-second principle,1
+Critical conduction mode,1
+Feed-forward,1
+Constant on-time,1
+강화학습,1
+물리기반 시뮬레이션,1
+캐릭터 애니메이션,1
+Physics-based Simulation,1
+Character Animation,1
+design optimization,1
+airfoil design,1
+MTPA control,1
+Polynomial fitting model,1
+Cycle Generative Adversarial Networks (GAN),1
+벽지 디자인,1
+순환 생산적 적대 신경망,1
+지속학습,1
+high-resolution image generation,1
+cbam,1
+srgan,1
+rebar endpoint,1
+GaN-based Power Converter.,1
+Electromagnetic Interference,1
+CM Noise Model,1
+CM Behavioral Model,1
+3D Reconstruction,1
+Facial Landmark,1
+3D 모델링,1
+3D 재구성,1
+얼굴 랜드마크,1
+순환 적대적 생성 신경망,1
+합성곱 신경망,1
+그라운드-롤 제거,1
+Ground roll attenuation,1
+time-series data,1
+data quality,1
+yolov5,1
+평생학습,1
+MTTF,1
+GAN 인버전,1
+Lifetime,1
+HTOL,1
+ALT,1
+Life test,1
+Reliability,1
+GaN HEMT,1
+CartoonGAN,1
+AnimeGAN,1
+Background Image,1
+Webtoon,1
+Game character image,1
+Diffusion model,1
+StyleGAN2-ADA,1
+GAN (Generative Adversarial Networks),1
+latent vector,1
+GAN inversion,1
+lifelong learning,1
+continual learning,1
+잠재벡터,1
+Composite Image,1
+Numerical simulation,1
+경기종합지수,1
+TSNE(T-distributed Stochastic Neighbor Embedding),1
+Generative Data Augmentation,1
+Solar Energy Forecasting,1
+Cloud Security,1
+Data Deletion Process,1
+Identification Attack,1
+Client-Side Deduplication,1
+Cloud Storage,1
+Data Analysis,1
+Manufacturing Data,1
+FID(Frechet Inception Distance),1
+GaN,1
+MAP,1
+DCGAN(Deep Convolutional GAN),1
+PGAN(Generative Adversarial Networks),1
+이미지 인페인팅,1
+주름 및 결점 검출,1
+피부 결점,1
+얼굴 주름,1
+image inpainting,1
+wrinkles and imperfections detection,1
+Deep Learning Models,1
+Environmental Sustainability,1
+Data Insufficiency Solutions,1
+태양 에너지 예측,1
+spectrogram,1
+noise processing,1
+Baby condition analysis,1
+multiple Cycle,1
+스펙트로그램,1
+잡음 처리,1
+아기 상태 분석,1
+다중 사이클,1
+사이클적대생성망,1
+드론사진,1
+Dental prosthesis design,1
+Drone images,1
+SRGAN,1
+EDSR,1
+Super-resolution,1
+데이터 부족 솔루션,1
+환경 지속 가능성,1
+딥러닝 모델,1
+생성 데이터 증강,1
+skin imperfections,1
+facial wrinkles,1
+Walter Benjamin,1
+color edge,1
+color data preprocessing,1
+U-Net architecture,1
+denoising,1
+deformable convolution,1
+CT image,1
+U-Net 구조,1
+CT영상,1
+잡음제거,1
+변형 가능한 컨볼루션,1
+Gardeniae Fructus,1
+Artemisiae scopariae herba,1
+Schisandrae chinensis Fructus,1
+Curcumae longae Rhizoma,1
+alcohol-induced gastritis,1
+gastritis,1
+GaN nanorods · n-butanol sensor · Low operation temperature,1
+Optical and electrical characteristics,1
+Graded Al LQB,1
+AlGaN MQW UV Μled,1
+Pix2Pix,1
+neural network,1
+Smart Learning,1
+인지심리학,1
+Smartphone Photography,1
+Women Senior,1
+Self-Propelled Artillery,1
+Image Synthesis,1
+Mask R-CNN,1
+Data-Augmentation,1
+Conditional probability,1
+Normalizing flow,1
+Generative model,1
+Analogical thinking,1
+Divergent thinking,1
+Convergent thinking,1
+Information Processing Theory,1
+Cognitive Psychology,1
+Artificial intelligence,1
+유추적사고,1
+발산적사고,1
+수렴적사고,1
+정보처리이론,1
+feature selection,1

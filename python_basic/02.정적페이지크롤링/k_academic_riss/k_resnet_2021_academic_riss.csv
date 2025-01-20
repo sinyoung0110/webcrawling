@@ -1,0 +1,322 @@
+keyword,count
+Deep Learning,16
+ResNet,13
+Deep learning,11
+CNN,11
+딥러닝,11
+Classification,5
+Transfer Learning,4
+Convolutional Neural Network,4
+Convolutional neural networks,3
+deep learning,3
+Convolutional neural network,3
+Artificial intelligence,3
+AI,3
+Image classification,3
+Smart Farm,2
+Convolution Neural Network,2
+Cervical cancer,2
+Object detection,2
+딥 러닝,2
+Semantic Segmentation,2
+transfer learning,2
+VGG-16,2
+T.P.O,2
+Recommendation System,2
+EfficientNet,2
+분류,2
+ResNet-50,2
+DenseNet,2
+Residual Learning,2
+Machine learning,2
+전이학습,2
+Ninapro DB,2
+ResNet-34,2
+EMG,2
+COVID-19,2
+ResNet50,2
+Computer vision,2
+인공지능,2
+Convolutional Neural Networks,1
+Conformal Coating,1
+X-ray/CT image,1
+InceptionNet,1
+Resnet 알고리즘,1
+stacking ensemble,1
+X-ray/CT 영상,1
+Problematic Bubble,1
+Bubble Detection,1
+열흔,1
+Arc beads,1
+Fine Tuning,1
+전기 화재,1
+Molten mark,1
+스태킹 앙상블,1
+VGG,1
+단락흔,1
+Plant Diseases Classification,1
+Resnet,1
+Electric fire,1
+MIT-BIH arrhythmia 데이터베이스,1
+Tumor,1
+Breast Cancer,1
+Urinalysis,1
+Ultrasonography,1
+Lipoma,1
+Epidermal cyst,1
+Convolutional Autoencoder,1
+Adaptive Gaussian Thresholding,1
+Data augmentation,1
+Lontar manuscript,1
+Balinese character,1
+Fungal diseases,1
+Rice,1
+Histogram Equalization,1
+RetinaNet,1
+Brain Tumor,1
+Objection detection,1
+Apple detection,1
+SSD,1
+Image Discrimination,1
+X-ray,1
+Feature extraction,1
+컨볼루셔널 뉴럴 네트워크,1
+Breast Ultrasound,1
+주입기법,1
+Adabound,1
+ResNeXt,1
+Confusion Rate,1
+Similar Image,1
+혼동률,1
+유사 이미지,1
+Few-shot learning,1
+convolutional neural network,1
+classification,1
+sample selection,1
+microscopic image,1
+wood,1
+Surface defect detection (SDD),1
+Metal surface defect,1
+자동차 번호판 인식,1
+변종 악성코드,1
+영상처리 결합,1
+Computer Vision,1
+Convolutional Neural Network(CNN,1
+Machine Learning,1
+Electromagnetic Band Gap,1
+Simultaneous Switching Noise,1
+컴퓨터 비전,1
+균열 탐지,1
+표면 검사,1
+Crack Detection,1
+Deep learning(딥러닝),1
+Surface Inspection,1
+Cerebral hemorrhage prediction · Cerebrovascular disease · Explainable artificial intelligence,1
+underwater recognition.,1
+sonar analysis,1
+lofar analysis,1
+Class imbalance problem,1
+Multi-label problem,1
+합성곱 신경망),1
+Propeller(프로펠러),1
+임베디드,1
+Tribology,1
+다중 레이블 분류,1
+Skin Diseases,1
+Multi-Label Classification,1
+Computed tomography images,1
+Intracranial hemorrhage,1
+Deep-learning,1
+Cosmetics,1
+Time Series Classification,1
+Cavitation(캐비테이션),1
+Autonomous Ship,1
+Heatmap,1
+Object Detection,1
+Image Classification,1
+Finger vein recognizer,1
+Biometric authentication,1
+Erosion(침식),1
+Fashion,1
+Convergence,1
+클래스 불균형,1
+흡연,1
+Arrhythmia Detection,1
+Electrocardiogram,1
+smoke,1
+tongue surface,1
+microscope,1
+abnormal detection,1
+혓바닥,1
+이상검출,1
+다중 레이블,1
+마이크로스코프,1
+RFB,1
+Lightening,1
+Embedded,1
+Image processing combination,1
+License plate recognition,1
+경량화,1
+심전도,1
+부정맥 검출,1
+augmented reality,1
+CycleGAN,1
+패션,1
+융합,1
+GIS,1
+지표,1
+인구고령화,1
+고령친화도시,1
+Euclidean distance,1
+Laplacian variance,1
+Radiomics,1
+OCR,1
+PCB Inspection,1
+Coreset,1
+3D model,1
+texture,1
+normalization,1
+Attention Model,1
+Deep Learning Model Parameter Quantization,1
+Monocular camera,1
+동작 인식,1
+의미론적 분할,1
+합성곱 신경망(CNN),1
+classification CNN,1
+Butterfly,1
+ButterflyNet,1
+Indian butterfly identification,1
+운전자의 주의 분산,1
+영상분할 및 인식,1
+운전자의 동작,1
+CAM,1
+ResNet-101,1
+Behavior Recognition,1
+Driver’s Distraction,1
+Driver’s Behavior,1
+자동차 번호판,1
+Convolution Neural Network(CNN),1
+횡단보도 검출,1
+Wrist,1
+객체 감지,1
+기계학습,1
+computer,1
+Neural networks,1
+bone,1
+Fractures,1
+SVM,1
+License Plate,1
+EEG,1
+CWT,1
+BCI,1
+신경망,1
+스마트팜,1
+Image Segmentation and Recognition,1
+신경 네트워크,1
+시맨틱 분할,1
+Tracking system,1
+Residual Connection,1
+Raman Spectrum,1
+Autoencoder,1
+PCA,1
+Data Compression,1
+Degradation,1
+Variational Scaling,1
+Ensemble Learning,1
+Region of Interest,1
+Tranfer Learning,1
+Variational AutoEncoder,1
+Malware Classification,1
+Variant Malware,1
+앙상블 학습,1
+변이 오토인코더,1
+Peak Detection,1
+Raman Spectroscopy,1
+Neural Network,1
+Weeds classification,1
+Zebra-crossing Detection,1
+Traffic Speed Prediction,1
+교통 속도 예측,1
+전이 학습,1
+잔차 학습,1
+합성곱 신경망,1
+He initialization,1
+가중치 초기화,1
+Glorot initialization,1
+Weights initialization,1
+잡초 분류,1
+컨볼루션 신경망 네트워크,1
+He 초기화,1
+Glorot 초기화,1
+마스크 감지,1
+코로나바이러스-19,1
+Mask detection,1
+Metadata,1
+뉴럴 네트워크,1
+메모리 대역폭,1
+아키텍처,1
+CNN 가속기,1
+· Mechanical drawings · Image analysis · Object detection · Image recognition · Deep learning models · Evaluation metrics,1
+Voice Recognition,1
+Audio,1
+architecture,1
+Support Vector Network,1
+Papanicolaou Test,1
+Nerve Net,1
+Diagnosis,1
+Cervix Uteri,1
+Farm waste collection,1
+CNN accelerators,1
+memory bandwidth,1
+Histopathology images,1
+Sense of Color,1
+Accuracy,1
+Hand Gesture Recognition,1
+Reference Voluntary Contraction,1
+Multimodal Learning,1
+Hand Gesture Classification,1
+Two-stage learning,1
+Sentiment Analysis of Image,1
+neural networks,1
+이-단계 학습,1
+색감,1
+이미지 감성분류,1
+Lightweight model,1
+Weight compression,1
+악성코드 분류,1
+Transfer-learning,1
+Restaurant,1
+Sentiment Analysis,1
+공연예술,1
+Dry storage canisters,1
+Corrosion,1
+Box Office Prediction,1
+Performing Arts,1
+Inception-v3,1
+흥행 예측,1
+region of interest,1
+Artificial Intelligence,1
+LIME,1
+Textile design,1
+관심 영역 도출,1
+텍스타일 디자인 분류,1
+CAD,1
+Digital Pathology,1
+Feature detection,1
+Residual neural networks,1
+Deep Neural Networks,1
+Smart Factory,1
+Armored Fighting Vehicle,1
+Histogram equalization,1
+bird breed recognition,1
+web crawling,1
+ImageNet,1
+Structure Reduction,1
+Pruning,1
+Knowledge Distillation,1
+CIFAR10/100,1
+ResNet56/110,1
+추천 시스템,1
+감성 분석,1
+외식업체,1
+피부 질환,1

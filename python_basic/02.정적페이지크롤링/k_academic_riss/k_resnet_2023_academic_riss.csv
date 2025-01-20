@@ -1,0 +1,465 @@
+keyword,count
+딥러닝,18
+Deep learning,17
+ResNet,16
+Deep Learning,16
+CNN,12
+ResNet50,9
+Classification,8
+.,6
+deep learning,6
+Transfer Learning,5
+이미지 분류,5
+Machine learning,4
+Xception,4
+데이터 증강,4
+Image Classification,4
+Data Augmentation,4
+Artificial intelligence,4
+전이 학습,3
+VGG16,3
+Vision Transformer,3
+Image classification,3
+Resnet50,3
+CCTV,3
+deep neural network,3
+합성곱 신경망,3
+Vgg16,2
+CADx,2
+Quality control,2
+CRNN,2
+기계학습,2
+딥러닝 모델,2
+Computer Vision,2
+high-level synthesis,2
+deep  learning,2
+FPGA,2
+ResNet-50,2
+X-ray,2
+ResNet34,2
+Convolution Neural Network,2
+Transfer learning,2
+전이학습,2
+VGG19,2
+의미론적 영상 분할,2
+Object detection,2
+data augmentation,2
+Image processing,2
+InceptionV3,2
+FarmMap,2
+AI,2
+Googlenet,2
+1D-CNN,2
+Swin Transformer,2
+parallel model,2
+ImageNet,2
+Convolutional neural network,2
+Stroke,2
+Chest X-ray,2
+Machine Learning,2
+Pneumonia detection,2
+convolutional neural network,2
+머신러닝,2
+Semantic Segmentation,2
+XGBoost,2
+AlexNet,2
+자세 분류,1
+AAPM CT phantom,1
+Deep Convolutional Neural Network,1
+Convolutional Neural Network,1
+Pose Estimation,1
+Quantitative evaluation,1
+Animal Classification,1
+CT,1
+Infrared camera,1
+Res Net 101,1
+Image recognition,1
+Squeeze Net,1
+Breast cancer,1
+Trustworthiness,1
+이미지 분할,1
+Grad-CAM,1
+유방암,1
+segmentation,1
+parallel processing,1
+partitioning,1
+Temporal smoothing,1
+GAN,1
+Denim Defect Detection,1
+Cascading Feature Extraction Architecture,1
+Biometric Identification,1
+Black Bengal Goat,1
+Goat Identification,1
+Deep learning · Artificial intelligence · Radiography · Skull fractures · Traumatic brain injury,1
+Tilt correction,1
+심층 합성곱 신경망,1
+Iris Image,1
+Iris Pattern Matching,1
+Human pose estimation,1
+deep-learning compiler,1
+Postural imbalance detection,1
+Gait analysis,1
+XAI,1
+Deep learning · PET/CT · Maximum intensity projection · Convolutional neural network · FDG,1
+X-ray Image,1
+ResNet50V2,1
+agricultural  land,1
+LabVIEW,1
+입술 특징추출,1
+Smart fish farm,1
+· Deep reinforcement learning · Dual-experience pool · Unbalanced data · Rolling bearing · Fault diagnosis,1
+데이터 재사용,1
+CNN 가속기,1
+Robustness,1
+CNN acceleration,1
+Convolution Neural Networks,1
+Lips Feature Extraction,1
+Correlation Filter,1
+Object Tracking,1
+YOLO,1
+동물 분류,1
+Product Display,1
+Plan-o-gram,1
+상품 전시,1
+Automatic detection,1
+Deep neural network,1
+뇌졸중 진단,1
+헬스케어,1
+Web Framework,1
+Fireblight,1
+Image classificationActivation functionDeep neural networkAccuracyTime complexity,1
+Flooded Road,1
+Health Care,1
+웹 프레임워크,1
+X-선 이미지,1
+Allium seed coat deep learning image recognition seed coat sculpture,1
+Facial Expression Recognition,1
+Biomedical,1
+Synchrotron Radiation Imaging,1
+endoscopic image,1
+Intermediate Feature,1
+Artificial Intelligence,1
+artificial intelligence,1
+Gastric Diagnosis,1
+data reuse,1
+유아 행동 인식,1
+Class Activation Map,1
+precipitation forecast,1
+차량단말기,1
+인공지능,1
+상황분류,1
+검지,1
+돌발상황,1
+고속도로,1
+Vehicle terminal,1
+Scene classification,1
+Detection,1
+Emergency situations,1
+Highway,1
+stock forecast,1
+optimization,1
+DenseNet,1
+WideResnet50,1
+Inception V3,1
+DenseNet 121,1
+ResNet 50,1
+VGG-16,1
+Melanoma,1
+Skin Cancer,1
+흑색종,1
+피부암,1
+UAV,1
+Regional climate · Indian monsoon · Climate change · Deep learning,1
+first-order optimization,1
+DBSCAN,1
+건물 탐지,1
+Distinguisher,1
+Neural Cryptanalysis,1
+Related-key Attack,1
+Maritime monitoring · Optical satellite imagery · CNN · Remote sensing · Marine traffic,1
+Textile,1
+Defect inspection,1
+Multi Class,1
+섬유,1
+결함 검사,1
+다중 클래스,1
+모델 가중치,1
+의미론적 분할,1
+gradient descent,1
+Weight of the Model,1
+Building Detection,1
+Domain adversarial neural network,1
+Deep residual network,1
+Health status assessment,1
+Text Detection,1
+Segmentation,1
+Hangul Font,1
+Deep-Learning,1
+radio frequency fingerprint identification,1
+compressed sensing,1
+FMCW radar,1
+machine learning,1
+Random Erasing,1
+Automated pavement monitoring system,1
+폐렴 감지,1
+Chest x-ray,1
+Pneumonia,1
+Medical diagnosis,1
+음식 이미지 분류,1
+Food Image Classification,1
+Convergence speed,1
+Accuracy consistency,1
+Prediction stability,1
+CenterNet,1
+Inverse perspective mapping,1
+DNN,1
+Deep learning models,1
+Pavement patch detection,1
+Malignant Tumor,1
+Lung cancer,1
+Cancer Diagnosis,1
+항공영상,1
+팜맵,1
+농경지,1
+Aviation Image,1
+Agricultural Land,1
+Periodontitis,1
+Generalization,1
+흉부 엑스레이,1
+Weld quality,1
+anti-caner leaf lettuce,1
+model compression,1
+hydroponic conditions,1
+Factory facility,1
+Abnormality diagnosis,1
+Thermal imaging,1
+Transformer,1
+상관관계 학습,1
+트랜스포머,1
+모델 압축,1
+지식 증류,1
+correlation learning,1
+transformer,1
+Knowledge distillation,1
+Weld appearance,1
+Feature Importance,1
+Data Labeling,1
+Pine Tree,1
+weight redistribution,1
+pipe leak detection,1
+ensemble,1
+multi-mode feature fusion,1
+Residual network,1
+Pattern recognition,1
+Distributed fiber optic vibration sensing,1
+CNN (Convolution Neural Network),1
+U-net,1
+Pretrained,1
+CycleGAN,1
+실험 구성,1
+Swin,1
+Resnet,1
+Backbone networks,1
+Deep neural networks,1
+Pedestrian attribute recognition,1
+UNet,1
+Semantic building segmentation,1
+Factory automation,1
+Template Matching,1
+Defect detection,1
+공장 자동화,1
+템플릿 매칭,1
+결함 탐지,1
+이미지 딥러닝,1
+소재 분류,1
+의류 텍스타일,1
+Image Deep Learning,1
+Material Classification,1
+Clothing Textile,1
+Convolutional neural network (CNN),1
+Shipping noise,1
+Underwater acoustics,1
+VoxCeleb1,1
+명함,1
+이미지 회전,1
+인공 신경망,1
+조적벽체,1
+HSV,1
+Urinary Calculi,1
+Urolithiasis,1
+Vehicle Make and Model Classification,1
+Object Detection,1
+Vehicle Damage,1
+차량 제작 및 모델 분류,1
+객체 탐지,1
+차량 손상,1
+결함 인식,1
+3D 레이저 스캐너,1
+스마트 프린팅 시스템,1
+MEMS 라이다,1
+심층학습,1
+Defect Classification,1
+Masonry Wall,1
+3D Laser Scanner,1
+MEMS LiDAR,1
+smart printing system,1
+artificial neural networks,1
+image rotation,1
+business cards,1
+AI Fairness,1
+Biased dataset,1
+Speaker Identification,1
+Swin Trans- former,1
+generation,1
+residual learning,1
+generative adversarial network,1
+variational autoencoder,1
+SVM,1
+Jamming,1
+GNSS,1
+Wheat,1
+Variety,1
+Image Processing,1
+Medical image segmentation,1
+voxel.,1
+Residual block,1
+Trainable parameter,1
+Chest X-ray image,1
+Residual 블록,1
+학습 가능 파라미터,1
+폐렴 진단,1
+흉부 X선 영상,1
+video input,1
+Children behavior recognition,1
+영상신호,1
+reconstruction,1
+Cyber security,1
+전복 사고,1
+gastric lesion,1
+어선,1
+deep learning model,1
+capsizing accident,1
+fishing boat,1
+레티나넷,1
+검출,1
+위 병변,1
+위내시경 영상,1
+RetinaNet,1
+detection,1
+Gastroscopy image,1
+Malicious attacks,1
+VGG,1
+Facial age estimation,1
+Reversible Visible Watermarking,1
+Perceptual Hashing,1
+Multipurpose Watermarking,1
+Deep Residual Network,1
+Wrapper stepwise ResNet,1
+Hierarchical network feature extraction,1
+banking sector,1
+Cyber-physical systems,1
+RGB,1
+Ripe degree,1
+Color,1
+이미지 처리,1
+Smart tourism,1
+모바일 애플리케이션,1
+위치 기반 서비스,1
+스마트 투어,1
+Big data,1
+Manufacturing data,1
+Smart factory,1
+빅데이터,1
+제조 데이터,1
+스마트 공장,1
+저수지,1
+Mobile applications,1
+수위 인식,1
+Reservoir,1
+Water level recognition,1
+CNN network layer,1
+pre-trained models,1
+road flooding detection,1
+road flooding prediction,1
+Keypoint detection,1
+Deep-learning,1
+Ultrasound,1
+Location-based services,1
+Scoliosis,1
+특징점 검,1
+랜덤워크 위치 인코딩,1
+모델 훈련,1
+양자화,1
+사물인터넷,1
+Experimental Configuration,1
+Model Training,1
+Quantization,1
+Internet of Things,1
+Randomwalk positional encoding,1
+Apple Quality Classification,1
+Graph representation learning,1
+사과 품질 분류,1
+Deep learning model,1
+그래프 표현 학습,1
+딥 러닝,1
+비용,1
+준지도 학습,1
+선로 체결 장치,1
+Cost,1
+Semi-supervised,1
+Fastener,1
+Data augmentation,1
+Preprocessed image,1
+Developmental Dysplasia of Hip (DDH),1
+초음파,1
+Noise cancellation,1
+Computed tomography,1
+Artwork Classification,1
+미세 조정,1
+예술 작품 아티스트 분류,1
+컴퓨터 비전,1
+Short-circuit,1
+Electric fire,1
+MobileNet,1
+Time series image data,1
+CNN-based product recommendation model,1
+ACR phantom,1
+ResNet18,1
+1차 단락흔,1
+정도관리,1
+ACR 팬텀,1
+컴퓨터단층촬영,1
+water  level,1
+CAM,1
+Self-attention,1
+Pixel correlation module,1
+Weak supervision,1
+Siamese network,1
+Self-supervised equivariant attention,1
+Fine-tuning,1
+2차 단락흔,1
+영유아 고관절 이형성증,1
+plant growth,1
+Compiler,1
+Nueral processing unit,1
+Computerized Tomography Data,1
+Optimization,1
+Medical image,1
+식물 생장,1
+수직농장,1
+상추이미지,1
+vertical farming,1
+transfer learning,1
+lettuce imaging,1
+열흔,1
+Paddy field monitoring,1
+Classification model,1
+Rice heading date,1
+Knowledge Distillation,1
+ArcFace,1
+Face Recognition,1
+Molten mark Inception v3,1
+Secondary Arc-bead,1
+Primary Arc-bead,1
+Inception v3,1
+Lightweight Block Ciphers,1

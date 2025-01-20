@@ -1,0 +1,498 @@
+keyword,count
+Deep learning,17
+Deep Learning,16
+CNN,15
+ResNet,14
+딥러닝,13
+ResNet50,9
+Image Classification,8
+Classification,8
+합성곱 신경망,6
+deep learning,6
+Image classification,6
+Artificial Intelligence,5
+YOLOv8,4
+convolutional neural network,4
+인공지능,4
+.,4
+ResNet-50,4
+Artificial intelligence,4
+Object Detection,3
+이미지 분류,3
+Computer vision,3
+GAN,3
+Convolutional Neural Networks,3
+Transfer Learning,3
+Convolutional neural networks,3
+Data Augmentation,3
+LSTM,3
+Transformer,3
+F1 score,2
+Separable Vision Transformer,2
+GRU,2
+GridCV,2
+Vision Transformer,2
+3D-CNN,2
+스마트 농업,2
+작물 질병 진단,2
+욜로v8,2
+레스넷50,2
+딥러닝 모델 비교,2
+Deep Learning Model Comparison,2
+Smart Agriculture,2
+Crop Disease Diagnosis,2
+COVID medicine development,2
+Neural Network,2
+Convolutional Neural Network,2
+Bone density,2
+CNN (convolutional neural network),2
+Dental implant,2
+Dental radiography,2
+Convolutional Neural Network (CNN),2
+Resnet,2
+Lightweight,2
+Cu-Cu Bonding,2
+전이 학습,2
+YOLOv5,2
+SERN,2
+Convolution Neural Network,2
+SIFT,2
+transfer learning,2
+정확도,2
+전이학습,2
+Sentence BERT,2
+Chest X-ray image,2
+EfficientNet,2
+Attention-Enhanced ResNet,2
+Defect Map,2
+BM25,2
+Defect Detection,2
+Transfer learning,2
+Speaker recognition,2
+Deep Neural Networks,2
+데이터 증강,2
+Inceptionv3,1
+Depthwise Separable Convolution,1
+multi-label,1
+Plant Health State Classification,1
+unknown disease recognition,1
+plant disease recognition,1
+Convolutional neural networks · Positron emission tomography · 2-[18F]FDG PET/CT · Pulmonary nodules · Artificial intelligence,1
+adverse medicine reactions,1
+Automatic Recognition,1
+chemical three-dimensional conformers,1
+AI,1
+Guided Wave,1
+Structural Health Monitoring,1
+객체검출,1
+심층학습,1
+유도초음파,1
+구조 진단,1
+Plant Protection,1
+Crop Leaf Disease Identification,1
+Hearing Impaired,1
+Agricultural Artificial Intelligence,1
+Image Recognition,1
+Human Posture,1
+Physical Education Teaching,1
+negative medicine reactions,1
+Auto People Counter,1
+Victims,1
+Filter Pruning,1
+Disaster-vulnerable Facilities,1
+영상인식,1
+ResNet.,1
+Channel-wise Attention,1
+Arabic Sign Language,1
+자동계수기,1
+요구조자,1
+재난취약시설,1
+transfer-learning,1
+Dental age estimation,1
+악성코드,1
+Gene Expression by Rules,1
+Evolutionary Computation,1
+Eye,1
+Orchid species · Classifcation model · Feature fusion · ResNet34,1
+패션 카테고리,1
+욜로 버전 8,1
+레즈넷50,1
+오버샘플링,1
+컨볼루션 신경망,1
+Fashion category,1
+Oversampling,1
+XGBoost classifier,1
+Performance evaluation,1
+Feature extraction and concatenation,1
+Breast cancer classification,1
+Driver abnormal behavior,1
+Road traffic,1
+운전자 이상행동,1
+도로 교통,1
+Imbalanced data,1
+Speech classification,1
+Time-frequency transformation,1
+WGAN-GP,1
+Audio augmentation,1
+Strawberry Maturity,1
+RoI Align,1
+Faster R-CNN,1
+Optical coherence tomography,1
+Multi-dimensional,1
+Histological,1
+DenseNet201,1
+Multilayers Multi-elements System,1
+wavelet transform,1
+fault diagnosis,1
+on-board charger,1
+Sharpness-Aware Minimization,1
+유형 분류 기법,1
+깊이 분리 합성곱,1
+SharpnessAware Minimization,1
+Classification Method,1
+Malware,1
+Vegetables,1
+Convolutional neural network,1
+Prostate Cancer,1
+Confusion matrix,1
+autonomous driving,1
+image classification,1
+woodscape dataset,1
+soiling detection,1
+Medical diagnosis,1
+Automated identification,1
+Chest X-ray classification,1
+Machine learning models,1
+COVID-19 pandemic,1
+Ensemble Deep Transfer Learning,1
+채널 어텐션,1
+특허 도면,1
+작물 건강 상태 분류,1
+Model fusion,1
+XAI,1
+Disease,1
+Time Series Forecasting,1
+Time Series Data Analysis,1
+Fruit stem detection,1
+3D Object detection,1
+Digital agriculture,1
+과수 꼭지 검출,1
+3D 객체 검출,1
+디지털 농업,1
+Cancer · Medical segmentation · Histology · Convolutional neural networks · Augmentation,1
+Neural network,1
+문장 분류,1
+모델 합성,1
+이미지 인식,1
+인공신경망,1
+feature pyramid network,1
+bi-directional pyramid,1
+attention mechanism,1
+neural network,1
+fire detection,1
+Wafer Edge Defect,1
+Auto Defect Classification,1
+Image Processing,1
+head gesture,1
+human-robot interaction.,1
+remote sensing,1
+attention,1
+Inception Network(인셉션 네트워크),1
+XAI(설명 가능한 인공지능),1
+AI(인공지능),1
+Image Classification(이미지 분류),1
+Deep Learning(딥러닝),1
+Convolution Neural Network (CNN),1
+Magnetic Resonance Imaging (MRI),1
+Alzheimer's disease (AD),1
+vital signs,1
+pediatric intensive care unit,1
+patient monitoring,1
+machine learning,1
+heart rate,1
+conscious sedation,1
+Crack classification,1
+Benchmark study,1
+Pavement cracks,1
+Inception,1
+영상 분할,1
+어텐션,1
+원격 감지,1
+inception,1
+image segmentation,1
+Clothing Attribute Classification,1
+Fashion Image,1
+의류 속성 분류,1
+Real-Time Fire Detection,1
+Transfer Learning Model,1
+Layer Importance Evaluation,1
+기여도,1
+실시간 화재 감지,1
+합성곱 신경망 최적화,1
+Hand Gesture Classification,1
+레이어 중요도 평가,1
+deap learning,1
+Multiple features,1
+driver behavior features,1
+drowsiness detection,1
+다중 특징,1
+운전자 행동 특징,1
+졸음 인식,1
+균열 검출,1
+데이터셋,1
+모션블러,1
+Crack detection,1
+Dataset,1
+Motion blur,1
+Sentence similarity,1
+Sentence classification,1
+문장 유사도,1
+CNN Optimization,1
+Contribution,1
+패션 이미지,1
+신발 스타일 분류,1
+DenseNet,1
+Few-Shot,1
+Smart Farm,1
+UAV,1
+FMCW Radar,1
+DBSCAN,1
+U-Net,1
+Multi class semantic segmentation,1
+Crimp harness inspection,1
+Wire harness,1
+Deep learning model,1
+Composite modulated radar signal,1
+Radar signal modulation identification,1
+Multi-label classification,1
+Unmanned aerial vehicle,1
+Ground surface,1
+Automated construction equipment,1
+ConvNeXt,1
+Shoes Upper,1
+Shoes Outsole,1
+Shoes Style Classification,1
+신발 갑피,1
+신발 아웃솔,1
+전이 학습 모델,1
+Deep Neural Network,1
+Video Classification,1
+Deep-learning,1
+lightweight deep learning,1
+embedding environment,1
+X-rays,1
+Spine,1
+Osteoporosis,1
+Lumbar vertebrae,1
+Inference time,1
+Pruning,1
+Network compression,1
+Object detection,1
+Spectogram,1
+violence detection,1
+MobileFaceNet,1
+video processing,1
+deep transfer learning,1
+Concrete Crack,1
+Implant system,1
+Wildfire Detection,1
+산불 감지,1
+AI 학습 데이터,1
+이상행동 탐지,1
+AI Learning Data,1
+Anomaly Detection,1
+Generative Adversarial Network,1
+face recognition,1
+자궁경부암,1
+Quarantine,1
+Electrocardiography,1
+LLVM IR,1
+ResNet18,1
+Illegal parking,1
+Self-supervised learning,1
+Contrastive learning,1
+Radiography,1
+Periodontitis,1
+Molar,1
+Mandible,1
+Probability Learning,1
+Mobile Applications,1
+Atrial Fibrillation,1
+생존 예측 모델,1
+공중표적,1
+드론,1
+Aerial targets,1
+Drones,1
+Machine Learning,1
+Cox Proportional Hazards,1
+Survival Prediction Model,1
+Cervical Cancer,1
+심층 신경망,1
+기계 학습,1
+콕스 비례 위험,1
+Korean Menu,1
+Attention Mechanism,1
+Text Recognition,1
+레즈넷-트랜스포머,1
+실내와 실외,1
+가상 공간,1
+Immersive,1
+Accuracy,1
+Indoor and Outdoor,1
+Virtual Space,1
+Rangking algorithm,1
+Website search,1
+ResNet-Transformer,1
+랭킹 알고리즘,1
+웹사이트 검색,1
+트랜스포머,1
+OCR(Optical Character Recognition),1
+레즈넷,1
+Image analysis,1
+White blood cells,1
+이미지 분석,1
+백혈구,1
+similarity Comparison,1
+classification and retrieval,1
+binary images,1
+Patent drawings,1
+유사도 비교,1
+분류 및 검색,1
+몰입감,1
+Speech Emotion Recognition,1
+Sleep apnea,1
+Polysomnography,1
+Online to Offline(O2O),1
+Large Waste,1
+Image Similarity,1
+Quantitative analysis,1
+ResNet model,1
+Interpolation techniques,1
+Nuclear medicine,1
+정량분석,1
+ResNet모델,1
+보간법,1
+핵의학,1
+Residual block,1
+VAE,1
+3D object generation,1
+Mesh,1
+Voxel,1
+Deep Model,1
+객체 감지,1
+Inference Runtime,1
+딥 모델,1
+ONNX,1
+MFCC,1
+Sleep sound,1
+Image based,1
+Malware Detection,1
+ResNet50V2,1
+영역 분할,1
+비트 연산,1
+파라미터,1
+딥 뉴럴 네트워크,1
+Pediatric Medical Treatment,1
+Eye Movement Detection,1
+Pain Recognition,1
+Virtual Reality,1
+합성곱 신경망 모델,1
+생체 정보,1
+인공지능 학습,1
+감지,1
+Biometric Information,1
+image denoising,1
+Artificial Intelligence Learning,1
+Detection,1
+Segmentation,1
+Video analysis,1
+Action recognition,1
+Telemedicine,1
+Pharyngitis,1
+Diagnosis,1
+Pneumonia detection,1
+Vision transformer,1
+흉부 X-선 영상,1
+강인성,1
+이진 이미지,1
+parameters,1
+bit-wise operations,1
+Deep Learning Models,1
+Pear Pests and Diseases,1
+검역,1
+딥러닝 모델,1
+배 병해충,1
+Flow Volume Loops,1
+Pulmonary Disease,1
+Ensemble Deep Learning Model,1
+볼륨-플로우 그래프,1
+폐질환,1
+앙상블 딥러닝 모델,1
+Feature Fusion,1
+Multimodal,1
+Biometrics,1
+특징 융합,1
+멀티모달,1
+생체 인식,1
+satellite imagery,1
+ResNeXt101,1
+oriented object detection,1
+box-boundary-aware vector,1
+robustness,1
+accuracy,1
+폐렴 진단,1
+dRED-TL-GAN,1
+Blind Spot Detection,1
+selection.,1
+Deep learning algorithm,1
+Computer Automated Diagnostics,1
+영상 병변 탐지,1
+영상 구분,1
+초음파 영상,1
+딥러닝 알고리즘,1
+컴퓨터 자동 진단,1
+Performance analysis,1
+Edge device,1
+Inference,1
+Deep learning accelerator,1
+sorting,1
+deformable convolution,1
+thresholding,1
+Semi-supervised,1
+Rail surface,1
+Model Parameter Quantization,1
+Vehicle Detection,1
+Automotive Safety,1
+Energy Efficiency,1
+ResNet-18,1
+FPGA,1
+Deep Learning Accelerator,1
+Advanced Driver Assistance Systems,1
+Ultrasound  image,1
+Image Lesion Detection,1
+artificial intelligence,1
+ocular diseases,1
+deformable 컨볼루션,1
+잡음제거,1
+shifted window transformer,1
+vision transformers,1
+visual geometry group-16,1
+residual network 50,1
+image captioning,1
+Non-volatile memory,1
+accelerator optimization,1
+IMC,1
+Design space exploration,1
+Examination Error,1
+Medical Image,1
+검사 오류,1
+영상 분류,1
+의료 영상,1
+in vitro fertilization,1
+embryo,1
+convolutional neural networks,1
+blastocyst,1
+시스템,1
+안구 질환,1
+system,1
+LIME Algorithm(라임 알고리즘),1

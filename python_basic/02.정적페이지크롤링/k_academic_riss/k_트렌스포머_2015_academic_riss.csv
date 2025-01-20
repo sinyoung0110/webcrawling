@@ -1,0 +1,516 @@
+keyword,count
+Transformer,11
+transformer,7
+CMOS,5
+Interleaved PWM,5
+Leakage current,4
+Partial discharge,4
+Finite element method,4
+DC-DC Converter,3
+Baluns,3
+Coupled circuits,3
+Passives devices,3
+Transformers,3
+Protection,3
+SFCL,3
+Fuel cell,3
+High Frequency Transformer,3
+DG interconnection,3
+Coupled analysis,3
+Parallel operation,3
+Overvoltage,3
+Coupled inductor,3
+DC-DC converter,3
+Full-bridge,3
+qZ-Source,3
+U-band,3
+transmission line,3
+Buck-boost converter,3
+Resonators,3
+Class D inverter,3
+Tapped inductor,3
+Isolated switched-capacitor cell,3
+Phase-shift full-bridge converter,3
+Electric vehicle,3
+Battery charger,3
+Output ripple,3
+Wireless Power Transfer,3
+Power transformer,3
+Capacitive Coupling Power Transfer,3
+Single ended,3
+Photovoltaic (PV),3
+Interleaved flyback inverter (ILFI),3
+Dual-mode,3
+Discontinuous conduction mode (DCM),3
+Current sensorless MPPT,3
+Boundary conduction mode (BCM),3
+High step-up,3
+Z-source inverter,2
+High temperature superconducting materials,2
+superconducting fault current limiter,2
+Non-isolated topology,2
+Photovoltaic power system,2
+Photovoltaic,2
+Pulse width modulation,2
+Common-mode voltage,2
+Power loss,2
+transform,2
+Grid-connected inverter,2
+voltage controlled oscillator(VCO),2
+superconducting power transformer,2
+Voltage feed-forward control,2
+Inter-harmonics oscillation,2
+Series transformer,2
+Active power filter,2
+변압기,2
+Initial fault current,2
+Superconducting element,2
+Flux-offset type FCL,2
+superconducting power cable,2
+Topology,2
+superconducting magnetic energy storage,2
+Switched-capacitor,2
+UHV,2
+Surge arrester,2
+TOV,2
+VFTO,2
+High Frequency,2
+Magnetic Couple,2
+Wide Range of Duty Cycle,2
+Parallel three-level converter,2
+Flying capacitor,2
+ZVS converter,2
+6.78Mz,2
+XLPE,2
+Controlled current mirror,2
+DC power supply circuit,2
+TRIAC dimming control,2
+Variable switched capacitance,2
+h&eacute,2
+Insulation coordination,2
+High step-up converter,2
+Test temperatures,2
+Input current doubler,2
+Oil-paper insulation system,2
+Time temperature shift technique,2
+Classification,2
+Common-mode,2
+Efficiency,2
+Grid,2
+Inverter,2
+Leakage Current,2
+PWM,2
+Transformerless,2
+Charger,2
+FHA,2
+LLC,2
+Resonant converter,2
+Voltage sag,2
+PWM converters,2
+Switching mode power supplies,2
+Cooling performance,2
+PV Inverter,2
+Pyrolysis,2
+RLC model,2
+Thin-film transmission line,2
+DC bias transformer vibration,2
+Electromagnetic-structural force field coupling,2
+Displacement,2
+Multi-physical field simulation in COMSOL,2
+WLAN,2
+Air gap,2
+PD localization,2
+Current transformer,2
+Ferrite devices,2
+Electromotive force,2
+Mineral oil,2
+Kinematic viscosity,2
+Power amplifier,2
+integrated circuit,2
+Relative permittivity,2
+Dielectric strength,2
+RBDPO,2
+Nonlinearity,2
+Microstrip line/coplanar waveguide (ML/CPW) composite structure,2
+Silicon,2
+Impedance transformer,2
+Short circuit forces,2
+Temperature,2
+Microcontroller,2
+Etch rate,2
+Distribution transformers,2
+Transformer coupled toroidal plasma,2
+Power transformers,2
+Heat sensor,2
+Oxidative stability,2
+Eco-friendly oil,2
+Anti-oxidants,2
+Wavelet transform,2
+CFD,2
+Energy losses,2
+Technical losses,2
+Locus of current,2
+Interturn faults,2
+Neutral gas temperature,2
+RFIC,2
+Sweep frequency response analysis,2
+Transient structural analysis,2
+Model ice effective elastic modulus and flexural strength(모형빙 유효탄성계수와 굽힘강성),1
+Nonlnear FEA(비선형 유한요소해석),1
+집단창작,1
+Eroding(소멸),1
+induced current measurement system,1
+geomagnetically induced current (GIC),1
+geomagnetic storm,1
+transmedia,1
+prosumer,1
+collective creativity,1
+storytelling,1
+world expansion,1
+hybrid culture,1
+트랜스미디어,1
+프로슈머,1
+KRISO Ice basin(크리소 빙해수조),1
+스토리텔링,1
+세계관 확장,1
+Plate characteristic length(특성길이),1
+HEVC,1
+finite element analysis,1
+Photo voltaic,1
+CNT Flat Light Source,1
+Eco-Transformer Design,1
+Fusion of Product Design,1
+Fusion of Urban Space,1
+Ground Connection Test,1
+Fault Locator,1
+Common Feeder,1
+Automatic Switching System,1
+ALTDS,1
+Power quality,1
+pavement instrumentation,1
+Voltage source inverter,1
+Fuzzy logic,1
+Total harmonic distortion,1
+Neutral current,1
+78Mz,1
+6,1
+Distribution transformer loss.,1
+MOSFET’s Driver,1
+MOSFET's Driver,1
+High Voltage Converter,1
+LLC Resonant Half Bridge,1
+Multiply Rectifier,1
+포워딩업체,1
+stress analysis,1
+full-scale HVS testing,1
+rigid pavements,1
+internally cured concrete slab,1
+Capacitor,1
+Harmonics of fluence and measure,1
+Harmonics standard,1
+하이브리드 문화,1
+UHF,1
+Wide Band,1
+Narrow Band,1
+Partial Discharge,1
+SF6-Filled Switchgear,1
+DEA-BCC,1
+DEA-CCR,1
+operational efficiency,1
+SBM-DEA,1
+forwarding company,1
+운영효율성,1
+Harmonics,1
+생활세계의 식민지화,1
+복지국가,1
+des photom&eacute,1
+métropole,1
+CGET,1
+réforme de l’organisation,1
+région,1
+développement régional,1
+대도시연합,1
+국토균형청,1
+조직개편,1
+레지옹,1
+지역발전,1
+Voltage Control,1
+STATCOM,1
+Reactive Power Compensators,1
+Reactive Power,1
+Thermal Resistance,1
+Arrhenius,1
+Megger,1
+Insulation Resistance,1
+Poitevin,1
+photolithograp hie,1
+liogravure,1
+liograp hie,1
+fusion,1
+인성교육,1
+독서공동체,1
+자기이해,1
+4차원 인쇄,1
+Return Loss,1
+Double-Cone,1
+Broadband Antenna,1
+Discharge,1
+Figure,1
+Advanced Media,1
+4D Printing,1
+3D Printing,1
+입체조형물,1
+첨단 미디어,1
+3차원 인쇄,1
+텍스트 해석학,1
+PSCAD,1
+Inductive Method,1
+Fault Current Analysis,1
+AT Feeding System,1
+Paul Ricoeur.,1
+herméneutique du récit,1
+compréhension de soi,1
+communauté de lecture,1
+éducation du caractère,1
+폴 리쾨르,1
+can iques,1
+proc&eacute,1
+법제화,1
+photogravure,1
+vision-based system,1
+dynamic displacement,1
+structural health monitoring,1
+Parasitic resistance,1
+Water tree,1
+VLF tanδ,1
+창조,1
+Geomagnetically Induced Current,1
+Power Grid,1
+Geoelectric Field,1
+Coronal Mass Ejection,1
+Jürgen Habermas,1
+reflexive law,1
+proceduralist understanding of law,1
+welfare law,1
+colonization of lifeworld,1
+juridification,1
+welfare state,1
+하버마스,1
+성찰적 법,1
+절차주의적 법이해,1
+복지법,1
+PWM inverter,1
+digital image processing technique,1
+pattern matching algorithm,1
+energy management system,1
+Information Integration,1
+프와트뱅,1
+사진석판술,1
+엘리오그라비어,1
+엘리오그라피,1
+사진기계적 방법,1
+사진제판,1
+creation,1
+트랜스포머,1
+메타포,1
+융합,1
+Knowledge Map,1
+smart plug,1
+Knowledgebase,1
+Topic Modeling,1
+Ontology,1
+정보융합,1
+지식맵,1
+지식베이스,1
+토픽모델링,1
+온톨로지,1
+energy saving,1
+occupancy sensor,1
+THD(total harmonic distortion) reduction,1
+Visual changes(시각적 변화),1
+LC passive filter,1
+Technology trend,1
+CRM PFC converter,1
+LLC resonant converter,1
+Integrated transformer,1
+3D FEM simulation,1
+MMF diagram,1
+Leakage inductance,1
+Interleaved winding,1
+Transformer winding,1
+Toroidal transformer,1
+Technology classification,1
+Wind Force Coefficient of Electric Pole,1
+Patent analysis,1
+DC/DC converter,1
+Auxiliary Power Supply,1
+neon transformer,1
+epoxy type resin,1
+thermal stability,1
+diluent filler,1
+mixing ratio,1
+Wind Resistance Design,1
+LED PSU,1
+Spot welding,1
+Binding,1
+Steel Band,1
+Vegetable insulating oils,1
+Symmetrical multi-winding transformer,1
+Balancing current,1
+SOC(State of Charge),1
+Lithium-ion battery,1
+Nano-composites materials,1
+Insulation breakdown strength,1
+Molded insulation materials,1
+Life evaluation,1
+voltage controlled oscillator (VCO),1
+LED driving system,1
+Y type balancing transformer,1
+Various absorption heat transformer systems,1
+hot °uid produced,1
+classical and modi ¯ed Gouy–Stodola equation.,1
+Oil flow electrification,1
+Electrostatic current,1
+Grey model,1
+Tip,1
+Power Distribution Code,1
+Pressboard,1
+Dynamic voltage restorers(DVRs),1
+Temperature distribution,1
+Computational fluid dynamic analysis,1
+Heat pipe,1
+Multi winding transformer,1
+Time ratio,1
+Gradient of current flow,1
+Semiconductor switches,1
+Electromotive force (EMF),1
+2,1
+Ferroresonance,1
+Mold transformer,1
+내풍설계,1
+Hot spot temperature,1
+CFD(computational fluid dynamics),1
+Cast resin transformer,1
+area reduction,1
+unified architecture,1
+IWHT,1
+IADST,1
+IDST,1
+IDCT,1
+Temperature test,1
+PV Plant,1
+Generation Characteristics,1
+Capacity Factor,1
+배전설비기준,1
+전주 풍력계수,1
+Electromagnetic Transient Program,1
+Nuclear Power Plant,1
+Open-phase Condition,1
+High-speed interrupter.,1
+Breakdown voltage,1
+Test chamber,1
+Mold,1
+Temperature rise test,1
+Natural ester,1
+Eddy current loss,1
+CFD analysis,1
+Transformer Capacity,1
+Sensitivity Analysis,1
+Redundancy,1
+Offshore Substation,1
+Economic Evlauation,1
+Transformer Loss,1
+Dissolved gas analysis,1
+Accelerated aging,1
+High-speed interrupter,1
+Polyethylene glycols,1
+conformal array antenna,1
+power divider,1
+Polychlorinated biphenyls,1
+Transformer oil,1
+Power Conversion Unit,1
+Soft Switching,1
+Resonant Converter,1
+Air Conditioner Compressor,1
+Phase-angle jump,1
+Power quality disturbance generator,1
+ONAF 형식 방열기,1
+Alkaline hydroxide,1
+Destruction and removal efficiency,1
+System Layout,1
+Reliability Index,1
+LVDC Distribution System,1
+Converter Arrangement,1
+HVDC transmission,1
+Voltage stability,1
+Synchronous condenser,1
+stripline,1
+circular array,1
+ka-band tracking antenna,1
+monopulse feed horn,1
+Motor block,1
+High-speed railway,1
+Substation,1
+Neutral section,1
+KTX,1
+AC-LED Driving System,1
+Y Type Balancing Transformer,1
+AC Chopper Circuit,1
+Transformable fashion design(트랜스포머블 패션디자인),1
+Variability(가변성),1
+Wearer’s intervention(착용자 개입),1
+VP9,1
+wireless power transfer,1
+tesla coil,1
+power generation,1
+plasma globe,1
+null depth,1
+in-phase conditions,1
+waveguide discontinusm,1
+Isolate power(절연 파워),1
+H-Bridge(H-브릿지),1
+555 Timer(555 타이머),1
+Bypass unit,1
+결합 변압기,1
+선박 네트워크,1
+무배선 통신,1
+바이패스 장치,1
+PDC characteristic spectroscopy (PDC-CS),1
+PDC characteristic spectroscopy (PDCCS),1
+Distribution transformer loss,1
+Multi-conductor transmission line (MTL),1
+LLC resonant Inverter,1
+Renewable Energy,1
+High Step-up DC-DC Converter,1
+Voltage Multiplier,1
+Cockcroft-Walton,1
+Fan arrangement,1
+Forced-convection,1
+ONAF type radiator,1
+팬 배치,1
+냉각성능,1
+강제대류,1
+전력선 통신,1
+Legacy-line communication,1
+Gate Driver(게이트 드라이버),1
+Ship area network,1
+Passive Noise Cancellation,1
+LLC Resonant Converter,1
+Electromagnetic Compatibility,1
+Common Mode Noise,1
+HMI,1
+GUI,1
+Simulink,1
+Matlab,1
+PMS,1
+LNGC,1
+Electrical fire,1
+RCD,1
+Open-phase protector (OPP),1
+Three-phase power system,1
+Open-phase faults,1
+metaphor,1
+Multi-conductor transmission line(MTL),1
+Power-line communication,1
+Coupling transformer,1
+Radiation Pattern,1

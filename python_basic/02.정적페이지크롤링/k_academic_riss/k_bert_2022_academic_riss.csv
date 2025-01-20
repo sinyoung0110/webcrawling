@@ -1,0 +1,562 @@
+keyword,count
+BERT,64
+natural language processing,8
+자연어처리,8
+딥러닝,8
+Deep Learning,6
+deep learning,6
+Natural Language Processing,6
+인공지능,5
+자연어 처리,5
+language model,5
+KoBERT,5
+RoBERTa,4
+LSTM,4
+evaluation,4
+Transformer,4
+NLP,4
+AI,4
+Sentiment Analysis,3
+BART,3
+deep-learning,3
+Visualization,3
+평가,3
+Artificial Intelligence,3
+머신러닝,3
+COVID-19,3
+기계학습,3
+감성분석,3
+Big Data,3
+언어모델,3
+KR-BERT,3
+Machine Learning,3
+질의응답,2
+Bidirectional Encoder Representations from Transformers(BERT),2
+Research Trend,2
+개체명 인식,2
+LUKE,2
+Deep learning,2
+GLUE,2
+question answering,2
+Natural language processing,2
+Topic Modeling,2
+Machine learning,2
+.,2
+machine reading comprehension,2
+버트,2
+KcBERT,2
+Semantic Similarity,2
+GPT,2
+KPF-BERT,2
+CEDR,2
+surprisal,2
+Text Mining,2
+BM25,2
+GPT-2,2
+neural language model,2
+machine learning,2
+특허,2
+텍스트마이닝,2
+BERT model,2
+CTEXT,2
+CBCA,2
+text interface,2
+Patent,2
+Morphological Analysis,2
+InferSent,2
+ALBERT,2
+Deep-learning,2
+Metaverse,2
+Learners’ Writings,1
+BERT&lt,1
+Writing Development,1
+SUB&gt,1
+Transformer 언어 모델,1
+학습자 작문,1
+/SUB&gt,1
+작문 발달,1
+NPI,1
+LARGE&lt,1
+치매,1
+licensor,1
+어텐션,1
+subject/object relative clause,1
+coreference resolution,1
+next sentence prediction,1
+implicit causality bias,1
+discourse expectation,1
+random forest model,1
+search system,1
+stock market,1
+Attention,1
+relative clause,1
+gap,1
+Korean deep learning language model,1
+관계절,1
+scope,1
+공백,1
+한국어 딥러닝 모델,1
+트랜스포머,1
+game review,1
+ROUGE,1
+summarization,1
+Decision Forest,1
+언어학,1
+언어모형,1
+linguistics,1
+language models,1
+monotonicity,1
+Transformer Language Model,1
+Generative Summarization,1
+예측모델,1
+건설재해,1
+Sentence Compression,1
+Ko,1
+KR-,1
+이중 인코더,1
+사전학습 모델,1
+교차 언어,1
+영어-독일어 기계번역,1
+기계번역 품질 예측,1
+dual-encode,1
+pre-trained model,1
+cross-lingual,1
+english-german translation,1
+quality estimation,1
+keyword embeddings,1
+contract eligibility,1
+contract,1
+legal text,1
+키워드 임베딩,1
+계약서 적격성,1
+계약서,1
+법률 문서,1
+clustering analysis,1
+graduation thesis,1
+research topic,1
+science gifted student,1
+군집 분석,1
+졸업 논문,1
+Linguistic Information,1
+Language Model,1
+Perplexity,1
+기계 독해,1
+Decision forest,1
+Prediction model,1
+Construction accident,1
+법률,1
+리걸테크,1
+Legal,1
+LegalTech,1
+Unknown Words,1
+Selective OOV Copy Model,1
+reading time,1
+아라비아 숫자,1
+한국어 수사,1
+arabic numerals,1
+문장 압축,1
+Korean numerals,1
+K-CoLA,1
+plural copying,1
+honorific agreement,1
+Document Classification,1
+Deep Learning-Based Korean Language Model,1
+문서 분류,1
+한국어 심층학습 언어모델,1
+기계독해,1
+펄플렉시티,1
+언어 모델,1
+언어 정보,1
+PP modification,1
+IPC,1
+주어/목적어 관계절,1
+Incident cases,1
+data analytics,1
+사회재난,1
+사고 사례,1
+하인리히 법칙,1
+위험 예측,1
+Social disaster,1
+Heinrich’s law,1
+전치사구 수식,1
+Risk prediction,1
+취약점 탐지,1
+소스코드,1
+서브워드 토큰화,1
+딥러닝 모델,1
+1차원 컨볼루션 모델,1
+convolutional neural networks,1
+attention score,1
+transformer,1
+anomaly detection,1
+Monte-Carlo simulation,1
+exBERT,1
+XAI,1
+Machine translation,1
+Self-Attention,1
+Secondary prevention,1
+Clinical decision-making,1
+Patent foramen ovale,1
+Stroke,1
+job classification,1
+Online Job Posting,1
+성별 조절효과,1
+창업의지,1
+Vulnerability detection,1
+Source code,1
+Subword tokenization,1
+전화금융사기,1
+견고성,1
+고의적 잡음,1
+격 교체,1
+적대적 사례,1
+robustness,1
+intended noise,1
+case alternation,1
+adversarial examples,1
+investigative technique,1
+phone scam,1
+voice-phising,1
+범죄 예방,1
+수사기법,1
+보이스피싱,1
+maschinelles Lernen,1
+Deep learning model,1
+Adjacent pair expansion,1
+Gesprächsstrukur,1
+Extraktion von Schlüsseläußerungspaaren,1
+Gesprächszusammenfassung,1
+인접쌍의 확장,1
+대화 구조,1
+핵심 발화쌍 추출,1
+대화 요약,1
+Game Play,1
+Sentence Embedding,1
+Question-Answering,1
+Product Review,1
+Deep Reinforcement Learning,1
+One-dimensional convolution model,1
+기업가정신교육,1
+기업가정신,1
+Chatbot,1
+빈도분석,1
+tokenizer,1
+pre-training,1
+ELECTRA,1
+사전 학습 언어 모델,1
+버그 담당자 배정,1
+버그 관리,1
+pre trained language mode,1
+bug fixer assignment,1
+bug management,1
+backshift,1
+World knowledge,1
+CONCOR analysis,1
+AI ethics,1
+CONCOR분석,1
+감성 분석,1
+일렉트라,1
+이루다,1
+인공지능 윤리,1
+과학 영재,1
+Multi Label,1
+Automatic Patent Classification,1
+CPC,1
+KorPatBERT,1
+멀티 라벨,1
+자동 특허 분류,1
+real estate,1
+natural language,1
+text mining,1
+서프라이절,1
+읽기 시간,1
+Language model ∙,1
+사전학습,1
+Swin-Transformer,1
+Review Analysis,1
+Image Classification,1
+Animal Healthcare,1
+South Korea,1
+text classification,1
+elite polarization,1
+political polarization,1
+Ven-tricular repolarization,1
+Drug interaction,1
+Cirrhosis,1
+Torsade de pointes,1
+Acquired long QT syndrome,1
+Customer Experience,1
+Text Classification,1
+Future Prediction,1
+Seq2Seq,1
+토크나이저,1
+RNN,1
+Recommendation,1
+Document-Summarization,1
+단절적 시계열 분석,1
+난민,1
+interrupted time series analysis,1
+sentiment analysis,1
+refugees,1
+Neural Network,1
+Feature Selection,1
+Multi-Modal,1
+인공 신경망,1
+특성 추출,1
+멀티모달,1
+연구 주제,1
+문서 검색,1
+Fraud detection,1
+Dialogue Data,1
+Causality Mining,1
+속성기반 감성분석,1
+다기준 추천,1
+협업필터링,1
+추천시스템,1
+Aspect-Based Sentiment Analysis,1
+Multicriteria Recommendation,1
+Collaborative Filtering,1
+Recommender Systems,1
+synonym substitution,1
+agreement attraction,1
+web corpora,1
+Do-Be construction,1
+Abstractive Summarization,1
+Multi-level Relation Network,1
+Text Summarization,1
+구어체데이터,1
+생성요약,1
+문서요약,1
+Threshold-based detection,1
+Pre-trained model,1
+Masked language model,1
+Insider threat detection,1
+CERT dataset,1
+Bert,1
+partisan indexing,1
+experts,1
+North Korean news,1
+Relation Network,1
+Relation Classification,1
+전문가 인용,1
+university reputation evaluation,1
+Topic Segmentation,1
+Korean as a Foreign Language,1
+Bidirectional Encoder Representations from Transformers,1
+Automatic Writing Scoring,1
+Program Slicing,1
+Source Code,1
+Vulnerability Detection,1
+text data analysis,1
+Online career counseling,1
+FastText,1
+텍스트 자료 분석,1
+온라인 진로상담,1
+sentiment vocabulary classification,1
+텍스트분석,1
+Cause-effect Relation Classification,1
+행태재무,1
+이례현상,1
+과신,1
+경영자 과잉확신,1
+Textual Analysis,1
+Machine-Learning,1
+Anomaly,1
+CEO Overconfidence,1
+Relation extraction,1
+Entity recognition,1
+Fault diagnosis,1
+Electric power equipment,1
+Knowledge graph,1
+정파적 지표화,1
+북한 보도,1
+Black Chain,1
+criteria classification,1
+연구 동향,1
+경제교육,1
+Review,1
+Emotional,1
+Web crawling,1
+BERT-fused 모델,1
+전이학습,1
+형태소분석,1
+BERT-fused Model,1
+Transfer Learning,1
+Text Analysis,1
+텍스트 분석,1
+준거 분류,1
+DRAM capacity,1
+BERT 기반 텍스트 임베딩,1
+memory hierarchy,1
+GPU under-utilization,1
+BERT training,1
+DRAM 용량,1
+메모리 계층 구조,1
+낮은 GPU 활용도,1
+BERT 학습,1
+co-attention mechanism,1
+pair-language model,1
+schizophrenia,1
+dementia,1
+Co-Attention 메커니즘,1
+페어 언어모델,1
+논문 분석,1
+클러스터링,1
+machine,1
+경제학 논문,1
+quality,1
+translation,1
+기계,1
+품질,1
+번역,1
+사전학습언어모델,1
+금융,1
+PLM,1
+Finance,1
+economics paper,1
+knowledge graph,1
+keyword (entity) information extraction,1
+relation extraction,1
+지식 그래프,1
+economic education,1
+키워드 개체 정보 추출,1
+관계 정보 추출,1
+Form 10-Q,1
+Form 10-K,1
+Disclosure,1
+SEC,1
+automatic evaluation metric,1
+extractive summarization,1
+Korean document summarization,1
+clustering,1
+BERT-based text embedding,1
+analysis of research paper,1
+research trends,1
+Text Segmentation,1
+BERTSUM,1
+it-cleft,1
+인간 질병 개체명,1
+경로 매칭,1
+경로추천,1
+Efficiency,1
+Knowledge Distillation,1
+Encrypted Network Traffic Classification,1
+deep learning approach,1
+experimental approach,1
+relatives,1
+appositives,1
+complex NP island constraints,1
+Human Disease Name,1
+Animal Disease Name,1
+Named Entity Recognition,1
+동물 질병 개체명,1
+단거리 매칭,1
+Head-Tail,1
+POS Tagging,1
+Tokenizer,1
+빅데이터,1
+연구동향,1
+Bidirectional Encoder Representations from Transformers 모델,1
+토픽모델링,1
+메타버스,1
+Stacked LSTM,1
+Adversarial training,1
+Rumor recognition,1
+Weibo disaster,1
+Weak-supervision,1
+텍스트유사도,1
+지하철배송,1
+pronominal case,1
+Authorship Attribution,1
+Cryptocurrency,1
+ICO,1
+사기탐지,1
+암호화폐백서,1
+암호화폐,1
+블록체인,1
+주성분분석,1
+전국책,1
+진위 논쟁,1
+한비자,1
+멀리서 읽기,1
+PCA,1
+The Zhan Guo Ce,1
+The Han Feizi,1
+플랫폼 서비스,1
+Distant Reading,1
+Document Reader,1
+Document Search,1
+Open Domain Machine Reading Comprehension,1
+문서 독해,1
+조현병,1
+오픈 도메인 기계독해,1
+platform service,1
+subway delivery,1
+short-distance delivery,1
+text similarity,1
+route matching,1
+route recommendation,1
+Information retrieval,1
+Tender notice,1
+약지도학습,1
+psycholinguistics,1
+Korean dramas,1
+Korean novels,1
+data,1
+emotion,1
+기업뉴스,1
+corporate  news,1
+sentiment  analysis,1
+학습데이터,1
+법적논증,1
+자연어처리모델,1
+training data,1
+legal argumentation,1
+artificial intelligence,1
+garden-path structure,1
+정보검색,1
+transformers,1
+targeted evaluation approach,1
+similarity measurement,1
+sci-tech periodicals,1
+representations from transformers (bert),1
+hot keyword,1
+Bidirectional encoder,1
+heatmap analysis,1
+layer-wise analysis,1
+performance assessment,1
+Korean neural language model,1
+semantic role labeling,1
+platform,1
+digital humanities,1
+artificial intelligence humanities,1
+감정,1
+데이터(data),1
+입찰정보,1
+SPO tuple,1
+long short-term memory,1
+information extraction,1
+dependency grammar,1
+주식투자전략,1
+주가 변동성,1
+주가예측,1
+Stock investment strategy,1
+Stock market liquidity,1
+Stock price prediction,1
+entity-aware 셀프어텐션,1
+개체 연결,1
+지식 증강 언어 모델,1
+entity-aware self-attention,1
+entity linking,1
+named entity recognition,1
+knowledge-enhanced language model,1
+Linguistic acceptability,1
+Minimal pair,1
+Self Attention,1
+Data Anonymization,1
+Medical Informatics,1
+인공지능인문학,1
+디지털인문학,1
+한국드라마,1
+한국소설,1
+언어 모형,1

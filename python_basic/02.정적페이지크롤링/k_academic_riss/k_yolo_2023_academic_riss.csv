@@ -1,0 +1,500 @@
+keyword,count
+YOLO,65
+Object Detection,24
+딥러닝,22
+Deep Learning,21
+Deep learning,14
+Object detection,12
+객체 탐지,10
+object detection,5
+Data augmentation,5
+객체 인식,5
+Drone,4
+인공지능,4
+Computer Vision,4
+AI,3
+데이터 증강,3
+욜로,3
+CNN,3
+Object Recognition,3
+컴퓨터 비전,3
+Data Augmentation,3
+Image processing,3
+YOLOv5,3
+Greenhouse,2
+UAV,2
+Detection,2
+AWS-based,2
+SNS,2
+GPT,2
+열화상 카메라,2
+Pothole,2
+객체인식,2
+객체탐지,2
+StyleGAN3,2
+PM,2
+YOLOv3,2
+deep learning,2
+Mobile Robot,2
+CCTV,2
+Faster R-CNN,2
+YOLOv7,2
+탐지,2
+YOLO 알고리즘,2
+LSTM,2
+object tracking,2
+Bigdata,2
+객체 추적,2
+드론,2
+Monitoring System,2
+Parcel Delivery Service,2
+GPR,2
+Generative Adversarial Network,2
+YOLO V5,2
+Fast R-CNN,2
+mIoU,2
+BDD100K,2
+.,2
+Object Tracking,2
+벤더-게슈탈트 검사(BGT),1
+Automatic Scoring,1
+QT,1
+Real-time object detections,1
+Construction worker,1
+Construction safety,1
+Safety helmet,1
+Pattern Recognition,1
+Bender-Gestalt Test,1
+Web service,1
+패턴인식,1
+초해상도 신경망,1
+움직임 검출,1
+Deep learning segmentation,1
+Adaptive AI Service,1
+$360^{\circ}$,1
+Spatial information,1
+Land monitoring,1
+자동 채점,1
+deeplearning,1
+객체 탐지기,1
+조식동물,1
+도로 하부 공동,1
+지표투과레이더,1
+Diffraction separation,1
+Motion Detection,1
+Machine learning,1
+회절파 분리,1
+Underground cavity,1
+Ground penetrating radar,1
+강인성 평가,1
+Ariel Image,1
+Object detection.,1
+Robustness tes,1
+Invertebrate grazers,1
+cnn,1
+fish farm automation,1
+fish detection,1
+Super Resolution Network,1
+기계학습,1
+fish growth,1
+항공 영상,1
+GRU,1
+공장자동화,1
+You Only Look Once(YOLO),1
+Distance error,1
+이동평균필터,1
+평균필터,1
+거리오차,1
+자율운항선박,1
+Autonomous driving,1
+Action recognition,1
+SlowFast network,1
+lightweight neural network,1
+non-maximum suppression,1
+attention mechanism,1
+Lane change Violation,1
+public interest report,1
+Lanenet,1
+차선변경 위반,1
+공익 신고,1
+Moving Object Tracking,1
+Vehicle Classification,1
+돌발상황 검지시간,1
+대쉬보드 카메라,1
+Incident Detection Time,1
+Dash cam,1
+Image Processing,1
+Safety Management,1
+Sensor,1
+Yolo V5,1
+Autonomous ship,1
+Average filter,1
+Gated Recurrent Unit(GRU),1
+Moving average filter,1
+Convolution Neural Networks(CNN),1
+수어,1
+Sign Language,1
+스마트팜,1
+자돈,1
+모돈,1
+Smart Farm,1
+교통안전,1
+아두이노,1
+졸음운전감지,1
+Traffic Safety,1
+Arduino,1
+Recognition,1
+Real-Time,1
+Drowsy Driving Detection,1
+Shipping Container,1
+Intelligent Port Safety Technology,1
+컨테이너,1
+지능형 항만 안전 기술,1
+Aerial images,1
+YOLO algorithm,1
+Insulator defects detection,1
+dual kalman filter,1
+kalman filter,1
+occlusion area,1
+Multichannel Streaming,1
+Morphology,1
+Resource Efficient,1
+위협 상황 판단,1
+Auto landing,1
+UAV (Unmmand Aerial Vehicle),1
+GPS,1
+자동 착륙,1
+무인 이동체,1
+Autonomous Driving,1
+AI training data,1
+Perception,1
+인간공학기반,1
+포즈추론,1
+근골격계 질환,1
+작업자세 분류,1
+e-commerce,1
+separate collection of recyclables,1
+YOLO object recognition,1
+Internet of things,1
+스마트시티 수출 거점 HUB 플랫폼,1
+민관 네트워크,1
+솔루션,1
+스마트시티,1
+한-아세안,1
+Accuracy,1
+3D Rendering,1
+AUV,1
+Burial Rate,1
+GPS (Global Positioning System),1
+행위 인식,1
+Mobile Manipulator,1
+Danger Situation Determination,1
+road boundary,1
+risk map,1
+multi-channel LiDAR,1
+DRM,1
+BiFPN,1
+FPN,1
+Image preprocessing,1
+Sobel edge detection,1
+CLAHE,1
+EfficientDet,1
+Computer vision,1
+Pothole detection,1
+Frame difference,1
+KCF,1
+YOLOv4,1
+Rumination,1
+Cattle,1
+Strawberry Detection,1
+Location-based Service,1
+Generalized Voronoi Graph,1
+Optimal Positioning,1
+Safety camera,1
+Industrial robot,1
+Artificial intelligence,1
+Behavior Recognition,1
+Mine,1
+Traditional Market,1
+Thermal Image,1
+Fire Detection,1
+Real-time Analysis,1
+Movement Search,1
+화재분석,1
+연기센서,1
+AI소방드론,1
+Maximum Likelihood Estimation,1
+Machine Learning,1
+FMICW Radar,1
+Radiographs,1
+Adversarial Evasion Attack,1
+Self-Driving Car,1
+Performance evaluation,1
+YCbCr,1
+Flame segmentation,1
+Real-time,1
+Visually impaired,1
+SSD,1
+Object recognition,1
+Android,1
+Hornet Detection,1
+Real Time,1
+Web server,1
+SCARA manipulator,1
+Autonomous Navigation,1
+ROS,1
+Type of Fire,1
+Scene of a Fire,1
+119 Firefighting,1
+Traffic Accident,1
+User Following,1
+사용자 추종,1
+이동로봇,1
+Product Display,1
+Plan-o-gram,1
+상품 전시,1
+YOLO v3,1
+Hot Spot Recognition,1
+Hot Spot Location,1
+Geometric Location,1
+DeepLab v3+,1
+포트홀,1
+R-CNN,1
+물체 검출,1
+교통사고,1
+Firefighting,1
+Autonomous tracking,1
+Pan-tilt,1
+Thermal camera,1
+소화,1
+자율 추적,1
+팬-틸트,1
+Vespa,1
+Training dataset,1
+Internet of Things,1
+조류 대발생,1
+Dental Caries,1
+GIS 접근성,1
+Crack Detection,1
+Image analysis,1
+Vegetation index,1
+Production,1
+Pig,1
+Outdoor,1
+Size Prediction(크기 예측),1
+Obstacle Detection(장애물 감지),1
+Collision Avoidance(충돌 회피),1
+Small UAV(소형 무인 항공기),1
+Monitoring system,1
+DeepSORT,1
+Safety walking,1
+School safety,1
+Tunnel maintenance,1
+Ground penetrating rader,1
+Convolutional neural network,1
+YOLO.,1
+False Negative Error,1
+Non-Maximum Suppression,1
+YOLO v5.,1
+Floor plan dataset,1
+church’s role and responsibility,1
+Christian youth,1
+hedonism challenges,1
+Artificial Intelligence,1
+Dataset Construction,1
+Crack Inspection System,1
+욜로v5,1
+YOLO 트래킹,1
+혼잡도 예측,1
+실내 사람 위치 추적,1
+YOLO tracking,1
+Congestion prediction,1
+Indoor human location tracking,1
+Fall Detection,1
+객체검출,1
+낙상사고 인식,1
+Pet breed,1
+IoU threshold,1
+반려동물,1
+균열 탐지,1
+IoU임계값,1
+Panel,1
+Underground Utility Tunnel,1
+제어반,1
+지하공동구,1
+Yolo,1
+R-Cnn,1
+Object Detecting,1
+K-Uam,1
+균열 점검 시스템,1
+데이터셋 구축,1
+contemporary lifestyle trend,1
+교회의 역할과 책임,1
+크리스천 청년,1
+적재불량,1
+비닐하우스,1
+Planetscope satellite image,1
+의미론적 분할,1
+병렬 U-Net,1
+semantic segmentation,1
+Parallel U-Net,1
+DCGAN,1
+Damage Detection,1
+Missing Person,1
+실종자 수색,1
+후처리 알고리즘,1
+Post-processing Algorithm,1
+인스턴스 분할,1
+Overloaded Vehicle,1
+HSV,1
+OpenCV,1
+Banner,1
+Ecological camera trap,1
+Urban ecosystem,1
+Wildlife monitoring,1
+Circle Bounding Box,1
+Cigarette Detection,1
+Factory automation,1
+원형 경계상자,1
+Planetscope 위성영상,1
+수치지형도,1
+쾌락주의 도전,1
+드론 영상,1
+현대 라이프 스타일 트렌드,1
+욜로(YOLO),1
+YOLO (You Only Look Once),1
+Jetson Nano,1
+apple sorting system,1
+Strawberry harvesting,1
+RGB-depth camera,1
+Agricultural robot,1
+medium wave infrared (MWIR),1
+infrared image,1
+Drone Image,1
+Damage Classification,1
+공간 분석,1
+적대적 생성 신경망,1
+파손 분류,1
+택배 배송 서비스,1
+실시간 객체 탐지,1
+저서성 해양무척추동물,1
+DETR,1
+Real-time object detection,1
+Benthic marine invertebrates,1
+Spatial Analysis,1
+Digital Topographic Maps,1
+Instance Segmentation,1
+시설물 건립,1
+Facility construction,1
+deep-learning,1
+GIS accessibility,1
+Product nutrition information system,1
+Manager System,1
+Intelligent,1
+Object Classification,1
+관제시스템,1
+지능형,1
+객체 분류,1
+6-DoF object pose estimation,1
+monocular 3D object detection,1
+large-scale object dataset,1
+사고 감지,1
+accident detection,1
+오탐지율,1
+인공지능 모델,1
+화재훈련 데이터 집합,1
+화재상황인식,1
+화재감지,1
+false-detection rate,1
+an artificial intelligence model,1
+fire training dataset,1
+fire situation recognition,1
+fire detection,1
+영상처리,1
+건설 장비,1
+토목 현장 데이터,1
+Visually impaired people,1
+YOLO v5,1
+Hyperparameter tuning,1
+Self-ensemble,1
+YOLO v2,1
+human safety,1
+robot safety system,1
+safety system,1
+YOLO etc.,1
+Semi-synthetic data,1
+Human detection,1
+Beverage Can Recognition,1
+Visually Impaired,1
+YOLO v5s,1
+Classroom behavior,1
+자체 앙상블,1
+메타정보,1
+You-Only-Look-Once algorithm,1
+water quality management,1
+algal detection,1
+algal bloom,1
+조류 탐지,1
+궐련 담배 검출,1
+수질관리,1
+객체탐지모형,1
+Supporting system,1
+Meta data,1
+보조시스템,1
+Construction equipment,1
+Civil-engineering dataset,1
+Database,1
+Camera Image(카메라 이미지),1
+Multi-view Camera,1
+Autonomous Driving Platform,1
+Singular Value Decomposition,1
+Histogram,1
+특이값 분해,1
+히스토그램,1
+Sensor Fusion(센서퓨전),1
+Real-time(실시간),1
+Virtual Environment(가상환경),1
+Labeling(라벨링),1
+Deep Learning(딥러닝),1
+Speed Limit Sign(속도 제한 표지판),1
+Hybrid Camera System,1
+Deep-Learning,1
+Preprocessing,1
+Labeling,1
+전처리,1
+라벨링,1
+Vision Analysis,1
+Fire-Detection,1
+Impaired pedestrians,1
+Synthetic image,1
+3D Model-based data,1
+artificial intelligence,1
+Depth Information Matching,1
+자율주행 플랫폼,1
+Cloud System,1
+Unmanned Stores,1
+Disease Monitoring,1
+융합 알고리즘,1
+이상행동,1
+저비용,1
+센서,1
+무인 점포,1
+Fusion Algorithm,1
+Detect,1
+Abnormal Behaviors,1
+Low Costs,1
+Sensors,1
+Core depth classification,1
+다시점 카메라,1
+Core detection,1
+Robot-automation,1
+Cabbage,1
+Spatial distribution,1
+Object detection model,1
+Floating debris,1
+공간분포,1
+객체 탐지 모델,1
+부유쓰레기,1
+복합형 카메라 시스템,1
+깊이정보 매칭,1
+road segmentation.,1

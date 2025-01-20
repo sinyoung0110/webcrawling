@@ -1,0 +1,316 @@
+keyword,count
+GRU,28
+LSTM,15
+딥러닝,8
+Deep Learning,7
+Gated Recurrent Unit,4
+Deep learning,4
+Time Series,3
+YOLOv8,3
+CNN,3
+deep learning,3
+시계열 예측,3
+Bidirectional gated recurrent unit,2
+Machine Learning,2
+게이트 순환 유닛,2
+MLP,2
+분류,2
+Attention Mechanism,2
+Leak flow rate,2
+Attention mechanism,2
+kNN,2
+Loss-of-coolant accidents,2
+Stacked SARIMAX-GRU,2
+머신러닝,2
+Anomaly Detection,2
+ResNet50,2
+3D-CNN,2
+GridCV,2
+Price Prediction,2
+가격 예측,2
+시계열,2
+CNN-CRU,2
+SARIMAX,2
+Moving Average,2
+TF-IDF,2
+Incremental Capacity Analysis,2
+Classification,2
+.,2
+Identity,1
+지역내총생산,1
+Energy-Saving,1
+Temperature Control,1
+Gated Recurrent Unit (GRU),1
+Artificial Intelligence,1
+Internet of Things (IoT),1
+Price Prediction Model,1
+게이트순환유닛,1
+Prediction Model,1
+Agricultural Products,1
+자기회귀 혼합데이터샘플링모형,1
+농산물,1
+장단기기억,1
+AutoRegressive Mixed Data Sampling Model,1
+Livestock Products,1
+가격 예측 모델,1
+Smart Home,1
+이상 상태 탐지,1
+시계열 분류,1
+인공지능,1
+물가,1
+계층적 기계학습,1
+Occupants Information,1
+Anomaly detection,1
+Time series classifier,1
+Hierarchical machine learning,1
+Upright standing posture,1
+AI (artificial intelligence),1
+EEG,1
+Motion prediction,1
+Mars Weather Prediction,1
+violence detection,1
+video processing,1
+deep transfer learning,1
+Photovoltaic power forecasting,1
+빈산소,1
+양식장,1
+저층 용존산소,1
+예측,1
+Hypoxia,1
+Aquaculture,1
+Bottom dissolved oxygen,1
+Bidirectional gated recurrent units,1
+Prediction,1
+동백전 지급결제 시스템,1
+신흥 상권의 성장성 예측,1
+Multi-fusion deep learning model,1
+Dongbaekjeon Payments system,1
+growth prediction of emerging commercial areas,1
+Neural network · Urea injection · NH 3 leakage · SCR · Diesel engine,1
+Gross Regional Domestic Product,1
+CAN,1
+비정상 탐지,1
+Long Short Term Memory,1
+Machine learning · CNN · ARIMA · GRU · Energy storage devices · Li-ion batteries,1
+Autism Spectrum Disorder(ASD),1
+Computer Vision,1
+Stereotyped behavior,1
+Early diagnosis,1
+National Science and Technology Standard Classification System,1
+Ensemble Technique,1
+Hierarchical Model,1
+국가과학기술표준분류체계,1
+앙상블 기법,1
+계층적 모델,1
+Time-Series Analysis,1
+Indoor Air Quality,1
+3D skeleton,1
+LSTM(Long Short Term Memory),1
+합성곱 신경망,1
+어텐션 매커니즘,1
+화재 데이터 생성,1
+지하공동구,1
+SOH Estimation.,1
+GRU(Gate Recurrent Unit),1
+RNN(Recurrent Neural Network),1
+재실자 정보,1
+Correlation analysis,1
+Lithium-ion Battery,1
+Load forecasting,1
+Natural language processing,1
+TF–IDF,1
+Word embedding,1
+적대적 생성 신경망,1
+underground utility tunnel,1
+Text classification,1
+fire data generation,1
+attention,1
+Behavior,1
+GAN,1
+Pairs Trading,1
+Similarity Analysis,1
+Autoencoder,1
+Vector Embeddings,1
+Drone,1
+Magneto-Impedance Sensor,1
+Metal Detection,1
+On-Device AI,1
+Obesity,1
+Egocentric,1
+KNN,1
+Learning Parameters,1
+Score Dropout,1
+Prediction of ungauged basin,1
+Activation Functions,1
+Predictive Modeling,1
+화성 기상 예측,1
+시계열 데이터 분석,1
+어텐션 메커니즘,1
+활성화 함수,1
+예측 모델링,1
+인공지능 모형,1
+자료 기반 모형,1
+인공위성 원격탐사 정보,1
+미계측 유역 예측,1
+예측모델,1
+Artificial intelligence model,1
+Data-driven model,1
+실내 공기질,1
+Multi-View 3D Reconstruction,1
+Gate Recurrent Unit (GRU),1
+Satellite remote sensing information,1
+asymmetry,1
+realized volatility,1
+normalization,1
+ratio transformation,1
+recurrent neural network,1
+Significant wave,1
+Wave prediction,1
+SVM,1
+Machine learning,1
+Oceanographic buoy data,1
+Gated recurrent unit,1
+Korea waters,1
+Intelligent Driving.,1
+Deep-Learning,1
+Pedestrian Intention,1
+SOH estimation,1
+Artificial neural network,1
+Vocal phonation,1
+Neural Network,1
+Time series,1
+Commodities demand forecast,1
+Adaboost-GRU ensemble model,1
+Secondlife-battery,1
+unmanned aerial vehicle,1
+Input and Output Window Size,1
+Sliding Window,1
+Intermittent Demand Forecasting,1
+Machine Learning Algorithms,1
+GRU(Gated Recurrent Unit),1
+GPS shadow zone,1
+Electroglottography,1
+deep reinforcement learning,1
+gated recurrent unit,1
+Skeletal keypoint detection,1
+groundwater level prediction,1
+전이학습,1
+학습자료 부족,1
+강수량,1
+지하수위 예측,1
+DensePose,1
+CBAM,1
+decision-making,1
+ConvGRU,1
+Fall detection,1
+QQ model,1
+oxygen extraction fraction,1
+brain MRI,1
+centroid jamming,1
+Localization,1
+Positioning,1
+Kalman filter,1
+time series forecasting,1
+File fragment type identification,1
+Digital Forensics,1
+트랜스포머,1
+패칭,1
+transformer,1
+patching,1
+individual investors,1
+CNN-GRU,1
+KR-FinBERT-SC,1
+sentiment analysis,1
+stock price prediction,1
+Stacked Generalization,1
+Time Series Prediction,1
+스태킹 일반화,1
+File carving,1
+전력 사용량,1
+이상 패턴,1
+제어,1
+에너지,1
+관리,1
+탄소 배출량,1
+power usage,1
+anomaly patterns,1
+control,1
+Energy,1
+management,1
+Carbon emissions,1
+먹이 배급량 예측,1
+먹이 배급 자동화,1
+PredFeed Net,1
+fish farm,1
+precipitation,1
+training data deficiency problem,1
+Pedestrian trajectory prediction,1
+Urban Air Mobility (UAM),1
+근감소증,1
+경로 예측,1
+도심 항공 모빌리티,1
+Time Series prediction,1
+GRU (Gated Recurrent Unit),1
+Trajectory prediction,1
+tion,1
+상황인지,1
+Object Detection,1
+Object DetePet,1
+Pet,1
+객체 탐지,1
+반려동물,1
+AI 학습 데이터,1
+동작 인식,1
+신경망,1
+transfer learning,1
+감정분석,1
+Time series analysis,1
+Missing data interpolation,1
+시계열 분석,1
+결측치 보간,1
+Sentiment analysis,1
+Recommendation system,1
+추천시스템,1
+Sacopenia,1
+Thermal-hydraulic parameter predictions,1
+Fast reactor,1
+Gated recurrent unit (GRU),1
+Deep Neural Network,1
+Context Awareness,1
+Human Activity Recognition,1
+이상행동 탐지,1
+AI Learning Data,1
+알고리즘,1
+real estate valuation,1
+Inspection Equipment,1
+Monitoring Program,1
+PdM,1
+AI,1
+time series analysis,1
+spatial regression analysis,1
+일반화선형모형,1
+결정트리신경망,1
+회귀분석,1
+다층퍼셉트론,1
+심층신경망,1
+GLM,1
+Regression,1
+DNN,1
+Shift-by-wire Control Unit,1
+Frost,1
+Multi-input Model,1
+machine learning,1
+predictive modeling,1
+deterioration,1
+condition rating,1
+defect index,1
+기계 학습,1
+예측 모델,1
+열화,1
+상태 등급,1
+결함도 지수,1
+Sling,1
+Decision Trees Neural Networks,1
+Algorithms,1
+슬링,1
+Temporal convolutional network,1

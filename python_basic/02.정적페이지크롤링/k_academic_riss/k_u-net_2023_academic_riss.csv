@@ -1,0 +1,555 @@
+keyword,count
+U-Net,26
+Deep learning,12
+딥러닝,10
+Deep Learning,9
+Semantic segmentation,8
+U-net,8
+Convolutional neural network,4
+Segmentation,4
+의미론적 분할,4
+deep learning,3
+Machine learning,3
+Remote sensing,3
+.,3
+Image processing,3
+GAN,3
+SPAC,2
+YOLO V5,2
+Skip-connection,2
+Landsat,2
+DeeplabV3+,2
+Additive attention,2
+Time-Varying Parameter VAR,2
+Deblurring,2
+Self-Attention,2
+Artificial intelligence,2
+전이학습,2
+mIoU,2
+Image Segmentation,2
+CCTV,2
+Pinus densiflora Siebold & Zucc,2
+Sentinel-1,2
+Species classification,2
+BDD100K,2
+semantic segmentation,2
+Convolutional Neural Network,2
+Computed tomography,2
+반도체지원법(CHIPS Act),1
+글로벌 공급망,1
+보조금,1
+탄성왜곡,1
+내국민대우,1
+균열 검출,1
+Reservoir,1
+글로벌 가치사슬(GVC),1
+Water level recognition,1
+관세 및 무역에 관한 일반협정(GATT),1
+수위 인식,1
+X-ray computed tomography,1
+Morphological analysis,1
+Hydraulic fracturing,1
+Fracture segmentation,1
+이미지 처리,1
+기계학습,1
+저수지,1
+global supply chain (GSC),1
+인플레이션 감축법(IRA),1
+Chinese Household Debt,1
+Deep neural network,1
+중국 가계부채,1
+부채 보유,1
+자산부채비율,1
+프로빗,1
+토빗,1
+Debt Holding,1
+Contact strip,1
+Probit Model,1
+Tobit Model,1
+Neutron spectrum unfolding,1
+Convolutional neural networks,1
+Stroke,1
+Synchrotron Radiation Imaging,1
+Dynamic stagger,1
+Contact wire,1
+Inflation Reduction Act (IRA),1
+import substitution subsidies,1
+CHIPS Act,1
+export subsidies,1
+General Agreement on Tariffs and Trade (GATT),1
+학습 증강,1
+global value chain (GVC),1
+IPEF,1
+national treatment (NT),1
+Pantograph-catenary system,1
+subsidy,1
+3D Tunnel face,1
+Rock discontinuity,1
+3차원 터널 막장,1
+암반 불연속면 분류,1
+딥러닝 영역분할,1
+합성곱 신경망,1
+Reliability,1
+데이터 증강,1
+Peak detection,1
+organic acid activating treatment agent,1
+highly saline solution,1
+air bubble device,1
+Real exchange rate,1
+Inflation,1
+Global oil price,1
+Export,1
+China and U.S.,1
+실질환율,1
+물가상승,1
+국제원유가격,1
+수출,1
+미국과 중국 관계,1
+Tokamak,1
+data analysis,1
+콘크리트 균열,1
+Line Radiation Diagnostics,1
+Fusion system,1
+sementic segmentation,1
+satellite image,1
+land cover classification,1
+SSResUNet model,1
+무역특화지수,1
+수출편향지수,1
+전기차,1
+Trade Specialization Index,1
+Export Bias Index,1
+Electric Vehicle,1
+CO2 storage,1
+enhanced gas recovery,1
+Pyropia yezoensis,1
+Ulva linza,1
+Medical image segmentation,1
+ResNet,1
+Crack detection,1
+Elastic distortion,1
+Convolutional Neural Networks,1
+Data augmentation,1
+Concrete crack,1
+Smearing,1
+Printed electronics,1
+CNN,1
+R2R,1
+Screen printing,1
+structural health monitoring (SHM),1
+3D scanning,1
+image deep learning,1
+AI displacement prediction,1
+SHM,1
+학습기법,1
+3D스캔,1
+AI 변위추정,1
+Deep Learning TAVR,1
+Cardiac Image Analysis,1
+Annulus Plane,1
+Deep Neural Network,1
+Image Deblurring,1
+Diffusion Model,1
+Embedded software,1
+PET/CT,1
+Head and neck cancer,1
+Image annotation,1
+Swin Trans- former,1
+Biomedical,1
+Drug safety management,1
+텍스트 대 이미지 생성,1
+PaDiM,1
+Maize,1
+Weed management,1
+return predictability,1
+operating income,1
+earnings persistence,1
+core earnings,1
+핵심손익,1
+이익지속성,1
+영업손익,1
+가치관련성,1
+Image Inpainting,1
+Deep learning · Megavoltage image · Kilovoltage image · Radiotherapy · Patient setup,1
+Residual connection,1
+Attention gate,1
+Defects segmentation,1
+Transfer Learning,1
+Railway tracks,1
+Wildfire-burned area,1
+산불피해지,1
+Residual,1
+Brain tumor,1
+Glioma,1
+장단기메모리(LSTM),1
+합성곱신경망(CNN),1
+기계학습(ML),1
+가우시안 회귀(GPR),1
+적합직교분해(POD),1
+차수저감 모델(ROM),1
+전산유체역학(CFD),1
+모델 가중치,1
+UAV image,1
+Generative Adversarial Networks (GANs),1
+2D Sprite Animation,1
+Game Development,1
+골밀도,1
+운동중재,1
+노인여성,1
+Meta Analysis,1
+Bone Density,1
+Exercise Program,1
+Elderly Women,1
+Coronary Artery Angiography,1
+Ground Truth Improvement,1
+Multispectral dataset,1
+Atrous spatial pyramid pooling,1
+/SUB&gt,1
++&lt,1
+SUB&gt,1
+DeepLabV3&lt,1
+Industrial Defect Detection,1
+Image Reconstruction,1
+deep neural network,1
+clipping detector,1
+speech declipping,1
+Mobile Internet.,1
+Mask R-CNN Model,1
+Digital Media,1
+Art Portrait Design,1
+Reproducibility,1
+Quality control,1
+Image conversion,1
+Automated segmentation,1
+Impersonator Model,1
+건물 탐지,1
+Weight of the Model,1
+스테이블 디퓨전,1
+손,1
+암시적 신경 표현,1
+토지피복분류,1
+지리정보기반 모델,1
+Optic Neuropathy,1
+Glaucoma,1
+Fundus,1
+Computer Vision,1
+Image Processing,1
+Denoising,1
+Multi-task transfer learning,1
+Railway fastener,1
+Anomaly detection,1
+객체 분할,1
+객체 인식,1
+Object Segmentation,1
+Building Detection,1
+Object Detection,1
+Hand,1
+Real world evidence,1
+Real world data,1
+international carbon reduction,1
+Drug lifecycle,1
+Noise Scheduling,1
+Dreambooth,1
+Fine-Tuning,1
+Stable Diffusion,1
+Text-to-Image Generation,1
+노이즈 스케줄링,1
+드림부스,1
+파인튜닝,1
+Geo-aware model,1
+Land cover classification,1
+Implicit neural representation,1
+GEMS,1
+Semantic Segmentation,1
+AI dataset,1
+Synthetic aperture radar,1
+Climate change,1
+Water body,1
+인공지능 데이터셋,1
+분류,1
+위성레이더,1
+기후변화,1
+수체 영역,1
+Quantitative calculation,1
+Crack identification,1
+Lightweight convolutional neural network,1
+Concrete cracks,1
+백반증,1
+VASI 점수,1
+백반증 이미지 분할,1
+vitiligo,1
+VASI score,1
+transfer learning,1
+vitiligo image segmentation,1
+위색합성,1
+황사,1
+산불연기,1
+인공지능,1
+정지궤도 환경위성,1
+False color composite,1
+Yellow dust,1
+Smoke plume,1
+enhanced oil recovery,1
+Strategy against Noth Korean Nuclear Weapons,1
+이산화탄소 저장,1
+Industrial park,1
+해상도,1
+스펙클,1
+디지털 홀로그래피,1
+Speckle,1
+Resolution,1
+Propagation methods,1
+Digital holography,1
+dual inputs,1
+satellite images,1
+Mobile,1
+Real-time Implementation,1
+Speech Enhancement,1
+장르 간 경쟁,1
+유행의 동력,1
+소비자물가지수,1
+장르의 흥행,1
+영화 시장,1
+Inter-Genre Competition,1
+Momentum,1
+Consumer Price Index,1
+Genre Fashion,1
+Feature Film Market,1
+Total Focusing Method (TFM),1
+Sectorial Scan (S-scan),1
+Ultrasonic Testing (UT),1
+총집속기법,1
+섹터 스캔,1
+초음파 검사,1
+object detection,1
+전파 방법,1
+Quarry,1
+knowledge distillation,1
+원격탐사,1
+ABAQUS,1
+Full-scale impact test,1
+Brake frame,1
+Anchor capacity,1
+Net protection system,1
+Debris flow,1
+Remote sensing image segmentation,1
+Micro residual structure,1
+Hybrid multiscale identification module,1
+3D Printing,1
+Attention,1
+Multi-scale,1
+Deep Convolutional Neural Network,1
+Orbtial Bone Segmentation,1
+3D 프린팅,1
+어텐션,1
+다중 스케일,1
+심층 신경망,1
+안와 분할,1
+U-Net architecture,1
+denoising,1
+deformable convolution,1
+CT image,1
+U-Net 구조,1
+CT영상,1
+잡음제거,1
+변형 가능한 컨볼루션,1
+채석장,1
+산업단지,1
+saliency mechanism,1
+Depth-Wise Separable Convolution,1
+천연가스회수증진,1
+U-net architecture,1
+Rural,1
+합성곱신경망,1
+위해시설,1
+농촌,1
+U2-Net,1
+Brain Tumor,1
+image segmentation,1
+microstructures,1
+fiber-reinforced cementitious composite,1
+이미지 분리,1
+미세구조,1
+섬유 보강 시멘트 복합체,1
+Quantitative evaluation,1
+Noise reduction algorithm,1
+Pancreas segmentation,1
+정량적 평가,1
+노이즈 제거 알고리즘,1
+이자 분할,1
+전산화단층검사,1
+천음속 유동(Transonic flow),1
+Conditional U-Net,1
+합성곱 신경망(Convolution Neural Network),1
+전산유체역학(Computational Fluid Dynamics),1
+공력설계 최적화(Aerodynamic design optimization),1
+Gaussian blur,1
+Motion blur,1
+Blind deblurring,1
+Image deblurring,1
+병렬 U-Net,1
+Convolutional nerual network,1
+Hyper parameters,1
+Atlas Video,1
+Noise reduction,1
+Video Super Resolution,1
+Vertebra segmentation,1
+Lumbar spine,1
+Osteoporosis,1
+X-ray image,1
+Residual block,1
+CycleGAN,1
+Medical imaging,1
+Image synthesis,1
+Image generation,1
+Stationary Wavelet Transform,1
+U-Net Structure,1
+Residue Channel Prior,1
+Single Image Deraining,1
+Abdominal CT,1
+Tumor segmentation,1
+Kidney segmentation,1
+복부 CT,1
+종양 분할,1
+신장 분할,1
+Blur augmentation,1
+항공기 자율운항,1
+Blur augmentatio,1
+Autonomous operation of aircraft,1
+노이즈 감소,1
+하이퍼파라미터,1
+전산화 단층촬영,1
+U-net 알고리즘,1
+딥러닝 모델,1
+Athlete migration,1
+college basketball,1
+professional basketball,1
+복소 스펙트럼 기반 음성 향상,1
+Feature map Dependent,1
+Complex-valued spectrum-based speech enhancement,1
+Infrastructure,1
+Volatility spillover,1
+Alternative investments,1
+인프라,1
+시간가변 변동성 전이,1
+대체투자,1
+downward-facing camera,1
+landing point recognition,1
+semantic image segmentation,1
+virtual reality,1
+Speech enhancement,1
+Complex-valued spectrum,1
+음성 향상,1
+복소 스펙트럼,1
+Radiation dosimetry · Deep learning · 3D U-net · Dose kernel · Radionuclide therapy · Monte Carlo simulation,1
+Soyang Lake,1
+PlanetScope,1
+KOMPSAT,1
+classification,1
+외부검증,1
+영상분할,1
+근감소증,1
+IOU,1
+External Validation,1
+Sarcopenia,1
+Inverse perspective mapping,1
+Automated pavement monitoring system,1
+Low Signal- to-Noise Ratio (SNR) environments,1
+특징 맵 기반,1
+social network analysis,1
+낮은 Signal- to-Noise Ratio (SNR) 환경,1
+석유회수증진,1
+온실가스 국제감축,1
+US Dollar Index,1
+Network Analysis,1
+Volatility Index,1
+Foreign Exchange Market,1
+Base Rate,1
+Nuclear Planning Working Group,1
+Nuclear Sharing,1
+Securing of Nuclear Potential,1
+Extended Deterrence,1
+Containment Strategy,1
+Parallel U-Net,1
+핵기획실무그룹,1
+핵 공유,1
+핵 잠재력 확보,1
+확장억제,1
+봉쇄전략,1
+북핵 전략,1
+OTT 플랫폼,1
+플랫폼 비즈니스,1
+미디어산업,1
+미디어정책,1
+미국 OTT 정책,1
+OTT platform,1
+platform business,1
+media industry,1
+media policy,1
+U.S. OTT policy,1
+Pavement patch detection,1
+Multi-class Segmentation,1
+Deep-Learning,1
+Fire,1
+Brain Tumor Segmentation,1
+뇌 MRI,1
+뇌종양 분할,1
+Nuclear Capability,1
+Net Threat,1
+North Korea Nuclear Test,1
+US-Japan Alliance,1
+ROK-US Alliance,1
+ROK-Japan Conflicts,1
+ROK-Japan Relations,1
+핵능력,1
+순위협,1
+북한 핵실험,1
+미일동맹,1
+한미동맹,1
+한일갈등,1
+한일관계,1
+Nonlinear structural dynamics analysis,1
+Capture simulation,1
+Active debris removal,1
+Space-net,1
+Space debris,1
+Out-of-Sample Forecast,1
+Wage-Led Growth,1
+Profit-Led Growth,1
+Trickle-Down Effect,1
+Labor Market Condition,1
+Government Spending,1
+sport labor,1
+Brain MRI,1
+X-ray,1
+Lumbar Segmentation,1
+단층촬영,1
+Quercus acutissima Carruth,1
+ex Ledeb,1
+Quercus mongolica Fisch,1
+Unmanned Aerial Vehicles,1
+UAV,1
+Quercus acutissima Carruth.,1
+Quercus mongolica Fisch. ex Ledeb,1
+UAV(Unmanned Aerial Vehicles),1
+Lung cancer . Deep learning . Segmentation . PET/CT,1
+Multi-model ensemble,1
+Feature engineering,1
+Sub-seasonal to seasonal predictions,1
+지도학습,1
+유넷,1
+U-Net++,1
+세분화,1
+단방향 복합재료,1
+Supervised Learning,1
+Computed Tomography,1
+Unidirectional composite,1
+Teeth segmentation,1
+Fuzzy U-Net,1
+Fuzzy module,1
+Ensemble model,1
+Land cover,1
+앙상블 모델,1
+토지피복,1
+Key-points,1
+메타분석,1

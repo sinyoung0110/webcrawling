@@ -1,0 +1,570 @@
+keyword,count
+Transformer,12
+CMOS,7
+High switching frequency,5
+LLC resonant converter,5
+Transformer design,5
+Power density,5
+Oil-paper insulation,5
+Efficiency,4
+Transformers,4
+Power Amplifier,4
+Solid state transformer,4
+soft-switching,3
+Phase-Locked Loop(PLL),3
+PWM inverter,3
+Instrument transformer,3
+Grid Connected,3
+H-Bridge Inverter,3
+Bidirectional converter,3
+Interleaved energy transfer,3
+Integrated inductor,3
+Differential power processor,3
+Electric vehicle,3
+Single-phase line-interactive,3
+효율,3
+Soft switching,3
+Impedance transformer,3
+Boost Inverter,3
+Single Phase Inverter,3
+Shoot-Through,3
+Neural network,3
+Voltage balancing control,3
+Transformer cooling system,3
+Setpoint algorithm,3
+Control algorithm,3
+Reset algorithm,3
+Fuzzy logic,3
+Soft start algorithm,2
+Bi-directional power conversion,2
+Open Thermal Ageing,2
+Temperature,2
+Resonance,2
+Dual Active Bridge (DAB) Converter,2
+Coconut Oil,2
+Refined Bleach Deodorized Palm Oil,2
+Bi-directional,2
+Pulsating voltage,2
+Ripple coefficient,2
+AC-DC converter,2
+Breakdown experiment,2
+Cascaded H-Bridge (CHB),2
+Matching network,2
+Multilevel converter,2
+Short wavelength,2
+Zero voltage switching (ZVS),2
+Power Electronic Transformer (PET),2
+Capacitive coupling,2
+Pulse Width Modulation (PWM),2
+Wireless power transfer,2
+Switching converter,2
+Coplanar waveguide,2
+Coupling structure,2
+Inductance compensation,2
+Rechargeable battery,2
+Active balancing,2
+Silicon substrate,2
+Constant current,2
+Three-level (TL) DC/DC converter,2
+PFM,2
+Short-circuit,2
+Circulating current,2
+Full-bridge converter,2
+Fault diagnosis,2
+Power transformer,2
+LCL,2
+Non-uniform field,2
+Lightning breakdown voltage,2
+Coconut oil,2
+Palm oil,2
+Measurement,2
+Primary-side regulation,2
+IGBT,2
+Emitter inductance,2
+Driver,2
+Collector current,2
+Grid-connected PV system,2
+DSP,2
+B4 inverter,2
+Electric vehicles,2
+Battery charger,2
+Leakage resonant inductance,2
+Series resonant capacitor,2
+Convert transformer,2
+Partial discharge property,2
+Active circuit,2
+Common-mode voltage,2
+High-power medium-voltage drives,2
+Neutral-point clamped inverter,2
+Space vector modulation,2
+series power device,2
+distribution-unified power flow controller,2
+bi-directional ac-ac converter,2
+transformer,2
+roof-top PV,2
+Railway vehicle,2
+Zero-voltage switching (ZVS),2
+Reduced filter size,2
+No circulating current,2
+DGA,2
+반도체 변압기,2
+Partial discharge,2
+Discharge procedure,2
+Pulsating DC voltage,2
+Solid State Transformer (SST),2
+Zero Voltage Switching (ZVS),2
+power amplifier,2
+Active transformer,2
+Regenerative braking energy,2
+Equivalent model,2
+PSCAD/EMTDC Simulation,2
+공동창작,2
+마네,2
+말라르메,2
+DAB,2
+W-Band,2
+millimeter-wave,2
+Fault current,2
+LED driver,2
+MR16,2
+retrofit,2
+triac dimmer,2
+electronic transformer,2
+Approximately digital control,2
+Output rectifier,2
+SCOTT Transformer,2
+Expanded uncertainty,2
+Voltage sensor,2
+Equivalent circuit,2
+Le Corbeau,2
+collaboration,2
+Manet,2
+『목신의 오후』,2
+『까마귀』,2
+AC to DC converter,2
+DC to AC inverters,2
+Power supply,2
+Regulated power supply,2
+Transformer feedback,2
+wideband input matching,2
+LNA,2
+UWB,2
+Ratio error,2
+Ratio correction factor,2
+Phase displacement,2
+Burden,2
+Transformer core imbalance,2
+Bidirectional DC-DC converter,2
+Single-stage,2
+Harmonic,2
+Flyback converter,2
+Multi-winding transformer,2
+Power electronic transformer,2
+Phase shift control,2
+DC/DC,2
+UPS systems,2
+Distribution transformer,2
+Meshed distribution system,2
+Node-branch incidence matrix,2
+Dead time,2
+Battery management system,2
+Cell balancing,2
+Power flow,2
+PV nodes,2
+Magnetic-bias,2
+Series-connected,2
+SHEPWM,2
+AC-DC Flyback converter,2
+Modular multilevel converter,2
+Dual active bridge,2
+LED-drive,2
+Transformer-coupled lossless (TCL) snubber,2
+precision machining,1
+measurement,1
+W-band,1
+waveguide,1
+Non-hybrid(비-하이브리드),1
+THD(total harmonic distortion),1
+Construction Machinery(건설기계),1
+Distribution system asset management,1
+Energy Efficiency(에너지 효율),1
+Throttling Loss(쓰로틀손실),1
+IMV(독립적 미터링제어밸브),1
+Fe-Si,1
+Distribution equipment,1
+RMS voltage,1
+Failure rate,1
+Maximum overvoltage,1
+Lightning surge,1
+EMTP/ATPDraw,1
+Current Driven SR,1
+Resonant Switching,1
+orthomode transducer (OMT),1
+Single-Phase Multi Tap(SPMT),1
+THD,1
+EMU(electric multiple unit),1
+Switching Mode Power Supply (SMPS),1
+Motor Bus Transfer(MBT),1
+Residual Voltage Transfer,1
+Short-circuit fault,1
+Analog tester,1
+K Band,1
+Acoustic,1
+Electric quality,1
+Propagation,1
+Oil,1
+Velocity,1
+Displacement Control(변위제어),1
+CPR(커먼 압력 레일),1
+Hydraulic Transformer(유압변환기),1
+Fast Transfer,1
+Equivalent circuit model,1
+Power Factor,1
+Scrap,1
+LC Filter,1
+SCR Phase Control,1
+Sapphire Silicon Ingot Glowing(SSIG),1
+Harmonics,1
+Electrical sheet,1
+Existing lines,1
+Vibration,1
+Magnetoelastic,1
+Soft magnetic,1
+Resonator,1
+Magnetostriction,1
+Tape casting,1
+Magnetoelastic resonator,1
+Recycling,1
+Automatic Bus Transfer,1
+Cascaded H-bridge inverter,1
+Bidirectional DC-DC Converter(BDC),1
+oxidation characteristics,1
+Consolation par le poème,1
+시의 위안,1
+Congés,1
+고별시,1
+Jean Bodel,1
+장 보델,1
+Water cooling.,1
+5 kW high power amplifier,1
+13.56 MHZ amplifier,1
+ISM band,1
+storage stability,1
+vegetable oil,1
+Snubber,1
+mineral oil,1
+insulation oil,1
+Starting Current,1
+Torque and speed,1
+Motor Starting,1
+High-Power Induction Motor,1
+Induction motor,1
+d-q Control,1
+IGBT PWM Rectifier,1
+Single Phase Control,1
+UPS,1
+글쓰기의 치유,1
+Guérison par l,1
+écriture,1
+성찰과 구원,1
+Field test,1
+Fault locator,1
+AT Feeding system,1
+L`Apres-midi d`un Faune,1
+Mallarme,1
+L’Après-midi d’un Faune,1
+Mallarmé,1
+Common-View Time Transfer,1
+Receiver Delay,1
+UTC,1
+Timing Recevier,1
+"공통시계 비교법
+ELoran",1
+수신기 지연,1
+세계협정시,1
+타이밍수신기,1
+ELoran,1
+log scale,1
+Weibull plot,1
+ac main line,1
+Insulation resistance,1
+XLPE,1
+âme,1
+Méditation et salut de l,1
+Solar Light LED,1
+Converter,1
+Distribution Automation,1
+pll,1
+Superconducting fault current limiter (SFCL),1
+FMEA,1
+electric power installations,1
+criticality,1
+risk priority number,1
+Mobile robot,1
+Energy efficient,1
+Switching hydraulic system,1
+Fluid power converter,1
+full bridge,1
+power regenerative,1
+efficiency,1
+Flyback,1
+electrical load testing system,1
+풀브리지,1
+전력회생,1
+위상잠금루프,1
+전기부하시험장치,1
+Contact loss,1
+Railway feeding system,1
+Power conversion system,1
+Voltage Drop,1
+State Estimation,1
+Section Loading Calculation,1
+Passive element,1
+Solenoid valve,1
+Vacuum interrupter,1
+Fault current dection,1
+Boost,1
+Pulse Modulated Transcranial Magnetic Stimulation,1
+intermittent Theta Burst Stimulation(iTBS),1
+Brain Stimulation,1
+Transcranial Magnetic Stimulation(TMS),1
+Signal Processing,1
+Pattern Claisfsication,1
+Neural Networks,1
+Electric Load,1
+신호처리,1
+패턴분류,1
+인공 신경망,1
+MFCC,1
+전기부하,1
+LLC Half Bridge Converter,1
+정류기,1
+부하시 탭변환 장치,1
+최대 수요 전력,1
+철도,1
+Rectifier,1
+Oltc,1
+Maximum Demand,1
+Railway,1
+Synchronous Rectifier,1
+전자계과도해석프로그램,1
+end states,1
+Transformer type SFCL (superconducting fault current limiter),1
+Resonant Circuits,1
+Pulse,1
+High Voltage,1
+Harmonic Frequency,1
+Zero sequence impedance,1
+Three phase core-type transformer,1
+High-Efficiency Transformer,1
+Histogram,1
+Private Electrical Facilities,1
+Load Factor,1
+Double quench,1
+Accumulated energy,1
+Transformer Management,1
+Power consumption,1
+Unequal split,1
+S-to admittance parameter conversion,1
+Branch line structure,1
+Superconducting element,1
+Quench,1
+SFCL (transformer type superconducting fault current limiter),1
+변압기,1
+풀브리지 컨버터,1
+위상 변조,1
+Full-Bridge Converter,1
+Water Concentration,1
+Water Removal,1
+initiating events,1
+Limit point,1
+Accuracy test,1
+Current transformer,1
+mA CT,1
+Void,1
+VOF,1
+Mold filling,1
+Epoxy,1
+Dry-type transformer,1
+Power Burden,1
+Operating Characteristics,1
+Double Quench,1
+Existing apartment,1
+Insulation Paper,1
+Transformer spare capacity,1
+Antenna,1
+Corona,1
+Fault location,1
+Artificial Insulation detect,1
+Cast-resin transformer,1
+IEC 60599,1
+ANFIS,1
+Neuro-Fuzzy model,1
+Power transformers,1
+Insulation Oil,1
+Phase-Shift,1
+zipper,1
+transformable,1
+arc welding machine,1
+real-time measurement,1
+power distribution transformers,1
+Complex harmonics,1
+axial natural vibration frequency,1
+efficient finite element model,1
+winding,1
+power transformer,1
+air gap core,1
+inrush current,1
+amorphous core,1
+ferrite &amp,1
+Experimental study,1
+Northern Europe,1
+Modeling simulation,1
+Output flow,1
+Hydropneumatic transformer,1
+3차원적 공간성(Three-dimensional Spatiality),1
+복합적 장식성(Complex Ornamentation),1
+시각적 유희성(Visual Pleasure),1
+다각적 미정성(Multilateral Indeterminacy),1
+트랜스포머블 패션 텍스타일(Transformable Fashion Textile),1
+and transformer,1
+shoot-through,1
+boost inverter,1
+real-time monitoring system.,1
+Superconductor,1
+line-to-line,1
+line-to-ground,1
+knitwear,1
+fastening system,1
+패스닝 시스템,1
+지퍼,1
+북유럽,1
+니트웨어,1
+가변성,1
+Transmission Zeros,1
+Selectivity,1
+Impedance Transformer,1
+Coupled Line,1
+Static power loss,1
+Reconfigurable,1
+Thermoelectric,1
+Inrush current eliminationnt elimination,1
+Inrush curreUPS systems,1
+Inrush current elimination,1
+Lebedev,1
+magnetic energy,1
+leakage inductance,1
+integrated magnetic(IM),1
+phase shift full bridge(PSFB),1
+Zero voltage switching(ZVS),1
+Metering,1
+Revenue metering,1
+DGA(Dissolved Gas Analysis),1
+양방향 직류/직류 컨버터,1
+Linear variable differential transformer(LVDT),1
+Proportional solenoid,1
+Electro-hydraulic proportional valve,1
+Transformer losses,1
+Non-linear load,1
+Current harmonics,1
+Lightning,1
+Discharge,1
+Tesla coil,1
+Arc,1
+전압 변조,1
+지능형 변압기,1
+3레벨 단상 컨버터,1
+Modulation,1
+Dual Active Bridge converter,1
+Smart transformer,1
+single-phase inverter,1
+내부공진,1
+변압기 권선,1
+철도차량,1
+Electromagnetic transients program(EMTP),1
+Internal resonance,1
+Transformer winding,1
+전압 균형 제어,1
+Spool of vavle,1
+electrical materials,1
+annealing,1
+grain growth,1
+power installations,1
+ETA(Event tree analysis),1
+buck/boost converter,1
+bi-polar converter,1
+coupling inductance,1
+벅/부스트 컨버터,1
+양방향 컨버터,1
+커플링 인덕턴스,1
+Compact RIO,1
+Carbon,1
+Dimensional Measurement,1
+Precision Measurement,1
+LVDT,1
+Tan delta,1
+Lifetime estimation,1
+Tensile strength,1
+Thermal and electrical degradation,1
+Three windingauxiliary high frequency transformer,1
+Current regeneration,1
+Flyback type DC-DC converter,1
+Passive snubbers,1
+texture,1
+EBSD,1
+멀티레벨 컨버터,1
+직렬연결 풀브릿지 컨버터,1
+Rogers,1
+OCR,1
+Insulating materials,1
+Insulation characteristics,1
+Voltage Burden,1
+Twice Fault Current Limiting Operation,1
+Superconducting Fault Current Limiter(SFCL),1
+Current Distribution,1
+Winding Type Resolver,1
+Multi-Physics,1
+Finite-Element Method,1
+PSCAD/EMTDC,1
+Scott transformer,1
+AT feeding system,1
+Multi-level converter,1
+High frequency transformer,1
+DC-DC converter,1
+Linearity,1
+ACLR,1
+Voltage to Ground,1
+PID Phenomenon,1
+Transformer-Less,1
+Ground Detect,1
+Inverter,1
+Intelligent probability model,1
+PNN(Probability Neural Network),1
+Pole transformer,1
+Thermal degradation,1
+Flux-Lock Type Superconducting Fault Current Limiter(SFCL),1
+Fault Current Limiting Characteristics,1
+Three-level single phase converter,1
+Cascade H-Bridge converter,1
+Transmission Characteristics,1
+Train Communications System,1
+Reflection Characteristics,1
+Rail Power Line Communication,1
+Impedance,1
+ZVS,1
+server power system,1
+interleaved,1
+converter,1
+Parasitic element,1
+LEO,1
+Active beam steering,1
+Yagi-Uda antenna,1
+Transients phenomena,1
+PSCAD,1
+Magnetizing inrush,1
+Internal fault,1
+FFT,1
+Current differential protection,1
+Superconducting Element,1
+Transformer Winding,1
+Modification factors,1

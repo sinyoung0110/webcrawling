@@ -1,0 +1,134 @@
+keyword,count
+GAN,4
+적대적 생성 신경망,4
+CNN,4
+합성곱 신경망,3
+CycleGAN,2
+Discriminator,2
+DNN,2
+CCTV,2
+Pix2Pix,2
+머신러닝,2
+딥러닝,2
+Machine Learning,2
+Deep learning,2
+MIT-BIH,2
+적대적 학습,1
+contrastive representation learning,1
+group recommendation,1
+neural collaborative filtering,1
+대조적 표현 학습,1
+data sparsity,1
+adversarial training,1
+데이터 희소성,1
+neural networks parameter regeneration,1
+신경망 기반 협업 필터링,1
+그룹 추천,1
+Classification,1
+GAN augmentation,1
+동영상 내용분석,1
+미디어 인공지능,1
+적대적 신경망,1
+순환 신경망,1
+컴퓨터 비전,1
+video analytics,1
+media AI(media artificial intelligence),1
+generative adversarial network (GANs),1
+recurrent neural networks (RNNs),1
+convolutional neural networks(CNN),1
+Transfer learning,1
+super resolution,1
+Receptive field,1
+Restoring photo,1
+스마트 양식장,1
+행동 패턴 인식,1
+어류 질병 예측,1
+Image Processing,1
+Smart Aquaculture,1
+Behavior Pattern Recognition,1
+Fish Disease Prediction,1
+양방향 장단기 기억 신경망,1
+부정맥,1
+BLSTM,1
+Arrhythmia,1
+Homomorphic Filter,1
+Generator,1
+Shadow removal,1
+Spatially adaptive de-normalization,1
+Shadow detection,1
+Normalization layers,1
+Conditional generative adversarial networks,1
+그림자 제거,1
+공간 적응적 비 정규화,1
+그림자 감지,1
+정규화 층,1
+조건부 적대적 생성 신경망,1
+.,1
+wavelet transform,1
+gradient,1
+self attention,1
+generative adversarial network,1
+deep learning,1
+computer vision,1
+적대적공격,1
+Adversary attack,1
+스타일 변환,1
+적대적 생성 네트워크,1
+Medical image,1
+Histopathology,1
+Super-resolution,1
+데이터셋,1
+특이점,1
+순환 적대적 생성 신경망,1
+안면 변환,1
+안면 교체,1
+dataset,1
+landmarks,1
+cycle generative adversarial network (cycleGAN),1
+face translation,1
+Face swapping,1
+object detection,1
+image data augmentation,1
+generative adversarial network (GAN),1
+convolution neural network (CNN),1
+객체 탐지,1
+이미지 데이터 증강,1
+태스크 지속 학습,1
+지속 학습,1
+베이지안 신경망,1
+신경망 파라미터 재생성,1
+task-incremental learning,1
+continual learning,1
+Bayesian neural networks,1
+비디오 생성,1
+스타일 합성 네트워크,1
+face identification,1
+동영상 합성 네트워크,1
+De-identification,1
+generative adversarial networks,1
+얼굴식별,1
+비식별,1
+Image Fusion,1
+Denoising,1
+Architectural heritage drawing,1
+이미지 합성,1
+노이즈 제거,1
+건축 문화재 도면,1
+Elastic transformation,1
+Image warping,1
+Transferability,1
+Transfer-based attack,1
+Adversarial attack,1
+Anomaly Detection,1
+Unsupervised Learning,1
+Deep Learning,1
+Air Quality,1
+이상탐지,1
+비지도 학습,1
+대기질,1
+Video Synthesis Network,1
+Style Synthesis Network,1
+Style Transfer,1
+Video Generation,1
+Generative Adversarial Network,1
+영상처리,1

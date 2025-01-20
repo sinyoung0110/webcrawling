@@ -1,0 +1,1190 @@
+keyword,count
+Transformer,37
+BERT,17
+딥러닝,16
+트랜스포머,14
+Deep Learning,14
+Deep learning,11
+transformer,9
+.,7
+deep learning,7
+GPT,6
+surprisal,5
+Neural Network,4
+Partial discharge,4
+language model,4
+LSTM,4
+Object Detection,4
+GPT-2,4
+Starting current,4
+BART,4
+Voltage drop,4
+natural language processing,3
+Artificial intelligence,3
+자연어처리,3
+Big Data,3
+Machine learning,3
+멀티모달,3
+Natural Language Processing,3
+Vision transformer,3
+Percent impedance,3
+Current transformer,3
+MFCC,2
+반도체 변압기,2
+Transformer capacity,2
+Solid-state transformer,2
+Induction motor,2
+DC-DC converter,2
+Electrical Safety,2
+Feature Extraction,2
+Wireless Power Transfer,2
+Artificial Intelligence,2
+DC distribution,2
+DC/DC converter,2
+-,2
+DAB converter,2
+Semantic segmentation,2
+Power transformer,2
+Receiving Power Transformer,2
+InferSent,2
+Inspection Statistics,2
+Object detection,2
+GLUE,2
+언어모델,2
+W-Band,2
+Amplifier,2
+Fault diagnosis,2
+Random forest,2
+감성분석,2
+Sentiment Analysis,2
+Artificial neural network (ANN),2
+convolutional neural networks,2
+ALBERT,2
+NLP,2
+인공지능,2
+Electrical breakdown,2
+PrefixLM,2
+언어 모델,2
+Vision Transformer,2
+LUKE,2
+RoBERTa,2
+Coupling coefficient,2
+수학 문장제 문제,2
+Transformers,2
+Perceiver,2
+Bidirectional Encoder Representations from Transformers(BERT),2
+Pole transformer,2
+Spacer,2
+생성적 적대 신경망,2
+IEC 60044-8,2
+Bidirectional Encoder Representations from Transformers,2
+Piezoelectric transformer,2
+1×1,2
+neural language model,2
+LED,2
+Metaverse,2
+Topic Modeling,2
+Pansori,2
+NLL,2
+VMS,2
+Deep-learning,2
+GelMA,2
+Research Trend,2
+Distribution system,2
+neural machine translation,2
+Harmonics,2
+Automatic Diagnosis,2
+Replacement Cycle,2
+Private Electrical Facilities,2
+attention model,2
+Reliability Analysis,2
+이상탐지,1
+Power Amplifier,1
+Anomaly Detection,1
+Common-Source,1
+Cascode,1
+Auxiliary   converter,1
+Newly   proposed    converter,1
+교류(AC),1
+Silicon Germanium.,1
+Inverter,1
+12   pulse   converter,1
+Input ripple,1
+고조파,1
+DC–DC power conversion,1
+보조컨버터,1
+Network Management,1
+Magnetic integration,1
+Driver Amplifier,1
+Dual active bridge converter,1
+Heterojunction Bipolar Transistor (HBT),1
+Electricity market,1
+motion,1
+Integration circuit,1
+물체의 운동,1
+Backpropagation Algorithm,1
+Battery charger,1
+Bipolar DC distribution system,1
+Market Price,1
+Transmission congestion,1
+alternating current(AC),1
+Frequency Doubler,1
+새로   제안된   컨버터,1
+Parasitic Elements,1
+stroboscope,1
+Image analysis,1
+Remote sensing,1
+Voltage balancer,1
+5G.,1
+다중섬광 장치,1
+Array Antenna,1
+gender mismatch effect,1
+인버터,1
+데이터 증강,1
+Switchboard,1
+Ai algorithm,1
+Diagnosis system,1
+Antibacterial activity.,1
+Ginger extract,1
+Knowledge graph,1
+Electric power equipment,1
+Entity recognition,1
+Hydrogel,1
+Gelatin,1
+Relation extraction,1
+서프라이절,1
+읽기 시간,1
+Photovoltaics,1
+전치사구 수식,1
+주어/목적어 관계절,1
+객체 검출,1
+reading time,1
+PP modification,1
+산업 환경,1
+subject/object relative clause,1
+Generative Adversarial Networks,1
+Data Augmentation,1
+Industrial Environment,1
+reflexive dependency,1
+neural network language model,1
+IVMC,1
+Voltage multiplier,1
+12    펄스    컨버터,1
+Linguistic Feature,1
+filler-gap dependency,1
+Multi-input,1
+Single-stage,1
+Maximum power,1
+GCC decomposition,1
+New energy generation,1
+channel estimation,1
+wireless cellular networks,1
+Fake Review,1
+Predictive Modeling,1
+Network Attack&Intrusion Detection,1
+항균력,1
+생강 추출물,1
+Interleaved boost,1
+Semantic Feature,1
+요약,1
+영화 요약,1
+감정 역학,1
+summarization,1
+movie summarization,1
+하이드로겔,1
+젤라틴,1
+multimodal,1
+emotion dynamics,1
+High gain,1
+Isolated converter,1
+Pre-processing,1
+신경망 기계 번역,1
+South Korea,1
+Active integrator,1
+vision transformer,1
+multiscale features,1
+bidirectional fusion,1
+pest classification,1
+Electron affinity,1
+Ionization potential,1
+Breakdown voltage,1
+Positive lightning impulse,1
+Streamer,1
+Ester insulating oil,1
+Injection transformer,1
+Capacitor-less H-bridge inverter,1
+Pulse width modulation,1
+Voltage fluctuation,1
+Phase deviation,1
+EV (Electric Vehicle),1
+Integrated EV charging system,1
+IPT (Inductive Power Transfer),1
+Small-signal model,1
+deep-learning,1
+Spatial-temporal Structure Information,1
+Sign2Gloss2Text,1
+Keypoints,1
+Human Pose Estimation,1
+Sign Language Translation,1
+Islanding mode,1
+LLC resonant converter,1
+Grid connected mode,1
+TAB (Triple-Active-Bridge) converter,1
+Skeletal Information,1
+Keypoint Detection,1
+Balim,1
+Adjustable turn-ratio,1
+Voltage ratio,1
+Potential transformer,1
+text classification,1
+D-dot sensor,1
+다언어 기계번역,1
+기계번역,1
+한국어 방언 기계번역,1
+Language Convergence,1
+Multilingual Translation,1
+Machine Translation,1
+Korean Dialect Translation,1
+Load Impedance Variation,1
+Output Power Variation,1
+Quarter-Wave Impedance Transformer,1
+Class E Power Amplifier,1
+Chatbot,1
+Swin-Transformer,1
+Image Classification,1
+Animal Healthcare,1
+언어 융합,1
+Indirect Lightning,1
+Low voltage,1
+Equipment preventive maintenance,1
+위상차,1
+분압비,1
+능동성 적분기,1
+계기용 변압기,1
+전속 센서,1
+UHF sensor,1
+Breakdown characteristics,1
+Medium voltage,1
+Substation,1
+IEC61850,1
+GA,1
+Fitness function,1
+Fault recovery,1
+Surge arresters,1
+it-cleft,1
+pronominal case,1
+platform,1
+Smart grid system,1
+Termination part,1
+Dielectric characteristics,1
+Current lead,1
+Creepage discharge,1
+Index n,1
+Degradation,1
+Critical current,1
+2G HTS wire,1
+Language models,1
+Binary classification task,1
+Korean SAT,1
+데이터 전처리,1
+이진 분류 태스크,1
+대학수학능력시험,1
+monotonicity,1
+semantic role labeling,1
+Korean neural language model,1
+performance assessment,1
+evaluation,1
+elite polarization,1
+political polarization,1
+언어학,1
+평가,1
+언어모형,1
+linguistics,1
+language models,1
+layer-wise analysis,1
+Power,1
+HEMT,1
+GaN,1
+Text Analysis,1
+텍스트 분석,1
+heatmap analysis,1
+scope,1
+licensor,1
+/SUB&gt,1
+DC Microgrid,1
+End-to-End framework,1
+Handwritten parcel delivery invoice understanding,1
+Optical character recognition,1
+Leakage Inductance,1
+Power Decoupling,1
+Quadruple-Active-Bridge (QAB),1
+pre-trained language model,1
+Clamp load(축력),1
+text analysis,1
+linkage of classification systems,1
+Rogowski coils,1
+DC Arc generator test equipment,1
+Arc detection sensor,1
+DC fire and preventive measures,1
+Document understanding transformer,1
+Variable cam timing(VCT,1
+LARGE&lt,1
+Machine translation,1
+SUB&gt,1
+BERT&lt,1
+NPI,1
+Visualization,1
+exBERT,1
+XAI,1
+Self-Attention,1
+가변 밸브 타이밍 기구),1
+변위 센서),1
+Linear variable differential transformer(LVDT,1
+Strain gauge(스트레인 게이지),1
+Hollow bolt(중공 볼트),1
+센터볼트),1
+Oil control valve(유로 제어 밸브,1
+SFCL,1
+bus separation method,1
+Full-bridge converter,1
+Electrical Safety Management System,1
+Real-Time,1
+License Plate Recognition,1
+Life Cycle,1
+Electrical Life Assessment,1
+Electrical Safety Level,1
+Electrical Facility,1
+Feature Selection,1
+CNN,1
+Multi-Modal,1
+인공 신경망,1
+특성 추출,1
+traffic signal,1
+PPO,1
+ITS,1
+Anchor-Free Method,1
+번호판 인식,1
+DRL,1
+Weight Sharing,1
+Littérature classique française,1
+프랑스 고전문학,1
+Musique,1
+음악,1
+Gradient Accumulation,1
+Mixed Precision,1
+HR-VITON,1
+실시간,1
+Virtual Try-on Service,1
+Relaxation mechanism and transport properties,1
+Debye temperature,1
+Thermo-magnetization,1
+Cationic distribution,1
+자유 앵커 방식,1
+edge computing,1
+Data Mining,1
+compositeur,1
+Feature vector,1
+Irradiation adaptive algorithm,1
+L2-language models,1
+linguistic generalization,1
+L2-신경망 언어 모델,1
+신경망 언어 모델,1
+언어학적 일반화,1
+Object recognition,1
+Photovoltaic,1
+Object embedding,1
+Image retrieval,1
+특징 벡터,1
+객체 인식,1
+객체 임베딩,1
+이미지 검색,1
+Differential power processing,1
+Bi-directional DC-DC converter,1
+Operating Coil Monitoring and Diagnosis,1
+Open Domain Machine Reading Comprehension,1
+Temperature and Humidity Monitoring and Diagnosis,1
+Vacuum Level Monitoring and  Diagnosis,1
+Monitoring and Diagnosis Device,1
+Edge AI,1
+Document Reader,1
+Document Search,1
+문서 독해,1
+Partial shading,1
+문서 검색,1
+오픈 도메인 기계독해,1
+Seal Character Segmentation,1
+RefineMask,1
+FPN,1
+Character Recognition,1
+작곡가,1
+프랑스 고전주의,1
+High-power rectifier,1
+mission,1
+representation,1
+탈주선,1
+기계적 배치,1
+기계,1
+배우,1
+재현,1
+justice and shalom,1
+machine,1
+Christian school,1
+Christian,1
+education,1
+sustainable development,1
+사명,1
+정의와 샬롬,1
+actor,1
+machinery arrangement,1
+그리스도인,1
+&#233,1
+Radiographic Testing,1
+le social,1
+coles,1
+grandes &#233,1
+grands corps,1
+lites du welfare,1
+politique familiale,1
+line of escape,1
+그랑제꼴,1
+사회적인 것,1
+저출산,1
+사회문제,1
+복지 엘리트,1
+프랑스 가족 정책,1
+기독교학교,1
+교육,1
+classicisme français,1
+Molière,1
+Musique Baroque,1
+바로크음악,1
+La Fontaine,1
+라 퐁텐,1
+Perrault,1
+페로,1
+몰리에르,1
+Musique impressionniste,1
+Fable,1
+우화,1
+Conte,1
+동화,1
+Comédie-Ballet,1
+코메디-발레,1
+인상주의 음악,1
+현대 음악,1
+지속 가능한 발전,1
+결합 서셉턴스,1
+Circular Groove,1
+Post Capacitor,1
+Junction Susceptance,1
+Evanescent Waveguide,1
+원형 홈,1
+막대 커패시터,1
+감쇄 모드 도파관,1
+Musique contemporaine,1
+Poulenc,1
+풀렝,1
+Ravel,1
+라벨,1
+Lully,1
+륄리,1
+Zero current switching (ZCS),1
+Zero voltage switching (ZVS),1
+Quasi-resonance,1
+스마트홈 시나리오,1
+DC power system,1
+Brand Experience,1
+Service Design,1
+Smart-Home Scenario,1
+브랜드 경험,1
+서비스디자인,1
+Cable Tree,1
+Mesh type,1
+Cable Termination,1
+Insulation failure,1
+Earth fault,1
+Cable burning accident,1
+케이블 트리,1
+케이블 접속재,1
+Dual active bridge(DAB),1
+Power flow,1
+지락사고,1
+SIMO(Single-Input Multiple Output),1
+Causality Mining,1
+Resonant Topology,1
+Maximum Power Transfer,1
+Magnetizing Inductance,1
+Mutual Inductance,1
+SOH( State of Health),1
+Flyback DC/DC Converter,1
+MMC,1
+Battery Cell Balancing,1
+Unloading Robot,1
+Sliding mode control,1
+MV variable-speed drives,1
+Capacitor voltage ripple,1
+Power decoupling,1
+절연파괴,1
+케이블 열화사고,1
+DC–DC converter,1
+PMSM,1
+discourse expectation,1
+Computation load,1
+Cost function,1
+Sector judgment,1
+Dual voltage vector selection,1
+Model predictive current control,1
+Text-To-Text,1
+next sentence prediction,1
+Table-To-Text,1
+Multi-Task Learning,1
+Battlefield Situation Awareness,1
+GA-BP neural network,1
+Power supply strategy,1
+Electrolytic copper,1
+implicit causality bias,1
+coreference resolution,1
+PSIM.,1
+genetic programming,1
+power loss analysis,1
+Kool Mu core,1
+high frequency magnetic parts,1
+ZVS,1
+Isolated phase shift PWM converter,1
+line separation method,1
+fault current reducing method,1
+Distribution network,1
+fault current,1
+HRNet-OCR,1
+Anomaly detection,1
+Long-short term memory,1
+Hybrid clustering,1
+Line loss,1
+Relation Network,1
+Multi-level Relation Network,1
+Relation Classification,1
+Harmonic Compensation,1
+early childhood institution,1
+Digital Forensics,1
+Voice Recording Classification,1
+디지털 포렌식,1
+음성 녹음 분류,1
+Rational Energy Transformative Optimization (RETO) Algorithm,1
+Distributed Energy Resources,1
+life history,1
+Dynamic Voltage Restorer (DVR),1
+Parallel resonant converter,1
+High voltage capacitor charger,1
+Cockcroft-Walton voltage multiplier,1
+단절적 시계열 분석,1
+난민,1
+director,1
+유아교육기관,1
+Cause-effect Relation Classification,1
+time series,1
+Machine Learning,1
+Product Review,1
+Deep Reinforcement Learning,1
+safety management,1
+prediction,1
+machine learning,1
+Static pressure facility,1
+원장,1
+Finite Element Analysis,1
+Magnet Saturation,1
+Current Measurement,1
+Air Core,1
+Rogowski Coil,1
+생애사,1
+interrupted time series analysis,1
+sentiment analysis,1
+refugees,1
+dependency grammar,1
+Insider threat detection,1
+CERT dataset,1
+Bert,1
+SPO tuple,1
+long short-term memory,1
+information extraction,1
+Natural language processing,1
+그래프 투 트리 학습,1
+MBTI,1
+Musical,1
+Lyrics generation,1
+마이어스-브릭스 유형지표,1
+뮤지컬,1
+가사생성,1
+Masked language model,1
+Pre-trained model,1
+Threshold-based detection,1
+smart automatic jack-up system,1
+IR-sensor,1
+pairwise comparison matrix,1
+quantitative risk assessment,1
+ANOVA,1
+스마트 자동 인상 시스템,1
+거리측정센서,1
+쌍대비교행렬,1
+정량적 위험도 분석,1
+분산분석,1
+math   word   problem,1
+mathematical   relationship   extraction,1
+graph-to-tree    learning,1
+수학적 관계 추출,1
+Swin transformer,1
+representations from transformers (bert),1
+Undersea image,1
+Grid-connected transformer,1
+multidilation convolutional block,1
+polyp segmentation,1
+PSCAD/EMTDC,1
+Prevention algorithm,1
+Surge voltage,1
+Core saturation,1
+ESS,1
+Harris-Hawks optimization (HHO),1
+Ferro-resonance,1
+Oil-immersed transformer,1
+Dissolved gas analysis,1
+Improved Harris Hawks optimization algorithm,1
+Security inspection,1
+One stage detector,1
+multifeature aggregation block,1
+Swin Transformer,1
+Linear variable differential transformer,1
+FEM model,1
+Theoretical model,1
+Sensitivity,1
+Linear region,1
+DC microgrid,1
+DC solid state transformer (DCSST),1
+Bus voltage,1
+Coordinated control,1
+Inductive power transfer,1
+Multiple receiving coils,1
+Misalignment tolerance,1
+Power transmission,1
+Shoot-through problem,1
+DC-DC power converters,1
+Transformer fault diagnosis,1
+Kernel extreme learning machine (KELM),1
+Dielectric property,1
+Current transformer (CT),1
+PSCAD,1
+DC source,1
+High voltage energy extraction,1
+Voltage transformer,1
+Medium voltage (MV),1
+CT saturation,1
+Local Descriptors,1
+Dissolved gas analysis (DGA),1
+Multi-modal,1
+cross-modal retrieval,1
+Video representation,1
+AI,1
+MultiModal,1
+Dialogue System,1
+EMTDC,1
+connectionist temporal classification,1
+end-to-end,1
+speech recognition,1
+심전도,1
+부정맥,1
+데이터 잡음,1
+강건,1
+Electrocardiogram,1
+Arrhythmia,1
+Data noise,1
+Robustness,1
+visual navigation,1
+knowledge graph,1
+reinforcement learning,1
+spatial attention,1
+transformer network,1
+Vanets,1
+ALOHA,1
+Charger,1
+Leakage magnetic flux,1
+누설자속,1
+잔류자속,1
+변압기,1
+Transfer function,1
+φ-I curve,1
+Magnetic sensor,1
+Residual magnetic flux,1
+Voltage equalizer,1
+Overvoltage,1
+Smart Inverter,1
+Volt-Var Control Curve,1
+Distribution Energy Resources,1
+Transformer Voltage Tap,1
+Transformer impedance,1
+자계센서,1
+φ-I곡선,1
+전달함수,1
+Potential transformers (PT),1
+Gas insulated switchgears (GIS),1
+Electronic voltage transformer (EVT),1
+Capaci-tive probe (CP),1
+Short circuit protection,1
+Rosen type,1
+Short accident,1
+Resonance frequency,1
+Tesla transformer,1
+Magnetic core,1
+Eddy current loss,1
+Magnetizing inductance,1
+Stray inductance,1
+Explosives materials,1
+NEMA code letter,1
+Loss analysis,1
+Leakage inductance,1
+Medical Informatics,1
+Constant current and constant voltage charging,1
+Equivalent circuit,1
+EEG,1
+mental stress,1
+music,1
+self-attention,1
+5G,1
+65-nm,1
+CMOS,1
+High Efficiency,1
+Ka-band,1
+Power amplifier (PA),1
+Power combiner,1
+Triple-mode control,1
+Data Anonymization,1
+Dual Active Bridge,1
+Dissolved gases,1
+DGA,1
+Metal oxides,1
+GeSe,1
+DFT,1
+grid voltage degradation,1
+generator output voltage,1
+nuclear power plant (NPP),1
+on load tap changer (OLTC),1
+Planar transformer,1
+High frequency dc-dc converter,1
+efficiency,1
+Power density,1
+Arc welding machine,1
+대화시스템,1
+Corona charging,1
+Cast-resin,1
+Transformer block,1
+sound event detection,1
+Fractional bandwidth,1
+inter-stage matching network,1
+Broadband,1
+RF transformer,1
+Amplifiers,1
+Edge decoder,1
+학습자 작문,1
+Skin lesion,1
+Skin lesion segmentation,1
+트랜스포머 블록,1
+윤곽선 디코더,1
+피부 병변,1
+피부 병변 분할,1
+transformer encoder,1
+feature-pyramid,1
+convolutional neural network,1
+Morphological Analysis,1
+Transfer Learning,1
+BERT-fused Model,1
+형태소분석,1
+전이학습,1
+BERT-fused 모델,1
+시계열 예측,1
+3D 컨볼루션,1
+시퀀스 투 시퀀스,1
+Time-series forecasting,1
+3D convolution,1
+Sequence-to-Sequence,1
+Automobile Noise Prediction,1
+Electric Power Steering,1
+작문 발달,1
+Transformer 언어 모델,1
+Fluorination,1
+피부 영상,1
+영상 인페인팅,1
+털 제거,1
+generative adversarial networks,1
+image inpainting,1
+hair removal,1
+의료 인공지능,1
+초해상화,1
+Writing Development,1
+Medical AI,1
+Skin image,1
+Super resolution,1
+speed improvement,1
+machine translation,1
+속도 개선,1
+Panoptic segmentation,1
+Image classification,1
+Self-attention,1
+Window-attention,1
+Scene text recognition,1
+ultra wide band,1
+human pose estimation,1
+body segmentation,1
+초광대역 무선 신호,1
+사람의 자세 추정,1
+신체 세그멘테이션,1
+Self-supervised training,1
+Facial expression classification,1
+Inductive Bias,1
+Computer Vision,1
+Transformer Language Model,1
+Learners’ Writings,1
+Vision Transformer Network,1
+Important Frequency Detection,1
+추천시스템,1
+Time to Vector,1
+Tr a nsf o r ma bl e   Design,1
+Ur ban   Cycling  Wear,1
+Particle swarm optimization algorithm,1
+Improved mathematical model,1
+Recovery voltage method,1
+Oil-paper insulation,1
+Spatiotemporal transformer,1
+부가 정보,1
+Attention mechanism,1
+PM concentration prediction,1
+Time series data analysis,1
+타임투벡터 임베딩,1
+시공간 트랜스포머,1
+어텐션 기법,1
+Cycling  Shor ts,1
+Sports   Wear,1
+3D   Virtual   Fashion   Design,1
+어반    사이클링   웨어,1
+트랜스포머들    디자인,1
+사이클링   쇼츠,1
+스포츠웨어,1
+3D   가상의상   디자인,1
+Insulation health degree,1
+Multi-weight fusion,1
+Fuzzy evaluation,1
+Mineral oil,1
+Antioxidants,1
+Natural esters,1
+Biodegradability,1
+Transformer oil regeneration,1
+Polypropylene fiber membrane,1
+미세먼지 농도 예측,1
+시계열 데이터 분석,1
+biomedical information extraction,1
+Multi-horizon Forecasting,1
+보조 분류기,1
+Recommender Systems,1
+Side Information,1
+Auxiliary Classifier,1
+Wideband,1
+Wide Input Power Range,1
+Rectifier,1
+시계열 분석,1
+다변량 데이터 분석,1
+다층 수평 예측,1
+심층 학습,1
+깊은 인공신경망,1
+Time Series,1
+Multi-variate Data Analysis,1
+Neural Networks,1
+electronic medical record,1
+Cloud detection,1
+Sentinel-2,1
+Locomotion Task,1
+On-offline Training Data,1
+Hybrid Reinforcement Learning,1
+Policy Network,1
+Priority Sampling,1
+homography,1
+OCR,1
+preprocessing,1
+호모그래피 변환,1
+광학 문자 인식,1
+전처리,1
+medical data analysis,1
+Rogowski,1
+Internal defect,1
+Osamu Tezuka,1
+Unban railway vehicle,1
+제어기 설계,1
+DC-DC컨버터,1
+멀티레벨 컨버터,1
+도시철도차량,1
+Controller design,1
+Multilevel converter,1
+Unbalanced current,1
+Linguistic acceptability,1
+Transmission line,1
+Power source,1
+Load imbalance,1
+Classification,1
+Backbone,1
+Flip,1
+Propulsion system,1
+CLLC converter,1
+추진 시스템,1
+DC/DC 컨버터,1
+DAB 컨버터,1
+CLLC 컨버터,1
+VT,1
+Protective Relay,1
+OVGR,1
+Primary Neutral Point,1
+Ground Fault,1
+Zero Voltage,1
+Pre-train Language Model,1
+Abstractive text summarization,1
+사전훈련 언어모델,1
+문서 생성요약,1
+Visual surveillance,1
+Feature map,1
+Minimal pair,1
+Improvement of the switching ripple,1
+영어-독일어 기계번역,1
+텍스트 생성,1
+document summarization,1
+text generation,1
+이중 인코더,1
+사전학습 모델,1
+교차 언어,1
+기계번역 품질 예측,1
+Self Attention,1
+dual-encode,1
+pre-trained model,1
+cross-lingual,1
+english-german translation,1
+quality estimation,1
+Z-source AC-AC converter,1
+문서 요약,1
+Three-phase or single-phase load,1
+Unbalance,1
+Phase conversion for 3 phase to single,1
+Distribution board,1
+Single Phase Load,1
+contextualized representation,1
+NER,1
+Persian language processing,1
+knowledge-enhanced language model,1
+named entity recognition,1
+entity linking,1
+entity-aware self-attention,1
+지식 증강 언어 모델,1
+개체명 인식,1
+개체 연결,1
+entity-aware 셀프어텐션,1
+CT images,1
+spatial transformer layer,1
+content-based medical image retrieval,1
+연구동향,1
+Power electronic transformer,1
+Matrix generation modulation,1
+Negative sequence control,1
+DC-port failure,1
+Three-phase cascaded H-bridge rectifier,1
+빅데이터,1
+Bidirectional Encoder Representations from Transformers 모델,1
+Radar,1
+토픽모델링,1
+메타버스,1
+keypoint,1
+Consistency Loss,1
+Occluded Person Re-ID,1
+similarity measurement,1
+Automatic Writing Scoring,1
+Korean as a Foreign Language,1
+Gallium nitride-based transistor,1
+Integrated transformer,1
+LLC resonant DC-to-DC power converter,1
+PCB layout design,1
+Synchronous rectifier,1
+Thermal design,1
+操り人形,1
+からくり人形,1
+変身,1
+変身ロボット,1
+手塚治虫,1
+ayatsuri doll,1
+karakuri doll,1
+transformation,1
+Transformation robot,1
+sci-tech periodicals,1
+기계 번역,1
+hot keyword,1
+isolation,1
+MIMO,1
+Attention,1
+Image prediction,1
+Spatial transformer network,1
+Plant growth,1
+Shape domain,1
+루간다어,1
+신경 기계 번역,1
+하이퍼-파라미터,1
+luganda,1
+hyper-parameter,1
+수용성,1
+acceptability,1
+ground,1
+measurement,1
+Bidirectional encoder,1
+wireless power transfer (WPT),1
+Multi-objective optimization,1
+High-frequency transformer,1
+DAB (Dual-Active-Bridge) converter,1
+multiple sclerosis lesion,1
+brain MRI,1
+UNETR,1
+Contactless,1
+Loosely coupled transformer,1
+Micro-hole machining,1
+Rotating EDM,1
+Image Deblurring,1
+Distortion-guided Module,1
+Convolution Neural Network,1
+Three-winding high frequency transformer,1
+Inductor-Capacitor-Capacitor-Trans (LCCT) topology,1
+Distribution Transformer,1
+절연유,1
+potential transformer,1
+ABCD parameter,1
+S-parameter,1
+산화안정성,1
+열안정성,1
+생분해성 오일,1
+합성 에스테르,1
+Traction Motor,1
+식물성 오일,1
+Oxidation stability,1
+Thermal stability,1
+Biodegradable oil,1
+Synthetic ester,1
+Vegetable oil,1
+voltage gain,1
+transfer characteristics,1
+Induction generator,1
+Fault current limiting operations,1
+Three-phase transformer type superconducting fault current limiter (SFCL),1
+Double quench,1
+Three-phase ground fault types,1
+RDR,1
+CT,1
+Internal Failure,1
+PLC,1
+Power Transformer,1
+Cut-off time,1
+Short signal detection,1
+Resonant frequency,1
+Protection system,1
+VFT(Variable Frequency Transformer),1
+Small and Lightweight,1
+SRM,1
+Plant Village Dataset,1
+CoF(Consequence of Failure),1
+Wearout Failure,1
+Lifetime Distribution,1
+Reliability Estimation,1
+RBM(Risk Based Maintenance),1
+Health Index,1
+AMS(Asset Management System),1
+PoF(Probability of Failure),1
+Semiconductor Transformer,1
+Remaining Lifetime,1
+Statistical life expectancy,1
+Weibull analysis,1
+Pad mounted transformer,1
+GWR(Geographically Weighted Regression),1
+Lightning Strike,1
+Mixture Failure,1
+Change-Point Analysis,1
+Distributed generator,1
+Unbalanced system,1
+Zigzag transformer,1
+Gas insulated switchgears,1
+Rogowski current sensor,1
+Electronic current transformer,1
+가스절연개폐장치,1
+변류기,1
+로고우스키형 전류센서,1
+전자식 변류기,1
+Algorithm,1
+Fault,1
+Protective relay,1
+Ratio differential relay,1
+Railway Vehicle,1
+LFO(Low frequency Oscillation),1
+Grid-interConnection,1
+PSS(Power System Stabilizer),1
+Dynamically weighted loss,1
+앙상블,1
+자연어 처리,1
+psycholinguistics,1
+garden-path structure,1
+transformers,1
+targeted evaluation approach,1
+Domain adversarial training,1
+FLC(Frequency Limit Control),1
+Children’s speech recognition,1
+동적 가중 손실,1
+도메인 적대적 훈련,1
+어린이 음성인식,1
+Sweep frequency response analysis,1
+Parameter estimation,1
+트레이딩 알고리즘,1
+디리클레 분포,1
+ensemble,1
+trading algorithm,1
+Dirichlet distribution,1
+Computer vision,1
+Image dehazing,1
+Unet,1
+Group attention block,1
+Monte-Carlo simulation,1
+anomaly detection,1
+attention score,1
+data analytics,1
+Distribution Line,1
+Induction Generator,1
+Plant Disease Recognition,1
+Unsupervised Transfer Learning,1
+High-frequency model,1
+Simulator,1
+Electric Railway Feeding System,1
+브랜치라인 커플러,1
+FACTs(Flexible AC Transmission system),1
+DC grid,1
+LED TV SMPS,1
+Flyback Transformer,1
+Flat copper winding,1
+Injection type,1
+6-port phase correlator,1
+Phase correlator,1
+Coaxial impedance transformer,1
+Branchline coupler,1
+Wireline power divider,1
+6-단자 위상 상관기,1
+위상 상관기,1
+동축선 임피던스 변환기,1
+Wireline 전력 분배기,1
+Load Unbalance,1
+Electrostaitc filter,1
+Insulating oil,1
+Ion injection,1
+Microparticle,1
+Particle removal,1
+Math Word Problems,1
+Generation Model,1
+Pointer Network,1
+Classification Difficulty,1
+생성 모델,1
+트렌스포머,1
+포인터 네트워크,1
+분류 난도,1
+Scott transformer,1
+Welding Defect,1

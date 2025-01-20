@@ -1,0 +1,633 @@
+keyword,count
+BERT,69
+딥러닝,18
+Deep Learning,14
+자연어처리,9
+Natural Language Processing,8
+자연어 처리,8
+AI,7
+natural language processing,6
+Transformer,6
+트랜스포머,6
+LSTM,5
+NLP,5
+KoBERT,5
+ChatGPT,5
+인공지능,5
+Sentiment Analysis,4
+transformer,4
+감성분석,3
+텍스트마이닝,3
+추천시스템,3
+Text mining,3
+BERT Model,3
+GPT,3
+버트,3
+language model,3
+사전학습 언어 모델,3
+Topic Modeling,3
+Text Mining,3
+sentiment analysis,3
+언어모델,3
+Text classification,2
+노이즈 리뷰 필터링,2
+Noise review filtering,2
+contrastive learning,2
+automated essay scoring,2
+sampling,2
+.,2
+Sentiment analysis,2
+pre-trained language model,2
+end-to-end,2
+machine learning,2
+Data Augmentation,2
+Can-Do Statements,2
+감정분석,2
+사전학습 언어모델,2
+정치 성향,2
+multi-task loss function,2
+UNSW-NB15,2
+데이터 증강,2
+Sense Label,2
+Pre-trained Language Model,2
+언어 모델,2
+감성 분석,2
+Chatbot,2
+텍스트 분류,2
+Language Model,2
+GPT-2,2
+GDPR,2
+XLM-RoBERTa,2
+토픽 모델링,2
+BERTopic,2
+UWordMap,2
+DeepLearning,2
+FinBERT,2
+챗지피티,2
+Artificial Intelligence,2
+대화형 인공지능,2
+이육사,2
+Document Classification,2
+Sparse Data,2
+Clustering,2
+Machine Learning,2
+Word Sense Disambiguation,2
+희소 데이터,2
+군집화,2
+의미 레이블,2
+단어 의미 모호성 해소,2
+Deep learning,2
+P-tuning,2
+GeoKBQA,2
+deep learning,2
+Natural language processing,2
+ELECTRA,2
+coreference resolution,2
+상호참조해결,2
+conversational AI,1
+초거대 언어모델,1
+챗봇,1
+definite NP,1
+Microvascular Doppler ultrasound,1
+Yi Yuksa,1
+Focal liver lesion,1
+Diagnostic sign,1
+chatbots,1
+Bert,1
+Tau phosphorylation,1
+neural machine translations,1
+donkey sentence,1
+discourse anaphora,1
+Focal nodular hyperplasia,1
+Neuronal cells,1
+인공신경망 기계번역,1
+Temperature,1
+당나귀 구문,1
+한정명사구,1
+담화 조응사,1
+dataset analysis,1
+fake news classification,1
+C57BL6 mice,1
+performance comparison,1
+어휘의미망,1
+감성 표현 영역 추출,1
+Anesthesia,1
+lexical semantic network,1
+super large language model,1
+다이얼로그,1
+대화형추천시스템,1
+Alzheimer’s disease,1
+User analysis,1
+비정형데이터,1
+공사일지,1
+Metric learning,1
+Triplet loss,1
+사용자 분석,1
+메트릭 학습,1
+삼중항 손실,1
+조형언어,1
+디자인 시나리오,1
+감정사전,1
+Quantification,1
+Schedule delay risk,1
+Unstructured data,1
+Construction log,1
+Legal Tech,1
+Legal AI Service,1
+Legal Mind,1
+Large Language Model,1
+리걸테크,1
+법률 인공지능 서비스,1
+리걸 마인드,1
+Formative Language,1
+Design Scenario,1
+대규모 언어모델,1
+Emotion Dictionary,1
+dialogue,1
+conversational recommender systems,1
+recommender systems,1
+extraction of sentimental expression,1
+텍스트 마이닝,1
+소셜 네트워크 분석,1
+오프사이트 튜닝,1
+Bert model,1
+Expert knowledge,1
+Audit opinion on financial statements,1
+Panel Error Correction Model,1
+Sentiment,1
+eWOM,1
+Movie,1
+Text Classification,1
+Offsite-Tuning,1
+Fine-Tuning,1
+Language Model Privacy,1
+Causality,1
+EPC 프로젝트,1
+미세 조정,1
+LightGBM model,1
+언어모델 프라이버시,1
+ITB 문서,1
+Requirement specification,1
+Requirement diagram,1
+Korean document,1
+EPC Projects,1
+ITB Documents,1
+멘션 탐지(Mention Detection),1
+개체 링킹,1
+KBQA 시스템,1
+질의응답QA 시스템,1
+Mention Detection(MD),1
+Entity Linking,1
+data imbalance,1
+fraud financial data,1
+후견 제도,1
+Multi modality,1
+정량화,1
+법률,1
+고령자,1
+Social Network Analysis,1
+Dataset,1
+Guardianship System,1
+Legislation,1
+Elderly,1
+Diagnostic process,1
+키워드 네트워크,1
+개인정보보호,1
+Keyword Network,1
+Personal Information Protection,1
+CNN,1
+Artifitial Intelligence,1
+VAD,1
+emotional recognition,1
+multimodal,1
+KCNA,1
+Heatmap,1
+Provocation,1
+North Korea,1
+감정 분류,1
+감정 분석,1
+문학,1
+Emotion Classification,1
+Emotion Analysis,1
+Literature,1
+공기지연 리스크,1
+의존 구문 분석,1
+말뭉치,1
+Data Analysis,1
+데이터구축,1
+Social Problem-Solving Research,1
+Natural Language Process,1
+Data Building,1
+Curation system · Deep learning · Gene–phenotype relationship · Neurodegenerative disorders,1
+Wireless Optical Communication,1
+Pre-Trained Language Model,1
+Document Embedding,1
+Keyword Embedding,1
+Digital Humanities,1
+Data Visualization,1
+FSO,1
+Data Statistics,1
+Database Performance,1
+디지털 인문학,1
+Shimchung-jeon,1
+서사 구조,1
+전체,1
+부분,1
+PAT,1
+감정,1
+데이터,1
+심청전,1
+판소리,1
+행정형법,1
+digital humanity,1
+행정범,1
+narrative structure,1
+whole,1
+emotion part,1
+문서 분류,1
+단어 임베딩,1
+문서 임베딩,1
+사전학습언어모델,1
+Human Computer Interaction,1
+컴퓨터언어학,1
+corpus,1
+dependency parsing,1
+Computational Linguistics,1
+Packet Payload,1
+IDS,1
+Mood Chart,1
+패킷 페이로드,1
+침입탐지시스템,1
+artificial intelligence,1
+Dataset Constriction,1
+Mood Detection,1
+Geographical Questions Answering,1
+Knowledge-base,1
+데이터셋 구축,1
+의미분석,1
+공간관련 지식베이스 질의응답시스템,1
+Risk Level Assessment,1
+Image Captioning,1
+Intelligent Surveillance Systems,1
+Text-mining,1
+YouTube comments,1
+Character design,1
+Virtual influencer (VI),1
+유튜브 댓글,1
+캐릭터 디자인,1
+사회문제 해결 연구,1
+버추얼 인플루언서,1
+data,1
+Pansori,1
+대체어,1
+인공지능 창작물,1
+기업부도 예측,1
+BART,1
+Fahrlässige Straftat,1
+ALBERT,1
+Long Short-Term Memory,1
+Doppelte Strafbarkeit,1
+bankruptcy Prediction,1
+Einen Bescheid ausstellen,1
+Bidirectional and Auto-Regressive Transformers,1
+A Lite BERT,1
+AI creation,1
+Yi Yuk-sa,1
+Sign Language Production,1
+Interactive artificial intelligence,1
+멀티모달,1
+patent domain,1
+텍스트 분석,1
+예측모델,1
+크라우드 펀딩,1
+Multimodal,1
+Text Analysis,1
+Predictive Model,1
+Crowdfunding,1
+GSG,1
+Neural Machine Translation,1
+Abstract Summary,1
+추상 요약,1
+alternative word,1
+lexical substitution,1
+Korean Corpus,1
+Engagement,1
+HR Analytics,1
+Sentence-BERT,1
+Online Review,1
+neural search,1
+특허 도메인,1
+신경망 검색,1
+text similarity,1
+BERT model,1
+형법총칙,1
+classification,1
+insult case,1
+언더샘플링,1
+과실범,1
+불균형 데이터,1
+요구사항 분류,1
+Undersampling,1
+양벌규정,1
+Imbalanced Data,1
+Requirements Classification,1
+통고처분,1
+Verwaltungsstrafrecht,1
+Verwaltungsübertretung,1
+Business Model Canvas,1
+Business Model,1
+Allgemeines Strafrecht,1
+패턴 인식,1
+로그 분석,1
+GROK,1
+KBQA System,1
+Pattern Recognition,1
+Log Analysis,1
+Survey,1
+대체어 추출,1
+법률 인공지능,1
+Question-answering(QA) Systems,1
+원거리 감독,1
+예문,1
+자동분류,1
+스팬 표현,1
+span representation,1
+지식 그래프,1
+관계 추출,1
+Knowledge Graph,1
+automatic classification,1
+Relation Extraction,1
+Distant Supervision,1
+주거환경,1
+주거환경 만족 영향요인,1
+아파트 리뷰,1
+빅데이터,1
+유럽언어공통기준(CEFR),1
+example sentences,1
+Determining Factors of Residential Environment Satisfaction,1
+BERT compression,1
+차별,1
+comments,1
+ethics,1
+discrimination,1
+political orientation,1
+deep-learning,1
+task-specific pruning,1
+CEFR,1
+structured pruning,1
+head pruning,1
+BERT 압축,1
+과제별 프루닝,1
+구조화된 프루닝,1
+헤드 프루닝,1
+Residential Environment,1
+Apartment Reviews,1
+군사 언어(Military Corpus),1
+Supervised machine learning,1
+BERT 딥러닝,1
+그랜저 인과관계,1
+BERT Embedding Model,1
+Gender Bias,1
+Hate Speech Detection,1
+Logistics Ensemble,1
+GRU,1
+경제 저널리즘,1
+B2B Matching,1
+Recommender Systems,1
+K-Startups,1
+Emerging topics,1
+Convergences,1
+Shortest path,1
+기업 보도,1
+Granger Causality,1
+Big Data,1
+xAI,1
+도메인 특화 언어모델,1
+domain-specific language model,1
+attention map,1
+Psycholinguistics,1
+Transformers,1
+garden-path structure,1
+DNN language models,1
+BERT Deep-Learning,1
+Masked Language Model,1
+cue-combinatoric scheme,1
+attraction effects,1
+Economic Journalism,1
+Corporate News,1
+Political Orientation,1
+장애인,1
+비윤리성,1
+뉴스 댓글,1
+COVID-19,1
+BERT 모형,1
+주제명 자동 부여,1
+자동 주제 분류,1
+Automatic Classification,1
+Automated Subject Indexing,1
+Automated Subject Classification,1
+Multilingual,1
+outlier dimensions,1
+News classification,1
+AI military staff,1
+multi classification,1
+future warfare,1
+인공지능 참모,1
+다중분류,1
+자동 분류,1
+clustering,1
+SBERT,1
+Case Similarity,1
+노동법 판례,1
+법률 데이터셋,1
+판례 유사도,1
+Legal Technology,1
+Labor Legal Precedents,1
+Legal Datasets,1
+딥 러닝,1
+anisotropy,1
+Named entity recognition,1
+Transfer learning,1
+Financial dataset,1
+아니소트로피,1
+클러스터링,1
+특이 차원,1
+미래전,1
+personalized recommendation,1
+review-based recommendation,1
+Investment,1
+과신,1
+투자,1
+성과,1
+머신러닝,1
+Managerial Optimism,1
+Overconfidence,1
+Performance,1
+recommendation system,1
+Document similarity,1
+Recommendation system,1
+Research papers,1
+SBERT(Sentence Bidirectional Encoder Representations from Transformers),1
+문서유사도,1
+논문,1
+경영자의 낙관성,1
+Data verification,1
+Semantic similarity,1
+Text similarity,1
+R&D data,1
+Asset Allocation Strategy,1
+Black-Litterman Model,1
+News Article,1
+자산 배분 전략,1
+블랙-리터만 모형,1
+뉴스 기사,1
+Source code generation,1
+Spring MVC pattern,1
+e-government Framework,1
+CodeBERT,1
+리뷰 기반 추천,1
+개인화 추천,1
+자연어처리(Natural Language Processing),1
+사전학습 언어모델(Pre-trained language model),1
+domain adaptation,1
+Trading Intensity,1
+다국어 BERT,1
+트랜스포머 인코더,1
+Online New Sentiment,1
+Pre-Trained Model,1
+KOPSI,1
+Net Buying Amount by Investor Type,1
+온라인 뉴스,1
+natural language process,1
+온라인 뉴스 감성,1
+사전학습 모델,1
+KOSPI,1
+투자자별 순매수 대금,1
+거래강도,1
+suicide notes,1
+transformer  encoder,1
+multilingual BERT,1
+IQR,1
+Medical Justice,1
+Biomedicine,1
+키워드 추출,1
+생의학,1
+Dental Overtreatment,1
+Big Data Analysis,1
+Network Analysis,1
+대조적 표상 사전훈련,1
+ubiquitous computing,1
+대조 손실,1
+BERT-base,1
+Contrastive Representation Pre-training,1
+Contrastive Loss,1
+Clinical BERT,1
+metaverse,1
+probability of positive sentiment,1
+recommender system,1
+문장 분류(Sentence Classification),1
+디지털포렌식,1
+Underreaction,1
+자사주매입,1
+저평가 가설,1
+경영자 과신,1
+과소반응,1
+SNS 데이터,1
+프로파일링,1
+Undervaluation hypothesis,1
+도메인 적응,1
+nlp,1
+sns data,1
+digital forensic,1
+profiling,1
+bert,1
+Managerial Overconfidence,1
+Stock Repurchase,1
+collaborative filtering,1
+Intrusion Detection,1
+matrix factorization,1
+sentence-bert,1
+Book Scan,1
+OCR,1
+Book Damage Levels,1
+Book Recovery,1
+MQTT,1
+자동 측정,1
+IoT,1
+LDA,1
+LightGBM,1
+Syntactic Complexity,1
+Automatic Assessment,1
+통사적 복잡도,1
+Keyword Extraction,1
+하이퍼파라미터 미세 조정,1
+금융 분야 감성 분석,1
+Politician,1
+Named Entity Recognition,1
+정치인,1
+바른 언어,1
+상임위원회,1
+회의록,1
+품위어,1
+Proper Language,1
+Non-Spatial data,1
+Standing Committee,1
+Speech,1
+Minutes,1
+Social review,1
+Group learning,1
+소셜 리뷰,1
+Spatial Information,1
+개체명 인식,1
+Fine-Tuning hyperparameters,1
+미세조정,1
+심층 학습(Deep Learning),1
+Social big data,1
+Supervised learning,1
+소셜 빅데이터,1
+지도 학습,1
+사전 학습된 버트,1
+전이학습,1
+공간정보,1
+한글 문장 감정분류,1
+pre-trained BERT,1
+fine-tuning,1
+transfer learning,1
+Korean text sentiment classification,1
+비공간 데이터,1
+그룹 학습,1
+Word2vec,1
+Public opinion analysis,1
+public opinion,1
+기계학습,1
+문서판별,1
+8-K양식,1
+비밀처리,1
+여론,1
+연구방법,1
+research methods,1
+Sentiment classification,1
+Recommendation Platform,1
+DNN,1
+RNN,1
+GRU4Rec BERT4Rec,1
+GPT4Rec,1
+Financial Sentiment Analysis,1
+Confidential Treatment,1
+Form 8-K,1
+정보추출,1
+구성요건,1
+범죄사실,1
+Information Extraction.,1
+Key Information,1
+Crime Facts,1
+챗GPT,1
+함축,1
+가추적 추론,1
+항진적 표현,1
+Chat-GPT,1
+artificial intelligene,1
+implicature,1
+abductive reasoning,1
+tautological expression,1
+PLM,1
